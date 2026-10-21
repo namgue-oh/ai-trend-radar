@@ -129,9 +129,7 @@
   ],
   "rss": {
     "GeekNews": "https://news.hada.io/rss/news",
-    "Google Workspace Updates": "https://workspaceupdates.googleblog.com/feeds/posts/default",
-    "Gemini CLI releases": "https://github.com/google-gemini/gemini-cli/releases.atom",
-    "Claude Code releases": "https://github.com/anthropics/claude-code/releases.atom"
+    "Google Workspace Updates": "https://workspaceupdates.googleblog.com/feeds/posts/default"
   },
   "alert": {
     "max_items": 5,
@@ -143,5 +141,9 @@
     "github_trending_week_stars": 500,
     "github_velocity_per_day": 50,
     "reddit_rss_top_rank": 3
-  }
+  },
+  "github_watch_noisy": [
+    "anthropics/claude-code",
+    "google-gemini/gemini-cli"
+  ]
 }

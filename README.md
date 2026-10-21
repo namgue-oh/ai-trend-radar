@@ -18,12 +18,12 @@ Claude·Gemini 스킬과 기능 변화를 매일 자동으로 수집합니다. �
 | Reddit: r/ClaudeAI, r/ClaudeCode, r/Anthropic, r/GeminiAI, r/Bard, r/notebooklm | 하루 상위 글의 점수, 댓글 수 | `reddit_score` 150. 점수를 못 읽고 RSS로만 받으면 하루 순위 3위 이내 |
 | GitHub Trending (일간·주간) | 오늘 또는 이번 주에 받은 Stars | 일간 150, 주간 500 |
 | GitHub 검색 (최근 7일 새 스킬 저장소) | 누적 Stars와 하루 증가 속도. 속도는 이틀째부터 계산 | 150 stars 또는 하루 +50 |
-| GitHub 워치리스트 릴리스 | 새 버전 | 릴리스가 나오면 알림 |
-| RSS: GeekNews, Google Workspace Updates, Gemini CLI·Claude Code 릴리스 | 공식 변경 | 관련 항목이면 알림 |
+| GitHub 워치리스트 릴리스 | 정식 새 버전 (nightly·preview·rc 제외) | 릴리스가 나오면 알림. Claude Code·Gemini CLI처럼 매일 나오는 저장소는 릴리스 노트에 업무 테마(PDF·덱·리서치·회의록)가 있을 때만 알림 |
+| RSS: GeekNews, Google Workspace Updates | 공식 변경 | 관련 항목이면 알림 |
 
 모든 출처에 공통 조건이 있습니다. Claude·Gemini 업무 관련도 2 이상인 항목만 알림 대상이 됩니다. 커뮤니티 글은 Claude·Gemini 언급이 있어야 합니다.
 
-**Reddit 주의:** 2025년 11월부터 공식 API는 사전 승인제로 바뀌었고, 개인 용도로는 승인을 받기 어렵습니다. 그래서 로그인 없는 공개 `.json`을 쓰고, 막히면 RSS로 넘어갑니다. 클라우드 서버 IP는 막힐 때가 많고, 그 경우 '실패'로 기록됩니다. 첫 실행 기록에서 실제로 되는지 확인합니다.
+**Reddit 주의:** 2026-10-21 첫 실행 결과, GitHub Actions에서 공개 `.json`은 6곳 모두 403으로 막혔습니다. RSS는 r/ClaudeAI와 r/notebooklm 두 곳에서만 받아져서 점수 없이 순위만 씁니다. 2025년 11월부터 공식 API는 사전 승인제로 바뀌었고, 개인 용도로는 승인을 받기 어렵습니다. 그래서 로그인 없는 공개 `.json`을 쓰고, 막히면 RSS로 넘어갑니다. 클라우드 서버 IP는 막힐 때가 많고, 그 경우 '실패'로 기록됩니다. 첫 실행 기록에서 실제로 되는지 확인합니다.
 
 X와 Threads는 수집하지 않습니다. 궁금한 게시물이 있으면 대화창에 직접 공유해 주세요.
 

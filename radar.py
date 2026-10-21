@@ -187,10 +187,14 @@ def github_watch():
             stars[repo] = meta.get("stargazers_count")
             for rel in fetch_json(f"https://api.github.com/repos/{repo}/releases?per_page=5", gh_headers()):
                 t = parse_time(rel.get("published_at"))
+                tag = rel.get("tag_name") or ""
+                if rel.get("prerelease") or rel.get("draft") or re.search(r"nightly|preview|alpha|beta|rc", tag, re.I):
+                    continue  # 시험판은 제외
                 if t and t >= SINCE:
                     it = item("GitHub 릴리스", f"{repo} {rel.get('tag_name')}", rel.get("html_url"), t, "stars", stars[repo], rel.get("body", "")[:800])
                     it["relevance"] = max(it["relevance"], CFG["alert"]["min_relevance"])  # 워치리스트는 관련 항목으로 간주
                     it["watch"] = True
+                    it["noisy"] = repo in CFG.get("github_watch_noisy", [])
                     out.append(it)
             log(f"GitHub워치:{repo}", True)
         except Exception as e:
@@ -229,6 +233,8 @@ def is_hot(it):
     if it["relevance"] < a["min_relevance"]:
         return False
     if it.get("watch"):
+        if it.get("noisy"):  # 릴리스가 잦은 저장소는 업무 테마가 본문에 있을 때만
+            return any(t not in ("workflow", "token_cost") for t in it["themes"])
         return True
     if not it.get("platform") and not it["source"].startswith("GitHub"):
         return False  # 커뮤니티 글은 Claude·Gemini 언급이 있어야 알림
