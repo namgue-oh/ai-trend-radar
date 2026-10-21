@@ -1,0 +1,23 @@
+🔎 AI 트렌드 레이더 2026-10-21 — 관심 5건
+
+• [GitHub 신규] alextnetto/res
+  stars 151 · 공통: 토큰·비용 절감, 공통: 스킬·자동화
+  https://github.com/alextnetto/res
+
+• [Reddit r/notebooklm] How to shape your slides and videos with Gemini Notebook
+  오늘 순위 3위(점수 미확인) · ② 보고 덱·문서 작성
+  https://www.reddit.com/r/notebooklm/comments/1xasw0p/how_to_shape_your_slides_and_videos_with_gemini/
+
+• [GitHub 릴리스] anthropics/claude-code v2.1.306
+  stars 152713 · 공통: 스킬·자동화
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.306
+
+• [GitHub 릴리스] anthropics/claude-code v2.1.305
+  stars 152713 · -
+  https://github.com/anthropics/claude-code/releases/tag/v2.1.305
+
+• [GitHub 릴리스] google-gemini/gemini-cli v0.67.0-nightly.20261021.gd00859d6b
+  stars 107480 · 공통: 스킬·자동화
+  https://github.com/google-gemini/gemini-cli/releases/tag/v0.67.0-nightly.20261021.gd00859d6b
+
+조회 실패 4곳: Reddit:ClaudeCode, Reddit:Anthropic, Reddit:GeminiAI, Reddit:Bard
