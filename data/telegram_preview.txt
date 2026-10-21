@@ -1,23 +1,11 @@
-🔎 AI 트렌드 레이더 2026-10-21 — 관심 5건
+🔎 AI 트렌드 레이더 2026-10-21 — 관심 2건
 
 • [GitHub 신규] alextnetto/res
-  stars 151 · 공통: 토큰·비용 절감, 공통: 스킬·자동화
+  stars 159 · 공통: 토큰·비용 절감, 공통: 스킬·자동화
   https://github.com/alextnetto/res
 
 • [GitHub 릴리스] docling-project/docling v2.141.0
-  stars 69238 · ① PDF·표 추출 → Raw data
+  stars 69260 · ① PDF·표 추출 → Raw data
   https://github.com/docling-project/docling/releases/tag/v2.141.0
-
-• [GitHub 트렌딩] debpalash/VoiceStudio
-  stars 이번 주 17057 · ④ 회의록·전사
-  https://github.com/debpalash/VoiceStudio
-
-• [GitHub 트렌딩] K-Dense-AI/scientific-agent-skills
-  stars 이번 주 4549 · 공통: 스킬·자동화
-  https://github.com/K-Dense-AI/scientific-agent-skills
-
-• [GitHub 트렌딩] mksglu/context-mode
-  stars 이번 주 3556 · 공통: 토큰·비용 절감, 공통: 스킬·자동화
-  https://github.com/mksglu/context-mode
 
 조회 실패 5곳: Reddit:ClaudeCode, Reddit:Anthropic, Reddit:GeminiAI, Reddit:Bard, Reddit:notebooklm

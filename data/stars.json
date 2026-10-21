@@ -1,20 +1,56 @@
 {
- "pathrule/gemini-cli-extension": {
+ "apache/echarts": {
+  "2026-10-21": 67568
+ },
+ "MK27MK/uxed": {
+  "2026-10-21": 73
+ },
+ "lukasz-slusarski/letterhead": {
+  "2026-10-21": 1
+ },
+ "google-gemini/gemini-cli": {
+  "2026-10-21": 107484
+ },
+ "scribemail/gemini-cli-extension": {
   "2026-10-21": 0
  },
- "npruxjco/presentation-builder-skill": {
+ "luciagaliana/ppt-template-2-skill": {
+  "2026-10-21": 1
+ },
+ "newcoolstudioteam/followincome-gemini-extension": {
+  "2026-10-21": 0
+ },
+ "bogsdav/csv-wrangling": {
+  "2026-10-21": 0
+ },
+ "gaur-avvv/HyperPlasma-Skills": {
+  "2026-10-21": 9
+ },
+ "Idriss-Mokdadi/pro-pptx-studio": {
+  "2026-10-21": 0
+ },
+ "Rennancr/transferegov-extrator": {
+  "2026-10-21": 1
+ },
+ "ssomamarcobrejjc-coder/SKILL-CLAUDE-LECTOR-DE-REGISTROS": {
+  "2026-10-21": 0
+ },
+ "Valentin06-lab/Anki-flashcard-skill": {
+  "2026-10-21": 4
+ },
+ "mrscraper-com/mrscraper-gemini-cli-extension": {
+  "2026-10-21": 0
+ },
+ "lastdatabaseph/lastdatabase-gemini": {
   "2026-10-21": 0
  },
  "pymupdf/pymupdf4llm": {
-  "2026-10-21": 2273
+  "2026-10-21": 2275
  },
- "BartekSzyma/skill-docx-pptx-xlsx": {
-  "2026-10-21": 0
+ "lovisdotio/motion2code": {
+  "2026-10-21": 134
  },
  "cizzoo/pdf-highlighter-skill": {
-  "2026-10-21": 0
- },
- "pexon-consulting/excel-skills": {
   "2026-10-21": 0
  },
  "OmxKamesh/excel-reconcile-tool": {
@@ -23,247 +59,232 @@
  "skillsaas/index": {
   "2026-10-21": 0
  },
- "Fangx-AI/geo-doctor": {
-  "2026-10-21": 130
- },
- "Kimeur/duology": {
-  "2026-10-21": 10
- },
- "anthropics/claude-code": {
-  "2026-10-21": 152714
- },
- "lovisdotio/motion2code": {
-  "2026-10-21": 104
- },
- "ShadowSwaps/REA-Reconstruction-Companion": {
-  "2026-10-21": 95
- },
- "nrupala/verdict-gemini-extension": {
-  "2026-10-21": 0
- },
- "sreevathson1530/sih-pitch-deck-skill": {
-  "2026-10-21": 0
- },
- "opendatalab/MinerU": {
-  "2026-10-21": 82178
- },
- "chatdaeri/html2pptx": {
-  "2026-10-21": 0
- },
- "danilkotelnikov/Molecullage": {
-  "2026-10-21": 3
- },
- "EuronSSR-01/SSR-PPT-SKILL-1.5": {
-  "2026-10-21": 1
- },
- "microsoft/playwright": {
-  "2026-10-21": 98193
- },
- "zeroa234/game-asset-aesthetic-test": {
-  "2026-10-21": 19
- },
- "nrupala/letsaskit-gemini-extension": {
-  "2026-10-21": 0
- },
- "CaoYongshengcys/image2pptx-artifact": {
-  "2026-10-21": 0
- },
- "hamzaabduljabbar/autoConst-cutsheet-to-family": {
-  "2026-10-21": 6
- },
- "newcoolstudioteam/followincome-gemini-extension": {
-  "2026-10-21": 0
- },
  "xzy647/ppt-speech-script": {
   "2026-10-21": 1
- },
- "Jakeschincariol/trader-skill": {
-  "2026-10-21": 223
- },
- "OmxKamesh/claude-code-skills": {
-  "2026-10-21": 0
- },
- "SherifMoShalaby/PullDay": {
-  "2026-10-21": 2
- },
- "mrscraper-com/mrscraper-gemini-cli-extension": {
-  "2026-10-21": 0
- },
- "Idriss-Mokdadi/pro-pptx-studio": {
-  "2026-10-21": 0
- },
- "aipiratesMunich/open-strategy-firm": {
-  "2026-10-21": 3
- },
- "EL4CTEO/blender-skills": {
-  "2026-10-21": 329
- },
- "microsoft/markitdown": {
-  "2026-10-21": 191378
- },
- "argyelan-ai/jet-reports-skill": {
-  "2026-10-21": 1
- },
- "hassan-algo/open-sesame": {
-  "2026-10-21": 1
- },
- "morluto/generate-social-preview": {
-  "2026-10-21": 38
- },
- "docling-project/docling": {
-  "2026-10-21": 69238
- },
- "datalab-to/marker": {
-  "2026-10-21": 40569
- },
- "flyhust/malaysia-bank-statement-to-excel": {
-  "2026-10-21": 0
- },
- "CaoYongshengcys/ai-pptx-generator": {
-  "2026-10-21": 0
- },
- "MK27MK/uxed": {
-  "2026-10-21": 73
- },
- "Luk4sy/hkustgz-course-pre": {
-  "2026-10-21": 2
- },
- "google-gemini/gemini-cli": {
-  "2026-10-21": 107480
- },
- "xrnavigation/pdf-tagger-skill": {
-  "2026-10-21": 0
- },
- "apache/echarts": {
-  "2026-10-21": 67561
- },
- "mathruffian-dot/soil-motion-deck": {
-  "2026-10-21": 15
- },
- "nitrosend/gemini": {
-  "2026-10-21": 1
- },
- "christos-antono/NPCTalk": {
-  "2026-10-21": 186
- },
- "ssomamarcobrejjc-coder/SKILL-CLAUDE-LECTOR-DE-REGISTROS": {
-  "2026-10-21": 0
- },
- "kasi-x/pi-pptx": {
-  "2026-10-21": 0
- },
- "Hainrixz/matriz-viralidad": {
-  "2026-10-21": 10
- },
- "EricJujianZou/rederive": {
-  "2026-10-21": 9
- },
- "WhisperShang/arabic-pdf-toolkit": {
-  "2026-10-21": 0
- },
- "chrisrenzm/patent-drawer": {
-  "2026-10-21": 0
- },
- "pablopbl/deck-vivo": {
-  "2026-10-21": 0
- },
- "posteverywhere/gemini-cli-extension": {
-  "2026-10-21": 0
- },
- "WPConstructor/gemini-cli-beep": {
-  "2026-10-21": 0
- },
- "Jakeschincariol/day-trader-skill": {
-  "2026-10-21": 78
- },
- "SangTDH-HT/Office_Design_Toolkit": {
-  "2026-10-21": 0
- },
- "better-isms/grcskills": {
-  "2026-10-21": 47
- },
- "ou0826/goodnotes-attachment-extractor": {
-  "2026-10-21": 2
- },
- "alchaincyf/huashu-motion": {
-  "2026-10-21": 1205
- },
- "shadowtor/BrandDesign": {
-  "2026-10-21": 1
- },
- "vinchy1/recherche-regles-jeu": {
-  "2026-10-21": 1
- },
- "anthropics/skills": {
-  "2026-10-21": 182594
- },
- "every-app/video-skills": {
-  "2026-10-21": 15
- },
- "Valentin06-lab/Anki-flashcard-skill": {
-  "2026-10-21": 4
- },
- "Enika2003/Weekly_Trading_Report_Skill": {
-  "2026-10-21": 0
- },
- "Rennancr/transferegov-extrator": {
-  "2026-10-21": 1
- },
- "eyaman191/mckinsey-deck-style": {
-  "2026-10-21": 1
- },
- "bradleyfowler123/gemini-extension": {
-  "2026-10-21": 0
- },
- "gaur-avvv/HyperPlasma-Skills": {
-  "2026-10-21": 9
- },
- "lastdatabaseph/lastdatabase-gemini": {
-  "2026-10-21": 0
- },
- "tg1121/job-application-skill": {
-  "2026-10-21": 0
  },
  "DeepAleph/jevreel": {
   "2026-10-21": 39
  },
- "dexra-dev/gemini-cli-extension": {
+ "EricJujianZou/rederive": {
+  "2026-10-21": 19
+ },
+ "nitrosend/gemini": {
+  "2026-10-21": 2
+ },
+ "kasi-x/pi-pptx": {
   "2026-10-21": 0
  },
- "bogsdav/csv-wrangling": {
-  "2026-10-21": 0
- },
- "Jakeschincariol/hunter-skill": {
-  "2026-10-21": 24
- },
- "abdiraimov-otabek/dashboard-design-skill": {
-  "2026-10-21": 89
- },
- "Vinciux99/pdfcraft-claude-skill": {
-  "2026-10-21": 0
- },
- "alextnetto/res": {
-  "2026-10-21": 151
- },
- "scribemail/gemini-cli-extension": {
+ "BartekSzyma/skill-docx-pptx-xlsx": {
   "2026-10-21": 0
  },
  "chenle023/document-SKILLs": {
   "2026-10-21": 0
  },
+ "docling-project/docling": {
+  "2026-10-21": 69260
+ },
+ "EL4CTEO/blender-skills": {
+  "2026-10-21": 334
+ },
+ "luffy2095/tailor-made-resumes": {
+  "2026-10-21": 1
+ },
+ "nrupala/letsaskit-gemini-extension": {
+  "2026-10-21": 0
+ },
+ "christos-antono/NPCTalk": {
+  "2026-10-21": 189
+ },
+ "zeroa234/game-asset-aesthetic-test": {
+  "2026-10-21": 19
+ },
+ "chrisrenzm/patent-drawer": {
+  "2026-10-21": 0
+ },
+ "dexra-dev/gemini-cli-extension": {
+  "2026-10-21": 0
+ },
+ "morluto/generate-social-preview": {
+  "2026-10-21": 38
+ },
+ "Jakeschincariol/day-trader-skill": {
+  "2026-10-21": 102
+ },
+ "alexpiar/be-ambitious-harness": {
+  "2026-10-21": 21
+ },
+ "chatdaeri/html2pptx": {
+  "2026-10-21": 0
+ },
+ "mcprush/mcprush-gemini-extension": {
+  "2026-10-21": 1
+ },
+ "Hainrixz/matriz-viralidad": {
+  "2026-10-21": 10
+ },
+ "eyaman191/mckinsey-deck-style": {
+  "2026-10-21": 1
+ },
+ "Jakeschincariol/trader-skill": {
+  "2026-10-21": 259
+ },
+ "mathruffian-dot/soil-motion-deck": {
+  "2026-10-21": 16
+ },
+ "Fangx-AI/geo-doctor": {
+  "2026-10-21": 156
+ },
+ "Enika2003/Weekly_Trading_Report_Skill": {
+  "2026-10-21": 0
+ },
+ "npruxjco/presentation-builder-skill": {
+  "2026-10-21": 0
+ },
+ "HackBepa/claude-skills-hub": {
+  "2026-10-21": 2
+ },
+ "every-app/video-skills": {
+  "2026-10-21": 15
+ },
+ "alextnetto/res": {
+  "2026-10-21": 159
+ },
+ "danilkotelnikov/Molecullage": {
+  "2026-10-21": 3
+ },
+ "argyelan-ai/jet-reports-skill": {
+  "2026-10-21": 1
+ },
+ "opendatalab/MinerU": {
+  "2026-10-21": 82207
+ },
+ "ou0826/goodnotes-attachment-extractor": {
+  "2026-10-21": 3
+ },
+ "Jakeschincariol/hunter-skill": {
+  "2026-10-21": 25
+ },
+ "better-isms/grcskills": {
+  "2026-10-21": 48
+ },
+ "ShadowSwaps/REA-Reconstruction-Companion": {
+  "2026-10-21": 98
+ },
+ "datalab-to/marker": {
+  "2026-10-21": 40576
+ },
+ "bradleyfowler123/gemini-extension": {
+  "2026-10-21": 0
+ },
  "apenasdouglas/ai-motion-library": {
   "2026-10-21": 73
  },
- "LiMinxi-dot/teach-skill": {
+ "SangTDH-HT/Office_Design_Toolkit": {
   "2026-10-21": 0
  },
- "lukasz-slusarski/letterhead": {
+ "hamzaabduljabbar/autoConst-cutsheet-to-family": {
+  "2026-10-21": 6
+ },
+ "kukemc/bili-cli": {
+  "2026-10-21": 44
+ },
+ "anthropics/skills": {
+  "2026-10-21": 182655
+ },
+ "abdiraimov-otabek/dashboard-design-skill": {
+  "2026-10-21": 93
+ },
+ "lautarobermudez/bank-statement-consolidation": {
+  "2026-10-21": 0
+ },
+ "nrupala/verdict-gemini-extension": {
+  "2026-10-21": 0
+ },
+ "microsoft/playwright": {
+  "2026-10-21": 98215
+ },
+ "WhisperShang/arabic-pdf-toolkit": {
+  "2026-10-21": 0
+ },
+ "pathrule/gemini-cli-extension": {
+  "2026-10-21": 0
+ },
+ "SherifMoShalaby/PullDay": {
+  "2026-10-21": 2
+ },
+ "sreevathson1530/sih-pitch-deck-skill": {
+  "2026-10-21": 0
+ },
+ "CaoYongshengcys/image2pptx-artifact": {
+  "2026-10-21": 0
+ },
+ "hassan-algo/open-sesame": {
+  "2026-10-21": 2
+ },
+ "pablopbl/deck-vivo": {
+  "2026-10-21": 0
+ },
+ "EuronSSR-01/SSR-PPT-SKILL-1.5": {
+  "2026-10-21": 1
+ },
+ "vinchy1/recherche-regles-jeu": {
   "2026-10-21": 1
  },
  "jubyuhanna-create/arabic-ready": {
   "2026-10-21": 12
  },
- "HackBepa/claude-skills-hub": {
+ "shadowtor/BrandDesign": {
+  "2026-10-21": 1
+ },
+ "anthropics/claude-code": {
+  "2026-10-21": 152691
+ },
+ "pexon-consulting/excel-skills": {
+  "2026-10-21": 0
+ },
+ "flyhust/malaysia-bank-statement-to-excel": {
+  "2026-10-21": 0
+ },
+ "LiMinxi-dot/teach-skill": {
+  "2026-10-21": 0
+ },
+ "Luk4sy/hkustgz-course-pre": {
   "2026-10-21": 2
+ },
+ "Kimeur/duology": {
+  "2026-10-21": 10
+ },
+ "CaoYongshengcys/ai-pptx-generator": {
+  "2026-10-21": 0
+ },
+ "WPConstructor/gemini-cli-beep": {
+  "2026-10-21": 0
+ },
+ "tg1121/job-application-skill": {
+  "2026-10-21": 0
+ },
+ "posteverywhere/gemini-cli-extension": {
+  "2026-10-21": 0
+ },
+ "aipiratesMunich/open-strategy-firm": {
+  "2026-10-21": 3
+ },
+ "microsoft/markitdown": {
+  "2026-10-21": 191432
+ },
+ "OmxKamesh/claude-code-skills": {
+  "2026-10-21": 0
+ },
+ "adityareddy-dev/deskstudio": {
+  "2026-10-21": 41
+ },
+ "alchaincyf/huashu-motion": {
+  "2026-10-21": 1241
+ },
+ "Vinciux99/pdfcraft-claude-skill": {
+  "2026-10-21": 0
+ },
+ "xrnavigation/pdf-tagger-skill": {
+  "2026-10-21": 0
  }
 }
