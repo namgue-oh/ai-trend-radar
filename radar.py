@@ -236,7 +236,7 @@ def is_hot(it):
         if it.get("noisy"):  # 릴리스가 잦은 저장소는 업무 테마가 본문에 있을 때만
             return any(t not in ("workflow", "token_cost") for t in it["themes"])
         return True
-    if not it.get("platform") and not it["source"].startswith("GitHub"):
+    if not it.get("platform") and it["source"] != "GitHub 신규":
         return False  # 커뮤니티 글은 Claude·Gemini 언급이 있어야 알림
     if it.get("score_unknown"):
         return it.get("rank", 99) <= a["reddit_rss_top_rank"]
