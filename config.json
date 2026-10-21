@@ -1,0 +1,147 @@
+{
+  "_note": "AI 트렌드 레이더 설정. 키워드·테마는 남규님 업무 기준. 수정은 이 파일만 하면 된다.",
+  "lookback_hours": 30,
+  "themes": {
+    "pdf_data": {
+      "label": "① PDF·표 추출 → Raw data",
+      "keywords": [
+        "pdf",
+        "table extraction",
+        "ocr",
+        "docling",
+        "markitdown",
+        "pymupdf",
+        "mineru",
+        "document parsing",
+        "excel",
+        "xlsx",
+        "spreadsheet",
+        "csv"
+      ]
+    },
+    "deck_report": {
+      "label": "② 보고 덱·문서 작성",
+      "keywords": [
+        "pptx",
+        "slides",
+        "deck",
+        "powerpoint",
+        "presentation",
+        "docx",
+        "report generation"
+      ]
+    },
+    "research_verify": {
+      "label": "③ 리서치·출처 검증",
+      "keywords": [
+        "deep research",
+        "citation",
+        "fact-check",
+        "fact check",
+        "grounding",
+        "source verification",
+        "web research",
+        "market research"
+      ]
+    },
+    "minutes": {
+      "label": "④ 회의록·전사",
+      "keywords": [
+        "transcript",
+        "transcription",
+        "meeting notes",
+        "meeting minutes",
+        "speech-to-text"
+      ]
+    },
+    "token_cost": {
+      "label": "공통: 토큰·비용 절감",
+      "keywords": [
+        "token usage",
+        "tokens",
+        "context window",
+        "save tokens",
+        "prompt caching",
+        "context compression"
+      ]
+    },
+    "workflow": {
+      "label": "공통: 스킬·자동화",
+      "keywords": [
+        "skill",
+        "skills",
+        "skill.md",
+        "agent skills",
+        "plugin",
+        "mcp",
+        "subagent",
+        "scheduled"
+      ]
+    }
+  },
+  "platform_keywords": [
+    "claude",
+    "anthropic",
+    "gemini",
+    "notebooklm",
+    "gemini notebook",
+    "gemini cli",
+    "agent skills",
+    "skill.md"
+  ],
+  "hn_queries": [
+    "claude skill",
+    "agent skills",
+    "claude code",
+    "gemini cli",
+    "gemini notebook",
+    "notebooklm",
+    "anthropic",
+    "pdf extraction llm"
+  ],
+  "reddit_subs": [
+    "ClaudeAI",
+    "ClaudeCode",
+    "Anthropic",
+    "GeminiAI",
+    "Bard",
+    "notebooklm"
+  ],
+  "github_search": [
+    "topic:agent-skills",
+    "topic:claude-skills",
+    "skill claude pdf",
+    "skill claude excel",
+    "skill claude pptx",
+    "gemini-cli extension"
+  ],
+  "github_watch": [
+    "anthropics/skills",
+    "anthropics/claude-code",
+    "google-gemini/gemini-cli",
+    "docling-project/docling",
+    "microsoft/markitdown",
+    "pymupdf/pymupdf4llm",
+    "opendatalab/MinerU",
+    "datalab-to/marker",
+    "microsoft/playwright",
+    "apache/echarts"
+  ],
+  "rss": {
+    "GeekNews": "https://news.hada.io/rss/news",
+    "Google Workspace Updates": "https://workspaceupdates.googleblog.com/feeds/posts/default",
+    "Gemini CLI releases": "https://github.com/google-gemini/gemini-cli/releases.atom",
+    "Claude Code releases": "https://github.com/anthropics/claude-code/releases.atom"
+  },
+  "alert": {
+    "max_items": 5,
+    "hn_points": 50,
+    "reddit_score": 150,
+    "github_new_repo_stars": 150,
+    "min_relevance": 2,
+    "github_trending_stars": 150,
+    "github_trending_week_stars": 500,
+    "github_velocity_per_day": 50,
+    "reddit_rss_top_rank": 3
+  }
+}
