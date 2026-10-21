@@ -1,6 +1,6 @@
 {
- "run_at": "2026-10-21T17:43:34.312996+09:00",
- "window_start": "2026-10-20T11:43:34.312996+09:00",
+ "run_at": "2026-10-21T17:45:28.498604+09:00",
+ "window_start": "2026-10-20T11:45:28.498604+09:00",
  "status": [
   {
    "source": "HN:claude skill",
@@ -69,8 +69,8 @@
   },
   {
    "source": "Reddit:notebooklm",
-   "ok": true,
-   "note": "rss"
+   "ok": false,
+   "note": "https://www.reddit.com: <HTTPError 403: 'Blocked'> https://old.reddit.com: <HTTPError 403: 'Blocked'> | rss <HTTPError 429: 'Too Many Requests'>"
   },
   {
    "source": "GitHub트렌딩:daily",
@@ -171,24 +171,14 @@
    "source": "RSS:Google Workspace Updates",
    "ok": true,
    "note": ""
-  },
-  {
-   "source": "RSS:Gemini CLI releases",
-   "ok": true,
-   "note": ""
-  },
-  {
-   "source": "RSS:Claude Code releases",
-   "ok": true,
-   "note": ""
   }
  ],
  "alerted": [
   "GitHub 신규:https://github.com/alextnetto/res",
-  "Reddit r/notebooklm:https://www.reddit.com/r/notebooklm/comments/1xasw0p/how_to_shape_your_slides_and_videos_with_gemini/",
-  "GitHub 릴리스:https://github.com/anthropics/claude-code/releases/tag/v2.1.306",
-  "GitHub 릴리스:https://github.com/anthropics/claude-code/releases/tag/v2.1.305",
-  "GitHub 릴리스:https://github.com/google-gemini/gemini-cli/releases/tag/v0.67.0-nightly.20261021.gd00859d6b"
+  "GitHub 릴리스:https://github.com/docling-project/docling/releases/tag/v2.141.0",
+  "GitHub 트렌딩:https://github.com/debpalash/VoiceStudio",
+  "GitHub 트렌딩:https://github.com/K-Dense-AI/scientific-agent-skills",
+  "GitHub 트렌딩:https://github.com/mksglu/context-mode"
  ],
  "items": [
   {
@@ -829,51 +819,20 @@
    "platform": true
   },
   {
-   "id": "Reddit r/notebooklm:https://www.reddit.com/r/notebooklm/comments/1xay1l3/a_notebooklm_citation_reached_the_right_article/",
-   "source": "Reddit r/notebooklm",
-   "title": "A NotebookLM citation reached the right article, but a sentence changed the sequence",
-   "url": "https://www.reddit.com/r/notebooklm/comments/1xay1l3/a_notebooklm_citation_reached_the_right_article/",
-   "created": "2026-10-20T17:14:09+00:00",
-   "metric_name": "rank",
-   "metric": 6,
-   "relevance": 3,
-   "themes": [
-    "research_verify"
-   ],
-   "platform": true,
-   "rank": 6,
-   "score_unknown": true
-  },
-  {
-   "id": "Reddit r/notebooklm:https://www.reddit.com/r/notebooklm/comments/1xasw0p/how_to_shape_your_slides_and_videos_with_gemini/",
-   "source": "Reddit r/notebooklm",
-   "title": "How to shape your slides and videos with Gemini Notebook",
-   "url": "https://www.reddit.com/r/notebooklm/comments/1xasw0p/how_to_shape_your_slides_and_videos_with_gemini/",
-   "created": "2026-10-20T13:58:59+00:00",
-   "metric_name": "rank",
-   "metric": 3,
-   "relevance": 3,
-   "themes": [
-    "deck_report"
-   ],
-   "platform": true,
-   "rank": 3,
-   "score_unknown": true
-  },
-  {
    "id": "GitHub 릴리스:https://github.com/anthropics/claude-code/releases/tag/v2.1.306",
    "source": "GitHub 릴리스",
    "title": "anthropics/claude-code v2.1.306",
    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.306",
    "created": "2026-10-21T03:16:31+00:00",
    "metric_name": "stars",
-   "metric": 152713,
+   "metric": 152714,
    "relevance": 2,
    "themes": [
     "workflow"
    ],
    "platform": true,
-   "watch": true
+   "watch": true,
+   "noisy": true
   },
   {
    "id": "GitHub 릴리스:https://github.com/anthropics/claude-code/releases/tag/v2.1.305",
@@ -882,39 +841,12 @@
    "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.305",
    "created": "2026-10-20T20:46:50+00:00",
    "metric_name": "stars",
-   "metric": 152713,
+   "metric": 152714,
    "relevance": 2,
    "themes": [],
    "platform": true,
-   "watch": true
-  },
-  {
-   "id": "GitHub 릴리스:https://github.com/google-gemini/gemini-cli/releases/tag/v0.67.0-nightly.20261021.gd00859d6b",
-   "source": "GitHub 릴리스",
-   "title": "google-gemini/gemini-cli v0.67.0-nightly.20261021.gd00859d6b",
-   "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.67.0-nightly.20261021.gd00859d6b",
-   "created": "2026-10-21T01:33:29+00:00",
-   "metric_name": "stars",
-   "metric": 107480,
-   "relevance": 2,
-   "themes": [
-    "workflow"
-   ],
-   "platform": true,
-   "watch": true
-  },
-  {
-   "id": "GitHub 릴리스:https://github.com/google-gemini/gemini-cli/releases/tag/v0.66.0-preview.0",
-   "source": "GitHub 릴리스",
-   "title": "google-gemini/gemini-cli v0.66.0-preview.0",
-   "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.66.0-preview.0",
-   "created": "2026-10-20T21:04:34+00:00",
-   "metric_name": "stars",
-   "metric": 107480,
-   "relevance": 2,
-   "themes": [],
-   "platform": true,
-   "watch": true
+   "watch": true,
+   "noisy": true
   },
   {
    "id": "GitHub 릴리스:https://github.com/google-gemini/gemini-cli/releases/tag/v0.65.0",
@@ -927,7 +859,8 @@
    "relevance": 2,
    "themes": [],
    "platform": true,
-   "watch": true
+   "watch": true,
+   "noisy": true
   },
   {
    "id": "GitHub 릴리스:https://github.com/docling-project/docling/releases/tag/v2.141.0",
@@ -942,14 +875,15 @@
     "pdf_data"
    ],
    "platform": false,
-   "watch": true
+   "watch": true,
+   "noisy": false
   },
   {
    "id": "GitHub 트렌딩:https://github.com/debpalash/VoiceStudio",
    "source": "GitHub 트렌딩",
    "title": "debpalash/VoiceStudio",
    "url": "https://github.com/debpalash/VoiceStudio",
-   "created": "2026-10-21T08:43:34.312996+00:00",
+   "created": "2026-10-21T08:45:28.498604+00:00",
    "metric_name": "stars 이번 주",
    "metric": 17057,
    "relevance": 2,
@@ -964,7 +898,7 @@
    "source": "GitHub 트렌딩",
    "title": "K-Dense-AI/scientific-agent-skills",
    "url": "https://github.com/K-Dense-AI/scientific-agent-skills",
-   "created": "2026-10-21T08:43:34.312996+00:00",
+   "created": "2026-10-21T08:45:28.498604+00:00",
    "metric_name": "stars 이번 주",
    "metric": 4549,
    "relevance": 2,
@@ -979,7 +913,7 @@
    "source": "GitHub 트렌딩",
    "title": "mksglu/context-mode",
    "url": "https://github.com/mksglu/context-mode",
-   "created": "2026-10-21T08:43:34.312996+00:00",
+   "created": "2026-10-21T08:45:28.498604+00:00",
    "metric_name": "stars 이번 주",
    "metric": 3556,
    "relevance": 2,
@@ -1009,7 +943,7 @@
    "source": "GitHub 트렌딩",
    "title": "Graphify-Labs/graphify",
    "url": "https://github.com/Graphify-Labs/graphify",
-   "created": "2026-10-21T08:43:34.312996+00:00",
+   "created": "2026-10-21T08:45:28.498604+00:00",
    "metric_name": "stars 오늘",
    "metric": 802,
    "relevance": 2,
@@ -1024,7 +958,7 @@
    "source": "GitHub 트렌딩",
    "title": "wshobson/agents",
    "url": "https://github.com/wshobson/agents",
-   "created": "2026-10-21T08:43:34.312996+00:00",
+   "created": "2026-10-21T08:45:28.498604+00:00",
    "metric_name": "stars 이번 주",
    "metric": 665,
    "relevance": 2,
@@ -1039,7 +973,7 @@
    "source": "GitHub 트렌딩",
    "title": "headroomlabs-ai/headroom",
    "url": "https://github.com/headroomlabs-ai/headroom",
-   "created": "2026-10-21T08:43:34.312996+00:00",
+   "created": "2026-10-21T08:45:28.498604+00:00",
    "metric_name": "stars 오늘",
    "metric": 549,
    "relevance": 2,
@@ -1071,7 +1005,7 @@
    "url": "https://github.com/Jakeschincariol/trader-skill",
    "created": "2026-10-14T21:12:28+00:00",
    "metric_name": "stars",
-   "metric": 222,
+   "metric": 223,
    "relevance": 2,
    "themes": [
     "workflow"
@@ -1605,7 +1539,7 @@
    "source": "GitHub 트렌딩",
    "title": "MadsLorentzen/ai-job-search",
    "url": "https://github.com/MadsLorentzen/ai-job-search",
-   "created": "2026-10-21T08:43:34.312996+00:00",
+   "created": "2026-10-21T08:45:28.498604+00:00",
    "metric_name": "stars 이번 주",
    "metric": 12848,
    "relevance": 1,
@@ -1618,7 +1552,7 @@
    "source": "GitHub 트렌딩",
    "title": "anthropics/claude-plugins-official",
    "url": "https://github.com/anthropics/claude-plugins-official",
-   "created": "2026-10-21T08:43:34.312996+00:00",
+   "created": "2026-10-21T08:45:28.498604+00:00",
    "metric_name": "stars 이번 주",
    "metric": 5650,
    "relevance": 1,
@@ -1631,7 +1565,7 @@
    "source": "GitHub 트렌딩",
    "title": "cathrynlavery/diagram-design",
    "url": "https://github.com/cathrynlavery/diagram-design",
-   "created": "2026-10-21T08:43:34.312996+00:00",
+   "created": "2026-10-21T08:45:28.498604+00:00",
    "metric_name": "stars 이번 주",
    "metric": 5473,
    "relevance": 1,
@@ -1644,7 +1578,7 @@
    "source": "GitHub 트렌딩",
    "title": "ruvnet/ruflo",
    "url": "https://github.com/ruvnet/ruflo",
-   "created": "2026-10-21T08:43:34.312996+00:00",
+   "created": "2026-10-21T08:45:28.498604+00:00",
    "metric_name": "stars 이번 주",
    "metric": 3143,
    "relevance": 1,
@@ -1657,7 +1591,7 @@
    "source": "GitHub 트렌딩",
    "title": "cursor/plugins",
    "url": "https://github.com/cursor/plugins",
-   "created": "2026-10-21T08:43:34.312996+00:00",
+   "created": "2026-10-21T08:45:28.498604+00:00",
    "metric_name": "stars 이번 주",
    "metric": 2040,
    "relevance": 1,
@@ -1672,7 +1606,7 @@
    "source": "GitHub 트렌딩",
    "title": "cloudflare/security-audit-skill",
    "url": "https://github.com/cloudflare/security-audit-skill",
-   "created": "2026-10-21T08:43:34.312996+00:00",
+   "created": "2026-10-21T08:45:28.498604+00:00",
    "metric_name": "stars 오늘",
    "metric": 1712,
    "relevance": 1,
@@ -1687,7 +1621,7 @@
    "source": "GitHub 트렌딩",
    "title": "stablyai/orca",
    "url": "https://github.com/stablyai/orca",
-   "created": "2026-10-21T08:43:34.312996+00:00",
+   "created": "2026-10-21T08:45:28.498604+00:00",
    "metric_name": "stars 오늘",
    "metric": 1565,
    "relevance": 1,
@@ -1700,7 +1634,7 @@
    "source": "GitHub 트렌딩",
    "title": "android/skills",
    "url": "https://github.com/android/skills",
-   "created": "2026-10-21T08:43:34.312996+00:00",
+   "created": "2026-10-21T08:45:28.498604+00:00",
    "metric_name": "stars 이번 주",
    "metric": 1255,
    "relevance": 1,
@@ -1715,7 +1649,7 @@
    "source": "GitHub 트렌딩",
    "title": "anthropics/knowledge-work-plugins",
    "url": "https://github.com/anthropics/knowledge-work-plugins",
-   "created": "2026-10-21T08:43:34.312996+00:00",
+   "created": "2026-10-21T08:45:28.498604+00:00",
    "metric_name": "stars 오늘",
    "metric": 267,
    "relevance": 1,
@@ -1735,7 +1669,7 @@
    "themes": [],
    "platform": true,
    "discussion": "https://news.ycombinator.com/item?id=50171966",
-   "comments": 66
+   "comments": 67
   },
   {
    "id": "GitHub 신규:https://github.com/reacher-z/Awesome-REA",
@@ -1800,7 +1734,7 @@
    "url": "https://www.anthropic.com/research/attack-surface-reduction",
    "created": "2026-10-21T03:36:43+00:00",
    "metric_name": "points",
-   "metric": 30,
+   "metric": 31,
    "relevance": 1,
    "themes": [],
    "platform": true,
@@ -2074,20 +2008,6 @@
    "score_unknown": true
   },
   {
-   "id": "Reddit r/notebooklm:https://www.reddit.com/r/notebooklm/comments/1xb3gwf/notebooklms_generate_later_button_errors_out_when/",
-   "source": "Reddit r/notebooklm",
-   "title": "NotebookLM's \"Generate Later\" button errors out when my usage limit is full, even with an empty queue. Is this intended?",
-   "url": "https://www.reddit.com/r/notebooklm/comments/1xb3gwf/notebooklms_generate_later_button_errors_out_when/",
-   "created": "2026-10-20T20:36:51+00:00",
-   "metric_name": "rank",
-   "metric": 5,
-   "relevance": 1,
-   "themes": [],
-   "platform": true,
-   "rank": 5,
-   "score_unknown": true
-  },
-  {
    "id": "HN:https://www.youtube.com/watch?v=6OnuO6Y5OQY",
    "source": "HN",
    "title": "Anthropic S1 Shows $80B Loss This Year, WSJ Reports",
@@ -2228,20 +2148,6 @@
    "platform": true,
    "discussion": "https://news.ycombinator.com/item?id=50177291",
    "comments": 1
-  },
-  {
-   "id": "Reddit r/notebooklm:https://www.reddit.com/r/notebooklm/comments/1xawcyh/i_found_a_solution_to_error_uploading_source_on/",
-   "source": "Reddit r/notebooklm",
-   "title": "I found a solution to \"error uploading source\" on NotebookLM.",
-   "url": "https://www.reddit.com/r/notebooklm/comments/1xawcyh/i_found_a_solution_to_error_uploading_source_on/",
-   "created": "2026-10-20T16:11:44+00:00",
-   "metric_name": "rank",
-   "metric": 2,
-   "relevance": 1,
-   "themes": [],
-   "platform": true,
-   "rank": 2,
-   "score_unknown": true
   },
   {
    "id": "HN:https://pagecritic.app/",
@@ -2447,20 +2353,6 @@
    "title": "You thought that Anthropic was the only frontier profitable AI company? Think again",
    "url": "https://www.reddit.com/r/ClaudeAI/comments/1xb4uak/you_thought_that_anthropic_was_the_only_frontier/",
    "created": "2026-10-20T21:32:01+00:00",
-   "metric_name": "rank",
-   "metric": 1,
-   "relevance": 1,
-   "themes": [],
-   "platform": true,
-   "rank": 1,
-   "score_unknown": true
-  },
-  {
-   "id": "Reddit r/notebooklm:https://www.reddit.com/r/notebooklm/comments/1xb2tpt/opensource_notebooklm_that_edits_your_files/",
-   "source": "Reddit r/notebooklm",
-   "title": "Open-source NotebookLM that edits your files",
-   "url": "https://www.reddit.com/r/notebooklm/comments/1xb2tpt/opensource_notebooklm_that_edits_your_files/",
-   "created": "2026-10-20T20:11:40+00:00",
    "metric_name": "rank",
    "metric": 1,
    "relevance": 1,

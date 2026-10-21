@@ -4,20 +4,20 @@
   stars 151 · 공통: 토큰·비용 절감, 공통: 스킬·자동화
   https://github.com/alextnetto/res
 
-• [Reddit r/notebooklm] How to shape your slides and videos with Gemini Notebook
-  오늘 순위 3위(점수 미확인) · ② 보고 덱·문서 작성
-  https://www.reddit.com/r/notebooklm/comments/1xasw0p/how_to_shape_your_slides_and_videos_with_gemini/
+• [GitHub 릴리스] docling-project/docling v2.141.0
+  stars 69238 · ① PDF·표 추출 → Raw data
+  https://github.com/docling-project/docling/releases/tag/v2.141.0
 
-• [GitHub 릴리스] anthropics/claude-code v2.1.306
-  stars 152713 · 공통: 스킬·자동화
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.306
+• [GitHub 트렌딩] debpalash/VoiceStudio
+  stars 이번 주 17057 · ④ 회의록·전사
+  https://github.com/debpalash/VoiceStudio
 
-• [GitHub 릴리스] anthropics/claude-code v2.1.305
-  stars 152713 · -
-  https://github.com/anthropics/claude-code/releases/tag/v2.1.305
+• [GitHub 트렌딩] K-Dense-AI/scientific-agent-skills
+  stars 이번 주 4549 · 공통: 스킬·자동화
+  https://github.com/K-Dense-AI/scientific-agent-skills
 
-• [GitHub 릴리스] google-gemini/gemini-cli v0.67.0-nightly.20261021.gd00859d6b
-  stars 107480 · 공통: 스킬·자동화
-  https://github.com/google-gemini/gemini-cli/releases/tag/v0.67.0-nightly.20261021.gd00859d6b
+• [GitHub 트렌딩] mksglu/context-mode
+  stars 이번 주 3556 · 공통: 토큰·비용 절감, 공통: 스킬·자동화
+  https://github.com/mksglu/context-mode
 
-조회 실패 4곳: Reddit:ClaudeCode, Reddit:Anthropic, Reddit:GeminiAI, Reddit:Bard
+조회 실패 5곳: Reddit:ClaudeCode, Reddit:Anthropic, Reddit:GeminiAI, Reddit:Bard, Reddit:notebooklm
