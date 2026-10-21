@@ -236,6 +236,8 @@ def is_hot(it):
         if it.get("noisy"):  # 릴리스가 잦은 저장소는 업무 테마가 본문에 있을 때만
             return any(t not in ("workflow", "token_cost") for t in it["themes"])
         return True
+    if not any(t != "workflow" for t in it["themes"]):
+        return False  # '스킬'만 걸린 항목(영상·게임·투자 스킬 등)은 제외, 업무 테마나 토큰 절감이 있어야 함
     if not it.get("platform") and it["source"] != "GitHub 신규":
         return False  # 커뮤니티 글은 Claude·Gemini 언급이 있어야 알림
     if it.get("score_unknown"):
