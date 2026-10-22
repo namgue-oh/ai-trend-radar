@@ -1,11 +1,11 @@
-🔎 AI 트렌드 레이더 2026-10-21 — 관심 2건
+🔎 AI 트렌드 레이더 2026-10-22 — 관심 2건
 
-• [GitHub 신규] alextnetto/res
-  stars 159 · 공통: 토큰·비용 절감, 공통: 스킬·자동화
-  https://github.com/alextnetto/res
+• [GitHub 릴리스] microsoft/markitdown v0.1.9
+  stars 191483 · ① PDF·표 추출 → Raw data, ④ 회의록·전사
+  https://github.com/microsoft/markitdown/releases/tag/v0.1.9
 
-• [GitHub 릴리스] docling-project/docling v2.141.0
-  stars 69260 · ① PDF·표 추출 → Raw data
-  https://github.com/docling-project/docling/releases/tag/v2.141.0
+• [Google Workspace Updates] Gain more creative control over Slide Decks and Video Overviews in Gemini Notebook
+  공식 · ② 보고 덱·문서 작성
+  http://workspaceupdates.googleblog.com/feeds/5740632165063139187/comments/default
 
-조회 실패 5곳: Reddit:ClaudeCode, Reddit:Anthropic, Reddit:GeminiAI, Reddit:Bard, Reddit:notebooklm
+조회 실패 4곳: Reddit:ClaudeCode, Reddit:GeminiAI, Reddit:Bard, Reddit:notebooklm
