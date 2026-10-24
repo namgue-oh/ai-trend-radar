@@ -1,11 +1,11 @@
-🔎 AI 트렌드 레이더 2026-10-23 — 관심 2건
+🔎 AI 트렌드 레이더 2026-10-24 — 관심 2건
 
-• [Google Workspace Updates] Google Vault now supports filtered exports for Gemini in Workspace
-  공식 · ② 보고 덱·문서 작성
-  http://workspaceupdates.googleblog.com/feeds/4068256637268881053/comments/default
+• [GitHub 신규] appariciojunior/video-editor-skills
+  stars 170 · ④ 회의록·전사, 공통: 스킬·자동화
+  https://github.com/appariciojunior/video-editor-skills
 
-• [GitHub 릴리스] docling-project/docling v2.142.0
-  stars 69391 · ① PDF·표 추출 → Raw data
-  https://github.com/docling-project/docling/releases/tag/v2.142.0
+• [GitHub 릴리스] docling-project/docling v2.142.1
+  stars 69466 · ① PDF·표 추출 → Raw data, ② 보고 덱·문서 작성
+  https://github.com/docling-project/docling/releases/tag/v2.142.1
 
-조회 실패 4곳: Reddit:ClaudeCode, Reddit:GeminiAI, Reddit:Bard, Reddit:notebooklm
+조회 실패 5곳: Reddit:ClaudeCode, Reddit:Anthropic, Reddit:GeminiAI, Reddit:Bard, Reddit:notebooklm
