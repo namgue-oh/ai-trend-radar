@@ -1,90 +1,5 @@
 {
- "ethanplusai/astro-conversion-kit": {
-  "2026-10-24": 31
- },
- "microsoft/playwright": {
-  "2026-10-21": 98215,
-  "2026-10-22": 98235,
-  "2026-10-23": 98319,
-  "2026-10-24": 98383
- },
- "Saiphani29/claude--resume-taskkit": {
-  "2026-10-23": 1,
-  "2026-10-24": 1
- },
- "pablopbl/deck-vivo": {
-  "2026-10-21": 0,
-  "2026-10-22": 0,
-  "2026-10-23": 0,
-  "2026-10-24": 0
- },
- "aipiratesMunich/open-strategy-firm": {
-  "2026-10-21": 3
- },
- "Rennancr/transferegov-extrator": {
-  "2026-10-21": 1,
-  "2026-10-22": 1,
-  "2026-10-23": 1
- },
- "google-gemini/gemini-cli": {
-  "2026-10-21": 107484,
-  "2026-10-22": 107491,
-  "2026-10-23": 107525,
-  "2026-10-24": 107563
- },
- "argyelan-ai/jet-reports-skill": {
-  "2026-10-21": 1
- },
- "abduallahJamal/opencode-design-skills": {
-  "2026-10-24": 1
- },
- "slimsoftvietnam/agent-bao-cao-doanh-so": {
-  "2026-10-23": 0,
-  "2026-10-24": 0
- },
- "pathrule/gemini-cli-extension": {
-  "2026-10-21": 0,
-  "2026-10-22": 0,
-  "2026-10-23": 0,
-  "2026-10-24": 0
- },
- "alchaincyf/huashu-motion": {
-  "2026-10-21": 1241,
-  "2026-10-22": 1270,
-  "2026-10-23": 1437,
-  "2026-10-24": 1539
- },
- "ssomamarcobrejjc-coder/SKILL-CLAUDE-LECTOR-DE-REGISTROS": {
-  "2026-10-21": 0,
-  "2026-10-22": 0
- },
- "WhisperShang/arabic-pdf-toolkit": {
-  "2026-10-21": 0,
-  "2026-10-22": 0
- },
- "Leonxlnx/imagegen-skills": {
-  "2026-10-23": 28,
-  "2026-10-24": 30
- },
- "luciagaliana/ppt-template-2-skill": {
-  "2026-10-21": 1,
-  "2026-10-22": 1,
-  "2026-10-23": 1,
-  "2026-10-24": 1
- },
- "thetouchsite/quote-to-code": {
-  "2026-10-22": 1,
-  "2026-10-23": 1
- },
- "luffy2095/tailor-made-resumes": {
-  "2026-10-21": 1,
-  "2026-10-22": 1,
-  "2026-10-23": 1
- },
- "Vinciux99/pdfcraft-claude-skill": {
-  "2026-10-21": 0
- },
- "WPConstructor/gemini-cli-beep": {
+ "xrnavigation/pdf-tagger-skill": {
   "2026-10-21": 0
  },
  "Hainrixz/matriz-viralidad": {
@@ -92,250 +7,25 @@
   "2026-10-22": 10,
   "2026-10-23": 10
  },
- "ShadowSwaps/REA-Reconstruction-Companion": {
-  "2026-10-21": 98,
-  "2026-10-22": 103
- },
- "appariciojunior/video-editor-skills": {
-  "2026-10-24": 170
- },
- "pexon-consulting/excel-skills": {
+ "WhisperShang/arabic-pdf-toolkit": {
   "2026-10-21": 0,
   "2026-10-22": 0
  },
- "SherifMoShalaby/PullDay": {
-  "2026-10-21": 2,
-  "2026-10-22": 2,
-  "2026-10-23": 2
+ "doomsday-network/bounty-guard": {
+  "2026-10-25": 15
  },
- "opendatalab/MinerU": {
-  "2026-10-21": 82207,
-  "2026-10-22": 82221,
-  "2026-10-23": 82314,
-  "2026-10-24": 82377
- },
- "anthropics/skills": {
-  "2026-10-21": 182655,
-  "2026-10-22": 182766,
-  "2026-10-23": 183034,
-  "2026-10-24": 183296
- },
- "mathruffian-dot/soil-motion-deck": {
-  "2026-10-21": 16,
-  "2026-10-22": 16,
-  "2026-10-23": 17,
-  "2026-10-24": 19
- },
- "hamzaabduljabbar/autoConst-cutsheet-to-family": {
-  "2026-10-21": 6,
-  "2026-10-22": 6,
-  "2026-10-23": 6,
-  "2026-10-24": 6
- },
- "nrupala/letsaskit-gemini-extension": {
-  "2026-10-21": 0
- },
- "yzddmr6/android-mainline-port": {
-  "2026-10-23": 33,
-  "2026-10-24": 47
- },
- "kukemc/bili-cli": {
-  "2026-10-21": 44,
-  "2026-10-22": 48,
-  "2026-10-23": 68,
-  "2026-10-24": 82
- },
- "DeepAleph/jevreel": {
-  "2026-10-21": 39,
-  "2026-10-22": 43
- },
- "cizzoo/pdf-highlighter-skill": {
-  "2026-10-21": 0,
-  "2026-10-22": 0
- },
- "posteverywhere/gemini-cli-extension": {
-  "2026-10-21": 0
- },
- "OmxKamesh/excel-reconcile-tool": {
-  "2026-10-21": 0,
-  "2026-10-22": 0,
-  "2026-10-23": 0,
-  "2026-10-24": 0
- },
- "chatdaeri/html2pptx": {
-  "2026-10-21": 0,
-  "2026-10-22": 0,
-  "2026-10-23": 0,
-  "2026-10-24": 0
- },
- "bogsdav/csv-wrangling": {
-  "2026-10-21": 0,
-  "2026-10-22": 0,
-  "2026-10-23": 0,
-  "2026-10-24": 0
- },
- "flyhust/malaysia-bank-statement-to-excel": {
-  "2026-10-21": 0,
-  "2026-10-22": 0,
-  "2026-10-23": 0,
-  "2026-10-24": 0
- },
- "xrnavigation/pdf-tagger-skill": {
-  "2026-10-21": 0
- },
- "skillsaas/index": {
-  "2026-10-21": 0,
-  "2026-10-22": 0,
-  "2026-10-23": 0,
-  "2026-10-24": 0
- },
- "tokuhn/confidential-html-deck": {
-  "2026-10-23": 4,
-  "2026-10-24": 5
- },
- "EuronSSR-01/SSR-PPT-SKILL-1.5": {
-  "2026-10-21": 1,
-  "2026-10-22": 1
- },
- "Nero1688/academic-presentation-skill": {
-  "2026-10-24": 0
- },
- "lovisdotio/motion2code": {
-  "2026-10-21": 134,
-  "2026-10-22": 156,
-  "2026-10-23": 172,
-  "2026-10-24": 180
- },
- "Jakeschincariol/console-skill": {
-  "2026-10-23": 11,
-  "2026-10-24": 46
- },
- "precious112/code-slowmo": {
-  "2026-10-23": 13,
-  "2026-10-24": 18
- },
- "eyaman191/mckinsey-deck-style": {
-  "2026-10-21": 1,
-  "2026-10-22": 1,
-  "2026-10-23": 1
- },
- "OmxKamesh/claude-code-skills": {
-  "2026-10-21": 0,
-  "2026-10-22": 0,
-  "2026-10-23": 0,
-  "2026-10-24": 0
- },
- "lukasz-slusarski/letterhead": {
-  "2026-10-21": 1,
-  "2026-10-22": 1
- },
- "shadowtor/BrandDesign": {
-  "2026-10-21": 1,
-  "2026-10-22": 1
- },
- "nothinx/naskah-id": {
-  "2026-10-23": 77,
-  "2026-10-24": 81
- },
- "every-app/video-skills": {
-  "2026-10-21": 15,
-  "2026-10-22": 15
- },
- "gaur-avvv/HyperPlasma-Skills": {
-  "2026-10-21": 9,
-  "2026-10-22": 9
- },
- "Chen-Po/research-slides-skill": {
-  "2026-10-22": 0,
-  "2026-10-23": 0
- },
- "adityareddy-dev/deskstudio": {
-  "2026-10-21": 41,
-  "2026-10-22": 41,
-  "2026-10-23": 41,
-  "2026-10-24": 41
- },
- "alextnetto/res": {
-  "2026-10-21": 159,
-  "2026-10-22": 170
- },
- "CaoYongshengcys/image2pptx-artifact": {
-  "2026-10-21": 0
- },
- "Jakeschincariol/day-trader-skill": {
-  "2026-10-21": 102,
-  "2026-10-22": 235,
-  "2026-10-23": 513,
-  "2026-10-24": 854
- },
- "kasi-x/pi-pptx": {
-  "2026-10-21": 0,
-  "2026-10-22": 0
- },
- "docling-project/docling": {
-  "2026-10-21": 69260,
-  "2026-10-22": 69296,
-  "2026-10-23": 69391,
-  "2026-10-24": 69466
+ "argyelan-ai/jet-reports-skill": {
+  "2026-10-21": 1
  },
  "alexpiar/be-ambitious-harness": {
   "2026-10-21": 21,
   "2026-10-22": 22,
   "2026-10-23": 22,
-  "2026-10-24": 22
- },
- "NJ-Burrito/NJ-Kit": {
-  "2026-10-23": 1
- },
- "jubyuhanna-create/arabic-ready": {
-  "2026-10-21": 12,
-  "2026-10-22": 12,
-  "2026-10-23": 12,
-  "2026-10-24": 12
- },
- "lastdatabaseph/lastdatabase-gemini": {
-  "2026-10-21": 0,
-  "2026-10-22": 0,
-  "2026-10-23": 0
- },
- "hassan-algo/open-sesame": {
-  "2026-10-21": 2,
-  "2026-10-22": 16,
-  "2026-10-23": 57,
-  "2026-10-24": 83
+  "2026-10-24": 22,
+  "2026-10-25": 22
  },
  "chycycc/paper-deep-reader": {
   "2026-10-24": 1
- },
- "yulmucoffee/artiboard": {
-  "2026-10-24": 12
- },
- "EL4CTEO/blender-skills": {
-  "2026-10-21": 334
- },
- "microsoft/markitdown": {
-  "2026-10-21": 191432,
-  "2026-10-22": 191483,
-  "2026-10-23": 191664,
-  "2026-10-24": 191827
- },
- "LiMinxi-dot/teach-skill": {
-  "2026-10-21": 0
- },
- "better-isms/grcskills": {
-  "2026-10-21": 48,
-  "2026-10-22": 48,
-  "2026-10-23": 49,
-  "2026-10-24": 51
- },
- "TingYu1769/skills-zhouyi": {
-  "2026-10-23": 2,
-  "2026-10-24": 2
- },
- "mrscraper-com/mrscraper-gemini-cli-extension": {
-  "2026-10-21": 0,
-  "2026-10-22": 0,
-  "2026-10-23": 0
  },
  "vinchy1/recherche-regles-jeu": {
   "2026-10-21": 1,
@@ -343,81 +33,253 @@
   "2026-10-23": 1,
   "2026-10-24": 1
  },
- "Jakeschincariol/hunter-skill": {
-  "2026-10-21": 25,
-  "2026-10-22": 27
- },
- "GentleZeal/DirtyData-Killer": {
-  "2026-10-22": 0,
-  "2026-10-23": 0,
-  "2026-10-24": 0
- },
- "Melvynx/ai-maxxing-skills": {
-  "2026-10-23": 15,
-  "2026-10-24": 17
- },
- "christos-antono/NPCTalk": {
-  "2026-10-21": 189,
-  "2026-10-22": 190
- },
- "ry0narushima/bettersearch": {
-  "2026-10-22": 39,
-  "2026-10-23": 40,
-  "2026-10-24": 40
- },
- "npruxjco/presentation-builder-skill": {
-  "2026-10-21": 0,
-  "2026-10-22": 0,
-  "2026-10-23": 0,
-  "2026-10-24": 0
- },
- "sebmake/sebmake-keynote-likeapple-pls": {
-  "2026-10-23": 0,
-  "2026-10-24": 0
- },
- "xxxhhhccc458/course-helper": {
-  "2026-10-23": 10
- },
  "xzy647/ppt-speech-script": {
   "2026-10-21": 1,
   "2026-10-22": 1,
   "2026-10-23": 1,
   "2026-10-24": 1
  },
- "scribemail/gemini-cli-extension": {
+ "nrupala/verdict-gemini-extension": {
   "2026-10-21": 0,
   "2026-10-22": 0,
-  "2026-10-23": 0
- },
- "justme409/sic-civil-gemini-extension": {
-  "2026-10-23": 0,
   "2026-10-24": 0
  },
- "Luk4sy/hkustgz-course-pre": {
-  "2026-10-21": 2,
-  "2026-10-22": 2,
-  "2026-10-23": 2,
-  "2026-10-24": 2
+ "anthropics/skills": {
+  "2026-10-21": 182655,
+  "2026-10-22": 182766,
+  "2026-10-23": 183034,
+  "2026-10-24": 183296,
+  "2026-10-25": 183510
  },
- "rxrooster/rxrooster-gemini-extension": {
+ "cizzoo/pdf-highlighter-skill": {
+  "2026-10-21": 0,
   "2026-10-22": 0
+ },
+ "gokayfem/video-to-blender": {
+  "2026-10-23": 46,
+  "2026-10-24": 48,
+  "2026-10-25": 48
+ },
+ "appariciojunior/video-editor-skills": {
+  "2026-10-24": 170,
+  "2026-10-25": 244
+ },
+ "dexra-dev/gemini-cli-extension": {
+  "2026-10-21": 0,
+  "2026-10-22": 0,
+  "2026-10-23": 0,
+  "2026-10-24": 0,
+  "2026-10-25": 0
+ },
+ "WPConstructor/gemini-cli-beep": {
+  "2026-10-21": 0
+ },
+ "flyhust/malaysia-bank-statement-to-excel": {
+  "2026-10-21": 0,
+  "2026-10-22": 0,
+  "2026-10-23": 0,
+  "2026-10-24": 0,
+  "2026-10-25": 0
+ },
+ "MK27MK/uxed": {
+  "2026-10-21": 73,
+  "2026-10-22": 73
+ },
+ "abduallahJamal/opencode-design-skills": {
+  "2026-10-24": 1,
+  "2026-10-25": 1
+ },
+ "TemporaryLooker22/Stud-UI-Clean-Roblox": {
+  "2026-10-22": 10,
+  "2026-10-23": 11,
+  "2026-10-24": 13,
+  "2026-10-25": 14
+ },
+ "nothinx/naskah-id": {
+  "2026-10-23": 77,
+  "2026-10-24": 81,
+  "2026-10-25": 82
+ },
+ "datalab-to/marker": {
+  "2026-10-21": 40576,
+  "2026-10-22": 40578,
+  "2026-10-23": 40594,
+  "2026-10-24": 40611,
+  "2026-10-25": 40624
+ },
+ "Enika2003/Weekly_Trading_Report_Skill": {
+  "2026-10-21": 0,
+  "2026-10-22": 0,
+  "2026-10-23": 0,
+  "2026-10-24": 0,
+  "2026-10-25": 0
+ },
+ "DanielJorba/smart-view-skill": {
+  "2026-10-24": 1,
+  "2026-10-25": 1
+ },
+ "ethanplusai/astro-conversion-kit": {
+  "2026-10-24": 31,
+  "2026-10-25": 60
+ },
+ "Rennancr/transferegov-extrator": {
+  "2026-10-21": 1,
+  "2026-10-22": 1,
+  "2026-10-23": 1
+ },
+ "pathrule/gemini-cli-extension": {
+  "2026-10-21": 0,
+  "2026-10-22": 0,
+  "2026-10-23": 0,
+  "2026-10-24": 0,
+  "2026-10-25": 0
+ },
+ "Jakeschincariol/hunter-skill": {
+  "2026-10-21": 25,
+  "2026-10-22": 27
+ },
+ "christos-antono/NPCTalk": {
+  "2026-10-21": 189,
+  "2026-10-22": 190
+ },
+ "arkanaaasido/rise-style-emodule": {
+  "2026-10-25": 1
+ },
+ "jubyuhanna-create/arabic-ready": {
+  "2026-10-21": 12,
+  "2026-10-22": 12,
+  "2026-10-23": 12,
+  "2026-10-24": 12,
+  "2026-10-25": 12
+ },
+ "docling-project/docling": {
+  "2026-10-21": 69260,
+  "2026-10-22": 69296,
+  "2026-10-23": 69391,
+  "2026-10-24": 69466,
+  "2026-10-25": 69521
+ },
+ "ssomamarcobrejjc-coder/SKILL-CLAUDE-LECTOR-DE-REGISTROS": {
+  "2026-10-21": 0,
+  "2026-10-22": 0
+ },
+ "sebmake/sebmake-keynote-likeapple-pls": {
+  "2026-10-23": 0,
+  "2026-10-24": 0,
+  "2026-10-25": 0
+ },
+ "every-app/video-skills": {
+  "2026-10-21": 15,
+  "2026-10-22": 15
+ },
+ "thetouchsite/quote-to-code": {
+  "2026-10-22": 1,
+  "2026-10-23": 1
+ },
+ "apenasdouglas/ai-motion-library": {
+  "2026-10-21": 73
+ },
+ "TingYu1769/skills-zhouyi": {
+  "2026-10-23": 2,
+  "2026-10-24": 2,
+  "2026-10-25": 2
  },
  "JasonGDG/anrufliste": {
   "2026-10-23": 0,
+  "2026-10-24": 0,
+  "2026-10-25": 0
+ },
+ "microsoft/markitdown": {
+  "2026-10-21": 191432,
+  "2026-10-22": 191483,
+  "2026-10-23": 191664,
+  "2026-10-24": 191827,
+  "2026-10-25": 191975
+ },
+ "EuronSSR-01/SSR-PPT-SKILL-1.5": {
+  "2026-10-21": 1,
+  "2026-10-22": 1
+ },
+ "zhuyansen/awesome-claude-seo-skills": {
+  "2026-10-22": 9
+ },
+ "bogsdav/csv-wrangling": {
+  "2026-10-21": 0,
+  "2026-10-22": 0,
+  "2026-10-23": 0,
   "2026-10-24": 0
  },
- "mcprush/mcprush-gemini-extension": {
-  "2026-10-21": 1,
-  "2026-10-22": 1,
-  "2026-10-23": 1,
-  "2026-10-24": 1
+ "Kimeur/duology": {
+  "2026-10-21": 10,
+  "2026-10-22": 11,
+  "2026-10-23": 14
  },
- "morluto/generate-social-preview": {
-  "2026-10-21": 38,
-  "2026-10-22": 39
+ "yulmucoffee/artiboard": {
+  "2026-10-24": 12,
+  "2026-10-25": 14
+ },
+ "plazmi-gg/plazmi-connect": {
+  "2026-10-23": 1,
+  "2026-10-24": 1,
+  "2026-10-25": 1
+ },
+ "LucasZ97/excel-data-doctor": {
+  "2026-10-25": 0
+ },
+ "zeroa234/game-asset-aesthetic-test": {
+  "2026-10-21": 19,
+  "2026-10-22": 19,
+  "2026-10-23": 24,
+  "2026-10-24": 26
+ },
+ "pexon-consulting/excel-skills": {
+  "2026-10-21": 0,
+  "2026-10-22": 0
+ },
+ "lukasz-slusarski/letterhead": {
+  "2026-10-21": 1,
+  "2026-10-22": 1
  },
  "thelightboxphotostudioom-cpu/claude-marketing-manager-skill": {
-  "2026-10-24": 0
+  "2026-10-24": 0,
+  "2026-10-25": 0
+ },
+ "better-isms/grcskills": {
+  "2026-10-21": 48,
+  "2026-10-22": 48,
+  "2026-10-23": 49,
+  "2026-10-24": 51,
+  "2026-10-25": 51
+ },
+ "morganlinton/BeautifulRust": {
+  "2026-10-25": 177
+ },
+ "chycycc/paper-reader": {
+  "2026-10-25": 1
+ },
+ "agodmer/claude-skill-r-pptx": {
+  "2026-10-25": 0
+ },
+ "Idriss-Mokdadi/pro-pptx-studio": {
+  "2026-10-21": 0,
+  "2026-10-22": 0,
+  "2026-10-23": 0,
+  "2026-10-24": 0,
+  "2026-10-25": 0
+ },
+ "gezi71/company-lens": {
+  "2026-10-22": 0
+ },
+ "ShadowSwaps/REA-Reconstruction-Companion": {
+  "2026-10-21": 98,
+  "2026-10-22": 103
+ },
+ "microsoft/playwright": {
+  "2026-10-21": 98215,
+  "2026-10-22": 98235,
+  "2026-10-23": 98319,
+  "2026-10-24": 98383,
+  "2026-10-25": 98438
  },
  "ou0826/goodnotes-attachment-extractor": {
   "2026-10-21": 3,
@@ -425,66 +287,219 @@
   "2026-10-23": 3,
   "2026-10-24": 3
  },
- "sreevathson1530/sih-pitch-deck-skill": {
+ "NJ-Burrito/NJ-Kit": {
+  "2026-10-23": 1,
+  "2026-10-25": 1
+ },
+ "chatdaeri/html2pptx": {
   "2026-10-21": 0,
   "2026-10-22": 0,
   "2026-10-23": 0,
   "2026-10-24": 0
+ },
+ "Vinciux99/pdfcraft-claude-skill": {
+  "2026-10-21": 0
+ },
+ "chenle023/document-SKILLs": {
+  "2026-10-21": 0
+ },
+ "posteverywhere/gemini-cli-extension": {
+  "2026-10-21": 0
+ },
+ "HackBepa/claude-skills-hub": {
+  "2026-10-21": 2,
+  "2026-10-22": 3,
+  "2026-10-23": 11,
+  "2026-10-24": 12,
+  "2026-10-25": 13
+ },
+ "puww1010/screenshot-to-template-slide": {
+  "2026-10-25": 1
+ },
+ "Jakeschincariol/console-skill": {
+  "2026-10-23": 11,
+  "2026-10-24": 46,
+  "2026-10-25": 82
+ },
+ "gaur-avvv/HyperPlasma-Skills": {
+  "2026-10-21": 9,
+  "2026-10-22": 9
+ },
+ "kasi-x/pi-pptx": {
+  "2026-10-21": 0,
+  "2026-10-22": 0
+ },
+ "Jakeschincariol/day-trader-skill": {
+  "2026-10-21": 102,
+  "2026-10-22": 235,
+  "2026-10-23": 513,
+  "2026-10-24": 854,
+  "2026-10-25": 1100
  },
  "conft2k/skill-aws-arch-diagram": {
   "2026-10-22": 0,
   "2026-10-23": 0,
-  "2026-10-24": 0
+  "2026-10-24": 0,
+  "2026-10-25": 0
  },
- "shanhai-city-states/shanhai-skill-dashboard-hub": {
-  "2026-10-23": 0,
-  "2026-10-24": 0
+ "abdul712/gemini-cli-pinbuilds": {
+  "2026-10-25": 0
  },
- "chrisrenzm/patent-drawer": {
+ "mrscraper-com/mrscraper-gemini-cli-extension": {
   "2026-10-21": 0,
   "2026-10-22": 0,
-  "2026-10-23": 0,
-  "2026-10-24": 0
+  "2026-10-23": 0
  },
  "abdiraimov-otabek/dashboard-design-skill": {
   "2026-10-21": 93,
   "2026-10-22": 97,
   "2026-10-23": 107,
-  "2026-10-24": 108
+  "2026-10-24": 108,
+  "2026-10-25": 113
  },
- "MK27MK/uxed": {
-  "2026-10-21": 73,
-  "2026-10-22": 73
+ "lovisdotio/motion2code": {
+  "2026-10-21": 134,
+  "2026-10-22": 156,
+  "2026-10-23": 172,
+  "2026-10-24": 180,
+  "2026-10-25": 237
  },
- "EricJujianZou/rederive": {
-  "2026-10-21": 19,
-  "2026-10-22": 33,
-  "2026-10-23": 54,
-  "2026-10-24": 84
+ "Saiphani29/claude--resume-taskkit": {
+  "2026-10-23": 1,
+  "2026-10-24": 1,
+  "2026-10-25": 1
+ },
+ "pablopbl/deck-vivo": {
+  "2026-10-21": 0,
+  "2026-10-22": 0,
+  "2026-10-23": 0,
+  "2026-10-24": 0,
+  "2026-10-25": 0
  },
  "danilkotelnikov/Molecullage": {
   "2026-10-21": 3,
   "2026-10-22": 3,
   "2026-10-23": 3
  },
- "apache/echarts": {
-  "2026-10-21": 67568,
-  "2026-10-22": 67567,
-  "2026-10-23": 67572,
-  "2026-10-24": 67578
+ "bradleyfowler123/gemini-extension": {
+  "2026-10-21": 0,
+  "2026-10-22": 0,
+  "2026-10-23": 0,
+  "2026-10-24": 0
+ },
+ "npruxjco/presentation-builder-skill": {
+  "2026-10-21": 0,
+  "2026-10-22": 0,
+  "2026-10-23": 0,
+  "2026-10-24": 0
+ },
+ "Chris-yoo80/ppt-to-html-agent": {
+  "2026-10-25": 5
+ },
+ "mcprush/mcprush-gemini-extension": {
+  "2026-10-21": 1,
+  "2026-10-22": 1,
+  "2026-10-23": 1,
+  "2026-10-24": 1,
+  "2026-10-25": 1
  },
  "lautarobermudez/bank-statement-consolidation": {
   "2026-10-21": 0,
   "2026-10-22": 0,
   "2026-10-23": 0
  },
- "plazmi-gg/plazmi-connect": {
-  "2026-10-23": 1,
-  "2026-10-24": 1
+ "DeepAleph/jevreel": {
+  "2026-10-21": 39,
+  "2026-10-22": 43
  },
- "Enika2003/Weekly_Trading_Report_Skill": {
+ "Chen-Po/research-slides-skill": {
+  "2026-10-22": 0,
+  "2026-10-23": 0
+ },
+ "whatnologist/gemini-cli-extension": {
+  "2026-10-23": 0,
+  "2026-10-24": 0,
+  "2026-10-25": 0
+ },
+ "morluto/generate-social-preview": {
+  "2026-10-21": 38,
+  "2026-10-22": 39
+ },
+ "hamzaabduljabbar/autoConst-cutsheet-to-family": {
+  "2026-10-21": 6,
+  "2026-10-22": 6,
+  "2026-10-23": 6,
+  "2026-10-24": 6,
+  "2026-10-25": 6
+ },
+ "kesslernity/awesome-copilot-office-skills": {
+  "2026-10-25": 1
+ },
+ "Valentin06-lab/Anki-flashcard-skill": {
+  "2026-10-21": 4,
+  "2026-10-22": 4,
+  "2026-10-23": 4,
+  "2026-10-24": 4,
+  "2026-10-25": 4
+ },
+ "SherifMoShalaby/PullDay": {
+  "2026-10-21": 2,
+  "2026-10-22": 2,
+  "2026-10-23": 2
+ },
+ "Fangx-AI/geo-doctor": {
+  "2026-10-21": 156
+ },
+ "opendatalab/MinerU": {
+  "2026-10-21": 82207,
+  "2026-10-22": 82221,
+  "2026-10-23": 82314,
+  "2026-10-24": 82377,
+  "2026-10-25": 82422
+ },
+ "google-gemini/gemini-cli": {
+  "2026-10-21": 107484,
+  "2026-10-22": 107491,
+  "2026-10-23": 107525,
+  "2026-10-24": 107563,
+  "2026-10-25": 108044
+ },
+ "lastdatabaseph/lastdatabase-gemini": {
   "2026-10-21": 0,
   "2026-10-22": 0,
+  "2026-10-23": 0
+ },
+ "shanhai-city-states/shanhai-skill-dashboard-hub": {
+  "2026-10-23": 0,
+  "2026-10-24": 0,
+  "2026-10-25": 0
+ },
+ "alexbioinf-hash/r-figure-to-pptx": {
+  "2026-10-25": 0
+ },
+ "Melvynx/ai-maxxing-skills": {
+  "2026-10-23": 15,
+  "2026-10-24": 17
+ },
+ "aipiratesMunich/open-strategy-firm": {
+  "2026-10-21": 3
+ },
+ "Nero1688/academic-presentation-skill": {
+  "2026-10-24": 0
+ },
+ "Jakeschincariol/trader-skill": {
+  "2026-10-21": 259
+ },
+ "tokuhn/confidential-html-deck": {
+  "2026-10-23": 4,
+  "2026-10-24": 5,
+  "2026-10-25": 5
+ },
+ "shadowtor/BrandDesign": {
+  "2026-10-21": 1,
+  "2026-10-22": 1
+ },
+ "justme409/sic-civil-gemini-extension": {
   "2026-10-23": 0,
   "2026-10-24": 0
  },
@@ -494,157 +509,257 @@
   "2026-10-23": 0,
   "2026-10-24": 0
  },
- "MakeItEzzz555/tuck-bit": {
-  "2026-10-23": 26
+ "Leonxlnx/imagegen-skills": {
+  "2026-10-23": 28,
+  "2026-10-24": 30
  },
- "Demonwave56032/call-of-duty-modern-warfare-resocket-4-fps-optimizer": {
-  "2026-10-24": 29
+ "securibee/php2shell-tenable-skill": {
+  "2026-10-24": 1,
+  "2026-10-25": 1
  },
- "whatnologist/gemini-cli-extension": {
-  "2026-10-23": 0,
-  "2026-10-24": 0
+ "Percerno/percerno-skills-connector": {
+  "2026-10-24": 0,
+  "2026-10-25": 0
  },
- "Fangx-AI/geo-doctor": {
-  "2026-10-21": 156
+ "hassan-algo/open-sesame": {
+  "2026-10-21": 2,
+  "2026-10-22": 16,
+  "2026-10-23": 57,
+  "2026-10-24": 83,
+  "2026-10-25": 88
  },
- "bradleyfowler123/gemini-extension": {
-  "2026-10-21": 0,
-  "2026-10-22": 0,
-  "2026-10-23": 0,
-  "2026-10-24": 0
- },
- "chenle023/document-SKILLs": {
-  "2026-10-21": 0
- },
- "apenasdouglas/ai-motion-library": {
-  "2026-10-21": 73
- },
- "YanGaev2/slideml": {
-  "2026-10-23": 1,
-  "2026-10-24": 1
- },
- "nrupala/verdict-gemini-extension": {
-  "2026-10-21": 0,
-  "2026-10-22": 0,
-  "2026-10-24": 0
- },
- "tg1121/job-application-skill": {
-  "2026-10-21": 0,
-  "2026-10-22": 0
- },
- "dexra-dev/gemini-cli-extension": {
-  "2026-10-21": 0,
-  "2026-10-22": 0,
-  "2026-10-23": 0,
-  "2026-10-24": 0
- },
- "CaoYongshengcys/ai-pptx-generator": {
-  "2026-10-21": 0
- },
- "DanielJorba/smart-view-skill": {
-  "2026-10-24": 1
- },
- "nowshad-hossain-rahat/elsm-mcp": {
-  "2026-10-24": 1
- },
- "gokayfem/video-to-blender": {
-  "2026-10-23": 46,
-  "2026-10-24": 48
- },
- "Valentin06-lab/Anki-flashcard-skill": {
-  "2026-10-21": 4,
-  "2026-10-22": 4,
-  "2026-10-23": 4,
-  "2026-10-24": 4
+ "mathruffian-dot/soil-motion-deck": {
+  "2026-10-21": 16,
+  "2026-10-22": 16,
+  "2026-10-23": 17,
+  "2026-10-24": 19,
+  "2026-10-25": 19
  },
  "nitrosend/gemini": {
   "2026-10-21": 2,
   "2026-10-22": 2,
   "2026-10-23": 3,
-  "2026-10-24": 3
+  "2026-10-24": 3,
+  "2026-10-25": 3
  },
- "Jakeschincariol/trader-skill": {
-  "2026-10-21": 259
+ "xxxhhhccc458/course-helper": {
+  "2026-10-23": 10
  },
- "HackBepa/claude-skills-hub": {
-  "2026-10-21": 2,
-  "2026-10-22": 3,
-  "2026-10-23": 11,
-  "2026-10-24": 12
+ "OmxKamesh/excel-reconcile-tool": {
+  "2026-10-21": 0,
+  "2026-10-22": 0,
+  "2026-10-23": 0,
+  "2026-10-24": 0,
+  "2026-10-25": 0
  },
- "zeroa234/game-asset-aesthetic-test": {
-  "2026-10-21": 19,
-  "2026-10-22": 19,
-  "2026-10-23": 24,
-  "2026-10-24": 26
- },
- "antanarr/iwish-gemini-extension": {
+ "AdamLien/metabiz-mcrm-gemini-extension": {
   "2026-10-24": 0
- },
- "jclllycf/cc-auditor": {
-  "2026-10-24": 1
- },
- "datalab-to/marker": {
-  "2026-10-21": 40576,
-  "2026-10-22": 40578,
-  "2026-10-23": 40594,
-  "2026-10-24": 40611
- },
- "gezi71/company-lens": {
-  "2026-10-22": 0
- },
- "anthropics/claude-code": {
-  "2026-10-21": 152691,
-  "2026-10-22": 152753,
-  "2026-10-23": 152914,
-  "2026-10-24": 153172
- },
- "TemporaryLooker22/Stud-UI-Clean-Roblox": {
-  "2026-10-22": 10,
-  "2026-10-23": 11,
-  "2026-10-24": 13
- },
- "securibee/php2shell-tenable-skill": {
-  "2026-10-24": 1
- },
- "Kimeur/duology": {
-  "2026-10-21": 10,
-  "2026-10-22": 11,
-  "2026-10-23": 14
  },
  "BartekSzyma/skill-docx-pptx-xlsx": {
   "2026-10-21": 0,
   "2026-10-22": 0,
   "2026-10-23": 0,
-  "2026-10-24": 0
+  "2026-10-24": 0,
+  "2026-10-25": 0
  },
- "Percerno/percerno-skills-connector": {
-  "2026-10-24": 0
+ "LiMinxi-dot/teach-skill": {
+  "2026-10-21": 0
  },
- "zhuyansen/awesome-claude-seo-skills": {
-  "2026-10-22": 9
+ "apache/echarts": {
+  "2026-10-21": 67568,
+  "2026-10-22": 67567,
+  "2026-10-23": 67572,
+  "2026-10-24": 67578,
+  "2026-10-25": 67586
  },
- "AdamLien/metabiz-mcrm-gemini-extension": {
-  "2026-10-24": 0
+ "Demonwave56032/call-of-duty-modern-warfare-resocket-4-fps-optimizer": {
+  "2026-10-24": 29,
+  "2026-10-25": 29
  },
- "b0bsl3d/InformedVoter": {
-  "2026-10-22": 3,
-  "2026-10-23": 3,
-  "2026-10-24": 3
+ "rxrooster/rxrooster-gemini-extension": {
+  "2026-10-22": 0
  },
- "Idriss-Mokdadi/pro-pptx-studio": {
+ "adityareddy-dev/deskstudio": {
+  "2026-10-21": 41,
+  "2026-10-22": 41,
+  "2026-10-23": 41,
+  "2026-10-24": 41,
+  "2026-10-25": 41
+ },
+ "nrupala/letsaskit-gemini-extension": {
+  "2026-10-21": 0
+ },
+ "sreevathson1530/sih-pitch-deck-skill": {
+  "2026-10-21": 0,
+  "2026-10-22": 0,
+  "2026-10-23": 0,
+  "2026-10-24": 0,
+  "2026-10-25": 0
+ },
+ "alchaincyf/huashu-motion": {
+  "2026-10-21": 1241,
+  "2026-10-22": 1270,
+  "2026-10-23": 1437,
+  "2026-10-24": 1539,
+  "2026-10-25": 1590
+ },
+ "EL4CTEO/blender-skills": {
+  "2026-10-21": 334
+ },
+ "GentleZeal/DirtyData-Killer": {
+  "2026-10-22": 0,
+  "2026-10-23": 0,
+  "2026-10-24": 0,
+  "2026-10-25": 0
+ },
+ "anthropics/claude-code": {
+  "2026-10-21": 152691,
+  "2026-10-22": 152753,
+  "2026-10-23": 152914,
+  "2026-10-24": 153172,
+  "2026-10-25": 153287
+ },
+ "alextnetto/res": {
+  "2026-10-21": 159,
+  "2026-10-22": 170
+ },
+ "CaoYongshengcys/image2pptx-artifact": {
+  "2026-10-21": 0
+ },
+ "luciagaliana/ppt-template-2-skill": {
+  "2026-10-21": 1,
+  "2026-10-22": 1,
+  "2026-10-23": 1,
+  "2026-10-24": 1,
+  "2026-10-25": 1
+ },
+ "MakeItEzzz555/tuck-bit": {
+  "2026-10-23": 26
+ },
+ "chrisrenzm/patent-drawer": {
   "2026-10-21": 0,
   "2026-10-22": 0,
   "2026-10-23": 0,
   "2026-10-24": 0
  },
+ "nhatlongsinh/testsy-gemini-extension": {
+  "2026-10-25": 0
+ },
+ "eyaman191/mckinsey-deck-style": {
+  "2026-10-21": 1,
+  "2026-10-22": 1,
+  "2026-10-23": 1
+ },
+ "lillyguisnet/sam3-segmentation": {
+  "2026-10-25": 64
+ },
+ "scribemail/gemini-cli-extension": {
+  "2026-10-21": 0,
+  "2026-10-22": 0,
+  "2026-10-23": 0
+ },
+ "slimsoftvietnam/agent-bao-cao-doanh-so": {
+  "2026-10-23": 0,
+  "2026-10-24": 0,
+  "2026-10-25": 0
+ },
+ "precious112/code-slowmo": {
+  "2026-10-23": 13,
+  "2026-10-24": 18,
+  "2026-10-25": 18
+ },
+ "luffy2095/tailor-made-resumes": {
+  "2026-10-21": 1,
+  "2026-10-22": 1,
+  "2026-10-23": 1
+ },
+ "yzddmr6/android-mainline-port": {
+  "2026-10-23": 33,
+  "2026-10-24": 47,
+  "2026-10-25": 55
+ },
+ "aheront/snapdub-gemini-extension": {
+  "2026-10-25": 0
+ },
+ "nowshad-hossain-rahat/elsm-mcp": {
+  "2026-10-24": 1,
+  "2026-10-25": 1
+ },
+ "tg1121/job-application-skill": {
+  "2026-10-21": 0,
+  "2026-10-22": 0
+ },
+ "CaoYongshengcys/ai-pptx-generator": {
+  "2026-10-21": 0
+ },
+ "kukemc/bili-cli": {
+  "2026-10-21": 44,
+  "2026-10-22": 48,
+  "2026-10-23": 68,
+  "2026-10-24": 82,
+  "2026-10-25": 167
+ },
  "newcoolstudioteam/followincome-gemini-extension": {
   "2026-10-21": 0
+ },
+ "Luk4sy/hkustgz-course-pre": {
+  "2026-10-21": 2,
+  "2026-10-22": 2,
+  "2026-10-23": 2,
+  "2026-10-24": 2,
+  "2026-10-25": 2
+ },
+ "EricJujianZou/rederive": {
+  "2026-10-21": 19,
+  "2026-10-22": 33,
+  "2026-10-23": 54,
+  "2026-10-24": 84,
+  "2026-10-25": 181
+ },
+ "b0bsl3d/InformedVoter": {
+  "2026-10-22": 3,
+  "2026-10-23": 3,
+  "2026-10-24": 3,
+  "2026-10-25": 3
  },
  "pymupdf/pymupdf4llm": {
   "2026-10-21": 2275,
   "2026-10-22": 2276,
   "2026-10-23": 2280,
-  "2026-10-24": 2281
+  "2026-10-24": 2281,
+  "2026-10-25": 2281
+ },
+ "antanarr/iwish-gemini-extension": {
+  "2026-10-24": 0,
+  "2026-10-25": 0
+ },
+ "YanGaev2/slideml": {
+  "2026-10-23": 1,
+  "2026-10-24": 1,
+  "2026-10-25": 1
+ },
+ "skillsaas/index": {
+  "2026-10-21": 0,
+  "2026-10-22": 0,
+  "2026-10-23": 0,
+  "2026-10-24": 0,
+  "2026-10-25": 0
+ },
+ "OmxKamesh/claude-code-skills": {
+  "2026-10-21": 0,
+  "2026-10-22": 0,
+  "2026-10-23": 0,
+  "2026-10-24": 0,
+  "2026-10-25": 0
+ },
+ "jclllycf/cc-auditor": {
+  "2026-10-24": 1,
+  "2026-10-25": 1
+ },
+ "ry0narushima/bettersearch": {
+  "2026-10-22": 39,
+  "2026-10-23": 40,
+  "2026-10-24": 40,
+  "2026-10-25": 40
  }
 }
