@@ -1,7 +1,33 @@
-🔎 AI 트렌드 레이더 2026-10-26 — 관심 1건
+📅 AI 트렌드 주간 상위 (6일 기록 기준)
+분석 보고는 08:00 Drive 'AI Weekly'와 이메일로 갑니다.
 
-• [GitHub 트렌딩] AgriciDaniel/claude-seo
-  stars 오늘 197 · ① PDF·표 추출 → Raw data, 공통: 스킬·자동화
-  https://github.com/AgriciDaniel/claude-seo
+• [GitHub 신규] Chocax/citeproof-claude-skill
+  stars 1 · ① PDF·표 추출 → Raw data, ② 보고 덱·문서 작성, ③ 리서치·출처 검증, 공통: 스킬·자동화
+  https://github.com/Chocax/citeproof-claude-skill
 
-조회 실패 5곳: Reddit:ClaudeCode, Reddit:Anthropic, Reddit:GeminiAI, Reddit:Bard, Reddit:notebooklm
+• [GitHub 신규] Chris-yoo80/ppt-to-html-agent
+  stars 9 · 하루 +4.0 stars · ① PDF·표 추출 → Raw data, ② 보고 덱·문서 작성, 공통: 스킬·자동화
+  https://github.com/Chris-yoo80/ppt-to-html-agent
+
+• [GitHub 신규] tokuhn/confidential-html-deck
+  stars 5 · 하루 +0.0 stars · ① PDF·표 추출 → Raw data, ② 보고 덱·문서 작성, 공통: 스킬·자동화
+  https://github.com/tokuhn/confidential-html-deck
+
+• [GitHub 신규] aipiratesMunich/open-strategy-firm
+  stars 3 · ① PDF·표 추출 → Raw data, ② 보고 덱·문서 작성, 공통: 스킬·자동화
+  https://github.com/aipiratesMunich/open-strategy-firm
+
+• [GitHub 신규] abduallahJamal/opencode-design-skills
+  stars 1 · 하루 +0.0 stars · ① PDF·표 추출 → Raw data, ② 보고 덱·문서 작성, 공통: 스킬·자동화
+  https://github.com/abduallahJamal/opencode-design-skills
+
+• [GitHub 신규] kesslernity/awesome-copilot-office-skills
+  stars 1 · ① PDF·표 추출 → Raw data, ② 보고 덱·문서 작성, 공통: 스킬·자동화
+  https://github.com/kesslernity/awesome-copilot-office-skills
+
+• [GitHub 신규] skillsaas/index
+  stars 0 · 하루 +0.0 stars · ① PDF·표 추출 → Raw data, ② 보고 덱·문서 작성, 공통: 스킬·자동화
+  https://github.com/skillsaas/index
+
+Stars 증가율: 기준값 축적 중(7일 이상 기록 필요)
+조회 실패 누적: Reddit:ClaudeCode×6, Reddit:Anthropic×4, Reddit:GeminiAI×6, Reddit:Bard×6, Reddit:notebooklm×6
