@@ -1,11 +1,7 @@
-🔎 AI 트렌드 레이더 2026-10-24 — 관심 2건
+🔎 AI 트렌드 레이더 2026-10-26 — 관심 1건
 
-• [GitHub 신규] appariciojunior/video-editor-skills
-  stars 170 · ④ 회의록·전사, 공통: 스킬·자동화
-  https://github.com/appariciojunior/video-editor-skills
-
-• [GitHub 릴리스] docling-project/docling v2.142.1
-  stars 69466 · ① PDF·표 추출 → Raw data, ② 보고 덱·문서 작성
-  https://github.com/docling-project/docling/releases/tag/v2.142.1
+• [GitHub 트렌딩] AgriciDaniel/claude-seo
+  stars 오늘 197 · ① PDF·표 추출 → Raw data, 공통: 스킬·자동화
+  https://github.com/AgriciDaniel/claude-seo
 
 조회 실패 5곳: Reddit:ClaudeCode, Reddit:Anthropic, Reddit:GeminiAI, Reddit:Bard, Reddit:notebooklm
