@@ -1,7 +1,7 @@
-🔎 AI 트렌드 레이더 2026-10-28 — 관심 1건
+🔎 AI 트렌드 레이더 2026-10-29 — 관심 1건
 
-• [GitHub 릴리스] docling-project/docling v2.143.1
-  stars 69696 · ① PDF·표 추출 → Raw data, ② 보고 덱·문서 작성, 공통: 토큰·비용 절감
-  https://github.com/docling-project/docling/releases/tag/v2.143.1
+• [GitHub 릴리스] docling-project/docling v2.144.0
+  stars 69764 · ① PDF·표 추출 → Raw data
+  https://github.com/docling-project/docling/releases/tag/v2.144.0
 
-조회 실패 4곳: Reddit:Anthropic, Reddit:GeminiAI, Reddit:Bard, Reddit:notebooklm
+조회 실패 5곳: Reddit:ClaudeCode, Reddit:Anthropic, Reddit:GeminiAI, Reddit:Bard, Reddit:notebooklm
