@@ -1,11 +1,7 @@
-🔎 AI 트렌드 레이더 2026-10-31 — 관심 2건
+🔎 AI 트렌드 레이더 2026-11-01 — 관심 1건
 
-• [Google Workspace Updates] Edit entire presentations with Gemini in Google Slides
-  공식 · ② 보고 덱·문서 작성
-  http://workspaceupdates.googleblog.com/feeds/6271859387109690031/comments/default
-
-• [GitHub 릴리스] opendatalab/MinerU mineru-4.1.3-released
-  stars 82824 · ① PDF·표 추출 → Raw data
-  https://github.com/opendatalab/MinerU/releases/tag/mineru-4.1.3-released
+• [GitHub 신규] Tyrion-hb/page-aligned-paper-translation
+  stars 51 · 하루 +50.0 stars · ① PDF·표 추출 → Raw data, 공통: 스킬·자동화
+  https://github.com/Tyrion-hb/page-aligned-paper-translation
 
 조회 실패 5곳: Reddit:ClaudeCode, Reddit:Anthropic, Reddit:GeminiAI, Reddit:Bard, Reddit:notebooklm
