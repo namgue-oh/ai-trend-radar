@@ -1,11 +1,11 @@
-🔎 AI 트렌드 레이더 2026-11-05 — 관심 2건
+🔎 AI 트렌드 레이더 2026-11-06 — 관심 2건
 
-• [GitHub 릴리스] opendatalab/MinerU mineru-4.1.7-released
-  stars 83135 · ① PDF·표 추출 → Raw data
-  https://github.com/opendatalab/MinerU/releases/tag/mineru-4.1.7-released
+• [GitHub 릴리스] microsoft/playwright v1.65.0
+  stars 99409 · -
+  https://github.com/microsoft/playwright/releases/tag/v1.65.0
 
-• [GitHub 릴리스] docling-project/docling v2.147.0
-  stars 70112 · ① PDF·표 추출 → Raw data
-  https://github.com/docling-project/docling/releases/tag/v2.147.0
+• [GitHub 릴리스] docling-project/docling v2.148.0
+  stars 70169 · ① PDF·표 추출 → Raw data
+  https://github.com/docling-project/docling/releases/tag/v2.148.0
 
-조회 실패 4곳: Reddit:ClaudeCode, Reddit:Anthropic, Reddit:GeminiAI, Reddit:Bard
+조회 실패 4곳: Reddit:Anthropic, Reddit:GeminiAI, Reddit:Bard, Reddit:notebooklm
