@@ -1,11 +1,7 @@
-🔎 AI 트렌드 레이더 2026-11-06 — 관심 2건
+🔎 AI 트렌드 레이더 2026-11-09 — 관심 1건
 
-• [GitHub 릴리스] microsoft/playwright v1.65.0
-  stars 99409 · -
-  https://github.com/microsoft/playwright/releases/tag/v1.65.0
+• [GitHub 릴리스] docling-project/docling v2.149.0
+  stars 70305 · ① PDF·표 추출 → Raw data
+  https://github.com/docling-project/docling/releases/tag/v2.149.0
 
-• [GitHub 릴리스] docling-project/docling v2.148.0
-  stars 70169 · ① PDF·표 추출 → Raw data
-  https://github.com/docling-project/docling/releases/tag/v2.148.0
-
-조회 실패 4곳: Reddit:Anthropic, Reddit:GeminiAI, Reddit:Bard, Reddit:notebooklm
+조회 실패 4곳: Reddit:ClaudeCode, Reddit:Anthropic, Reddit:Bard, Reddit:notebooklm
