@@ -1,7 +1,33 @@
-🔎 AI 트렌드 레이더 2026-11-09 — 관심 1건
+📅 AI 트렌드 주간 상위 (7일 기록 기준)
+분석 보고는 08:00 Drive 'AI Weekly'와 이메일로 갑니다.
 
-• [GitHub 릴리스] docling-project/docling v2.149.0
-  stars 70305 · ① PDF·표 추출 → Raw data
-  https://github.com/docling-project/docling/releases/tag/v2.149.0
+• [GitHub 신규] mochistudio-vn/kitviet
+  stars 16 · 하루 +0.0 stars · ① PDF·표 추출 → Raw data, ② 보고 덱·문서 작성, 공통: 스킬·자동화
+  https://github.com/mochistudio-vn/kitviet
 
-조회 실패 4곳: Reddit:ClaudeCode, Reddit:Anthropic, Reddit:Bard, Reddit:notebooklm
+• [GitHub 신규] XZhn25/course-notes-skill
+  stars 3 · 하루 +0.0 stars · ① PDF·표 추출 → Raw data, ② 보고 덱·문서 작성, 공통: 스킬·자동화
+  https://github.com/XZhn25/course-notes-skill
+
+• [GitHub 신규] Mran/anki-deck-builder
+  stars 3 · 하루 +0.0 stars · ① PDF·표 추출 → Raw data, ② 보고 덱·문서 작성, 공통: 스킬·자동화
+  https://github.com/Mran/anki-deck-builder
+
+• [GitHub 신규] Gitputout/doc2screen
+  stars 2 · 하루 +0.0 stars · ① PDF·표 추출 → Raw data, ② 보고 덱·문서 작성, 공통: 스킬·자동화
+  https://github.com/Gitputout/doc2screen
+
+• [GitHub 신규] manoagois/curriculo-skill
+  stars 1 · 하루 +0.0 stars · ① PDF·표 추출 → Raw data, ② 보고 덱·문서 작성, 공통: 스킬·자동화
+  https://github.com/manoagois/curriculo-skill
+
+• [GitHub 신규] sparks-gamesstudio/slides-com-claude
+  stars 1 · 하루 +0.0 stars · ① PDF·표 추출 → Raw data, ② 보고 덱·문서 작성, 공통: 스킬·자동화
+  https://github.com/sparks-gamesstudio/slides-com-claude
+
+• [GitHub 신규] ARS183/academic-deck
+  stars 1 · 하루 +0.0 stars · ① PDF·표 추출 → Raw data, ② 보고 덱·문서 작성, 공통: 스킬·자동화
+  https://github.com/ARS183/academic-deck
+
+워치리스트 Stars 증가(7일): anthropics/skills +7032, patch-gg/pixelfx +4971, microsoft/markitdown +3035, anthropics/claude-code +2320, Jakeschincariol/day-trader-skill +1966
+조회 실패 누적: Reddit:ClaudeCode×6, Reddit:Anthropic×7, Reddit:GeminiAI×6, Reddit:Bard×7, Reddit:notebooklm×5
