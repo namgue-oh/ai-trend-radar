@@ -1,15 +1,11 @@
-🔎 AI 트렌드 레이더 2026-11-12 — 관심 3건
+🔎 AI 트렌드 레이더 2026-11-13 — 관심 2건
 
-• [GitHub 신규] threerocks/article2media
-  stars 206 · 하루 +146.0 stars · ④ 회의록·전사, 공통: 스킬·자동화
-  https://github.com/threerocks/article2media
+• [GitHub 릴리스] datalab-to/marker v2.2.0
+  stars 40893 · ① PDF·표 추출 → Raw data
+  https://github.com/datalab-to/marker/releases/tag/v2.2.0
 
-• [Google Workspace Updates] Publish a Sheets canvas as a standalone link
-  공식 · ① PDF·표 추출 → Raw data
-  http://workspaceupdates.googleblog.com/feeds/6081176763328823620/comments/default
-
-• [GitHub 릴리스] opendatalab/MinerU mineru-4.2.1-released
-  stars 83536 · ① PDF·표 추출 → Raw data
-  https://github.com/opendatalab/MinerU/releases/tag/mineru-4.2.1-released
+• [GitHub 트렌딩] Alishahryar1/free-claude-code
+  stars 오늘 415 · 공통: 토큰·비용 절감
+  https://github.com/Alishahryar1/free-claude-code
 
 조회 실패 5곳: Reddit:ClaudeCode, Reddit:Anthropic, Reddit:GeminiAI, Reddit:Bard, Reddit:notebooklm
