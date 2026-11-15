@@ -1,15 +1,7 @@
-🔎 AI 트렌드 레이더 2026-11-14 — 관심 3건
+🔎 AI 트렌드 레이더 2026-11-15 — 관심 1건
 
-• [Google Workspace Updates] Google Workspace Weekly Recap - November 13, 2026
-  공식 · ② 보고 덱·문서 작성, 공통: 스킬·자동화
-  http://workspaceupdates.googleblog.com/feeds/4679683339097598532/comments/default
+• [GitHub 릴리스] docling-project/docling v2.150.1
+  stars 70590 · ① PDF·표 추출 → Raw data, ② 보고 덱·문서 작성
+  https://github.com/docling-project/docling/releases/tag/v2.150.1
 
-• [GitHub 릴리스] microsoft/playwright v1.65.1
-  stars 100115 · -
-  https://github.com/microsoft/playwright/releases/tag/v1.65.1
-
-• [GitHub 릴리스] opendatalab/MinerU mineru-4.2.2-released
-  stars 83640 · ① PDF·표 추출 → Raw data
-  https://github.com/opendatalab/MinerU/releases/tag/mineru-4.2.2-released
-
-조회 실패 4곳: Reddit:Anthropic, Reddit:GeminiAI, Reddit:Bard, Reddit:notebooklm
+조회 실패 4곳: Reddit:ClaudeCode, Reddit:Anthropic, Reddit:Bard, Reddit:notebooklm

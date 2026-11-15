@@ -1,0 +1,2438 @@
+{
+ "run_at": "2026-11-15T10:42:41.585815+09:00",
+ "window_start": "2026-11-14T04:42:41.585815+09:00",
+ "status": [
+  {
+   "source": "HN:claude skill",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "HN:agent skills",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "HN:claude code",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "HN:gemini cli",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "HN:gemini notebook",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "HN:notebooklm",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "HN:anthropic",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "HN:pdf extraction llm",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "Reddit:ClaudeAI",
+   "ok": true,
+   "note": "rss"
+  },
+  {
+   "source": "Reddit:ClaudeCode",
+   "ok": false,
+   "note": "https://www.reddit.com: <HTTPError 403: 'Blocked'> https://old.reddit.com: <HTTPError 403: 'Blocked'> | rss <HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "source": "Reddit:Anthropic",
+   "ok": false,
+   "note": "https://www.reddit.com: <HTTPError 403: 'Blocked'> https://old.reddit.com: <HTTPError 403: 'Blocked'> | rss <HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "source": "Reddit:GeminiAI",
+   "ok": true,
+   "note": "rss"
+  },
+  {
+   "source": "Reddit:Bard",
+   "ok": false,
+   "note": "https://www.reddit.com: <HTTPError 403: 'Blocked'> https://old.reddit.com: <HTTPError 403: 'Blocked'> | rss <HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "source": "Reddit:notebooklm",
+   "ok": false,
+   "note": "https://www.reddit.com: <HTTPError 403: 'Blocked'> https://old.reddit.com: <HTTPError 403: 'Blocked'> | rss <HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "source": "GitHub트렌딩:daily",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "GitHub트렌딩:weekly",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "GitHub검색:topic:agent-skills",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "GitHub검색:topic:claude-skills",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "GitHub검색:skill claude pdf",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "GitHub검색:skill claude excel",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "GitHub검색:skill claude pptx",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "GitHub검색:gemini-cli extension",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "GitHub워치:anthropics/skills",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "GitHub워치:anthropics/claude-code",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "GitHub워치:google-gemini/gemini-cli",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "GitHub워치:docling-project/docling",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "GitHub워치:microsoft/markitdown",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "GitHub워치:pymupdf/pymupdf4llm",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "GitHub워치:opendatalab/MinerU",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "GitHub워치:datalab-to/marker",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "GitHub워치:microsoft/playwright",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "GitHub워치:apache/echarts",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "RSS:GeekNews",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "RSS:Google Workspace Updates",
+   "ok": true,
+   "note": ""
+  }
+ ],
+ "alerted": [
+  "GitHub 릴리스:https://github.com/docling-project/docling/releases/tag/v2.150.1"
+ ],
+ "items": [
+  {
+   "id": "GitHub 신규:https://github.com/takazawa/lecture-slides-skill",
+   "source": "GitHub 신규",
+   "title": "takazawa/lecture-slides-skill",
+   "url": "https://github.com/takazawa/lecture-slides-skill",
+   "created": "2026-11-11T23:53:19+00:00",
+   "metric_name": "stars",
+   "metric": 1,
+   "relevance": 5,
+   "themes": [
+    "pdf_data",
+    "deck_report",
+    "workflow"
+   ],
+   "platform": true
+  },
+  {
+   "id": "GitHub 신규:https://github.com/malikisaputra-source/paket-operator-sekolah",
+   "source": "GitHub 신규",
+   "title": "malikisaputra-source/paket-operator-sekolah",
+   "url": "https://github.com/malikisaputra-source/paket-operator-sekolah",
+   "created": "2026-11-13T05:12:09+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 5,
+   "themes": [
+    "pdf_data",
+    "deck_report",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/wiraperdana/academic-presentation-skill",
+   "source": "GitHub 신규",
+   "title": "wiraperdana/academic-presentation-skill",
+   "url": "https://github.com/wiraperdana/academic-presentation-skill",
+   "created": "2026-11-11T05:16:30+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 5,
+   "themes": [
+    "pdf_data",
+    "deck_report",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/ffaizdaffa/ias-deck-skill",
+   "source": "GitHub 신규",
+   "title": "ffaizdaffa/ias-deck-skill",
+   "url": "https://github.com/ffaizdaffa/ias-deck-skill",
+   "created": "2026-11-08T12:38:15+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 5,
+   "themes": [
+    "pdf_data",
+    "deck_report",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/mrtinhnguyen/stop-slop-vi",
+   "source": "GitHub 신규",
+   "title": "mrtinhnguyen/stop-slop-vi",
+   "url": "https://github.com/mrtinhnguyen/stop-slop-vi",
+   "created": "2026-11-11T07:59:48+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 5,
+   "themes": [
+    "pdf_data",
+    "deck_report",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/daguanghan/agent-docview",
+   "source": "GitHub 신규",
+   "title": "daguanghan/agent-docview",
+   "url": "https://github.com/daguanghan/agent-docview",
+   "created": "2026-11-08T09:00:23+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 5,
+   "themes": [
+    "pdf_data",
+    "deck_report",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/threerocks/article2media",
+   "source": "GitHub 신규",
+   "title": "threerocks/article2media",
+   "url": "https://github.com/threerocks/article2media",
+   "created": "2026-11-08T08:07:28+00:00",
+   "metric_name": "stars",
+   "metric": 315,
+   "relevance": 4,
+   "themes": [
+    "minutes",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 8.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/next-token-tv/next-token-skill",
+   "source": "GitHub 신규",
+   "title": "next-token-tv/next-token-skill",
+   "url": "https://github.com/next-token-tv/next-token-skill",
+   "created": "2026-11-12T09:55:17+00:00",
+   "metric_name": "stars",
+   "metric": 26,
+   "relevance": 4,
+   "themes": [
+    "minutes",
+    "workflow"
+   ],
+   "platform": true
+  },
+  {
+   "id": "GitHub 신규:https://github.com/RealAdii/clipper-skill",
+   "source": "GitHub 신규",
+   "title": "RealAdii/clipper-skill",
+   "url": "https://github.com/RealAdii/clipper-skill",
+   "created": "2026-11-12T09:50:04+00:00",
+   "metric_name": "stars",
+   "metric": 12,
+   "relevance": 4,
+   "themes": [
+    "minutes",
+    "workflow"
+   ],
+   "platform": true
+  },
+  {
+   "id": "GitHub 신규:https://github.com/dhagmann/paper-review",
+   "source": "GitHub 신규",
+   "title": "dhagmann/paper-review",
+   "url": "https://github.com/dhagmann/paper-review",
+   "created": "2026-11-08T14:43:59+00:00",
+   "metric_name": "stars",
+   "metric": 5,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/kosarlukascz/fotokniha-skill",
+   "source": "GitHub 신규",
+   "title": "kosarlukascz/fotokniha-skill",
+   "url": "https://github.com/kosarlukascz/fotokniha-skill",
+   "created": "2026-11-10T07:08:34+00:00",
+   "metric_name": "stars",
+   "metric": 3,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/mhfmaia/questoes-enem-skill",
+   "source": "GitHub 신규",
+   "title": "mhfmaia/questoes-enem-skill",
+   "url": "https://github.com/mhfmaia/questoes-enem-skill",
+   "created": "2026-11-08T00:13:34+00:00",
+   "metric_name": "stars",
+   "metric": 3,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/merysugy/skillhub-indesign",
+   "source": "GitHub 신규",
+   "title": "merysugy/skillhub-indesign",
+   "url": "https://github.com/merysugy/skillhub-indesign",
+   "created": "2026-11-11T21:08:50+00:00",
+   "metric_name": "stars",
+   "metric": 2,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/victor-lis-bronzo/typst-to-pdf-skill",
+   "source": "GitHub 신규",
+   "title": "victor-lis-bronzo/typst-to-pdf-skill",
+   "url": "https://github.com/victor-lis-bronzo/typst-to-pdf-skill",
+   "created": "2026-11-08T16:29:12+00:00",
+   "metric_name": "stars",
+   "metric": 1,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/filp97/claude-skill-ocarina-keys",
+   "source": "GitHub 신규",
+   "title": "filp97/claude-skill-ocarina-keys",
+   "url": "https://github.com/filp97/claude-skill-ocarina-keys",
+   "created": "2026-11-13T17:52:27+00:00",
+   "metric_name": "stars",
+   "metric": 1,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/jar-narvz/resume-tailor-skill",
+   "source": "GitHub 신규",
+   "title": "jar-narvz/resume-tailor-skill",
+   "url": "https://github.com/jar-narvz/resume-tailor-skill",
+   "created": "2026-11-13T07:54:53+00:00",
+   "metric_name": "stars",
+   "metric": 1,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/lionelmaccarini-tech/comink-fichiers-impression",
+   "source": "GitHub 신규",
+   "title": "lionelmaccarini-tech/comink-fichiers-impression",
+   "url": "https://github.com/lionelmaccarini-tech/comink-fichiers-impression",
+   "created": "2026-11-11T13:49:05+00:00",
+   "metric_name": "stars",
+   "metric": 1,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/bombaybumble-arch/video-to-piano-sheet",
+   "source": "GitHub 신규",
+   "title": "bombaybumble-arch/video-to-piano-sheet",
+   "url": "https://github.com/bombaybumble-arch/video-to-piano-sheet",
+   "created": "2026-11-09T05:49:18+00:00",
+   "metric_name": "stars",
+   "metric": 1,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true
+  },
+  {
+   "id": "GitHub 신규:https://github.com/dingdinglz/paper-annotated-html",
+   "source": "GitHub 신규",
+   "title": "dingdinglz/paper-annotated-html",
+   "url": "https://github.com/dingdinglz/paper-annotated-html",
+   "created": "2026-11-12T10:16:32+00:00",
+   "metric_name": "stars",
+   "metric": 1,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true
+  },
+  {
+   "id": "GitHub 신규:https://github.com/MelanthaCode/english-reading-analysis",
+   "source": "GitHub 신규",
+   "title": "MelanthaCode/english-reading-analysis",
+   "url": "https://github.com/MelanthaCode/english-reading-analysis",
+   "created": "2026-11-14T09:53:02+00:00",
+   "metric_name": "stars",
+   "metric": 1,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true
+  },
+  {
+   "id": "GitHub 신규:https://github.com/nodestudioai/claude-dashboard",
+   "source": "GitHub 신규",
+   "title": "nodestudioai/claude-dashboard",
+   "url": "https://github.com/nodestudioai/claude-dashboard",
+   "created": "2026-11-11T22:08:30+00:00",
+   "metric_name": "stars",
+   "metric": 1,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/HaNorthRich/nuea-ai-boq-takeoff-skill",
+   "source": "GitHub 신규",
+   "title": "HaNorthRich/nuea-ai-boq-takeoff-skill",
+   "url": "https://github.com/HaNorthRich/nuea-ai-boq-takeoff-skill",
+   "created": "2026-11-11T14:11:46+00:00",
+   "metric_name": "stars",
+   "metric": 1,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 1.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/Aroxe1/JobSearcher",
+   "source": "GitHub 신규",
+   "title": "Aroxe1/JobSearcher",
+   "url": "https://github.com/Aroxe1/JobSearcher",
+   "created": "2026-11-09T08:49:32+00:00",
+   "metric_name": "stars",
+   "metric": 1,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/chuonglife/lesson-slide-designer-skill",
+   "source": "GitHub 신규",
+   "title": "chuonglife/lesson-slide-designer-skill",
+   "url": "https://github.com/chuonglife/lesson-slide-designer-skill",
+   "created": "2026-11-12T15:47:28+00:00",
+   "metric_name": "stars",
+   "metric": 1,
+   "relevance": 4,
+   "themes": [
+    "deck_report",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/hazarvolga/claude-excel-skills",
+   "source": "GitHub 신규",
+   "title": "hazarvolga/claude-excel-skills",
+   "url": "https://github.com/hazarvolga/claude-excel-skills",
+   "created": "2026-11-12T13:24:53+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/lincolnassis/prompts-claude-dados",
+   "source": "GitHub 신규",
+   "title": "lincolnassis/prompts-claude-dados",
+   "url": "https://github.com/lincolnassis/prompts-claude-dados",
+   "created": "2026-11-15T01:18:38+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true
+  },
+  {
+   "id": "GitHub 신규:https://github.com/lincolnrassis/prompts-claude-dados",
+   "source": "GitHub 신규",
+   "title": "lincolnrassis/prompts-claude-dados",
+   "url": "https://github.com/lincolnrassis/prompts-claude-dados",
+   "created": "2026-11-15T01:15:21+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true
+  },
+  {
+   "id": "GitHub 신규:https://github.com/c1sc0c0/starterslabo-km",
+   "source": "GitHub 신규",
+   "title": "c1sc0c0/starterslabo-km",
+   "url": "https://github.com/c1sc0c0/starterslabo-km",
+   "created": "2026-11-09T11:54:16+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/mariolpantunes/iap-office-skills",
+   "source": "GitHub 신규",
+   "title": "mariolpantunes/iap-office-skills",
+   "url": "https://github.com/mariolpantunes/iap-office-skills",
+   "created": "2026-11-10T01:02:49+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/minhpham1512/exam-pdf-to-excel-quiz",
+   "source": "GitHub 신규",
+   "title": "minhpham1512/exam-pdf-to-excel-quiz",
+   "url": "https://github.com/minhpham1512/exam-pdf-to-excel-quiz",
+   "created": "2026-11-08T04:30:13+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/jameellzx/al-bahith-skill",
+   "source": "GitHub 신규",
+   "title": "jameellzx/al-bahith-skill",
+   "url": "https://github.com/jameellzx/al-bahith-skill",
+   "created": "2026-11-11T12:44:03+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/shashankpandey2405-cpu/pdftrusted-agent-plugin",
+   "source": "GitHub 신규",
+   "title": "shashankpandey2405-cpu/pdftrusted-agent-plugin",
+   "url": "https://github.com/shashankpandey2405-cpu/pdftrusted-agent-plugin",
+   "created": "2026-11-09T10:39:13+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/EnggNashib/trainer",
+   "source": "GitHub 신규",
+   "title": "EnggNashib/trainer",
+   "url": "https://github.com/EnggNashib/trainer",
+   "created": "2026-11-09T15:23:36+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/ImperaBusinessServices/html-to-pptx",
+   "source": "GitHub 신규",
+   "title": "ImperaBusinessServices/html-to-pptx",
+   "url": "https://github.com/ImperaBusinessServices/html-to-pptx",
+   "created": "2026-11-13T03:54:34+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 4,
+   "themes": [
+    "deck_report",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/nicekwmin-gif/talk-deck-skill",
+   "source": "GitHub 신규",
+   "title": "nicekwmin-gif/talk-deck-skill",
+   "url": "https://github.com/nicekwmin-gif/talk-deck-skill",
+   "created": "2026-11-12T05:37:41+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 4,
+   "themes": [
+    "deck_report",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/Brian-LEE0/jp-consulting-pptx",
+   "source": "GitHub 신규",
+   "title": "Brian-LEE0/jp-consulting-pptx",
+   "url": "https://github.com/Brian-LEE0/jp-consulting-pptx",
+   "created": "2026-11-10T10:39:54+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 4,
+   "themes": [
+    "deck_report",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/bigohofone/academic-slides-skill",
+   "source": "GitHub 신규",
+   "title": "bigohofone/academic-slides-skill",
+   "url": "https://github.com/bigohofone/academic-slides-skill",
+   "created": "2026-11-11T07:08:39+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 4,
+   "themes": [
+    "deck_report",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/Youters/pptx-left-progress-bar",
+   "source": "GitHub 신규",
+   "title": "Youters/pptx-left-progress-bar",
+   "url": "https://github.com/Youters/pptx-left-progress-bar",
+   "created": "2026-11-12T16:52:45+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 4,
+   "themes": [
+    "deck_report",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/Kishibe999/find-images",
+   "source": "GitHub 신규",
+   "title": "Kishibe999/find-images",
+   "url": "https://github.com/Kishibe999/find-images",
+   "created": "2026-11-13T14:43:51+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 4,
+   "themes": [
+    "deck_report",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/lildimples27/huashu-design",
+   "source": "GitHub 신규",
+   "title": "lildimples27/huashu-design",
+   "url": "https://github.com/lildimples27/huashu-design",
+   "created": "2026-11-09T12:33:54+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 4,
+   "themes": [
+    "deck_report",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/KovaPDF/gemini-cli-extension",
+   "source": "GitHub 신규",
+   "title": "KovaPDF/gemini-cli-extension",
+   "url": "https://github.com/KovaPDF/gemini-cli-extension",
+   "created": "2026-11-12T21:36:39+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 릴리스:https://github.com/docling-project/docling/releases/tag/v2.150.1",
+   "source": "GitHub 릴리스",
+   "title": "docling-project/docling v2.150.1",
+   "url": "https://github.com/docling-project/docling/releases/tag/v2.150.1",
+   "created": "2026-11-14T07:04:56+00:00",
+   "metric_name": "stars",
+   "metric": 70590,
+   "relevance": 3,
+   "themes": [
+    "pdf_data",
+    "deck_report"
+   ],
+   "platform": false,
+   "watch": true,
+   "noisy": false
+  },
+  {
+   "id": "GitHub 릴리스:https://github.com/anthropics/claude-code/releases/tag/v2.1.325",
+   "source": "GitHub 릴리스",
+   "title": "anthropics/claude-code v2.1.325",
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.325",
+   "created": "2026-11-13T20:40:01+00:00",
+   "metric_name": "stars",
+   "metric": 155690,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "watch": true,
+   "noisy": true
+  },
+  {
+   "id": "GitHub 릴리스:https://github.com/microsoft/playwright/releases/tag/v1.65.1",
+   "source": "GitHub 릴리스",
+   "title": "microsoft/playwright v1.65.1",
+   "url": "https://github.com/microsoft/playwright/releases/tag/v1.65.1",
+   "created": "2026-11-13T21:46:58+00:00",
+   "metric_name": "stars",
+   "metric": 100188,
+   "relevance": 2,
+   "themes": [],
+   "platform": false,
+   "watch": true,
+   "noisy": false
+  },
+  {
+   "id": "GitHub 트렌딩:https://github.com/anthropics/skills",
+   "source": "GitHub 트렌딩",
+   "title": "anthropics/skills",
+   "url": "https://github.com/anthropics/skills",
+   "created": "2026-11-15T01:42:41.585815+00:00",
+   "metric_name": "stars 이번 주",
+   "metric": 6220,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "period": "weekly"
+  },
+  {
+   "id": "GitHub 신규:https://github.com/Dodaios/ste80-humanizer",
+   "source": "GitHub 신규",
+   "title": "Dodaios/ste80-humanizer",
+   "url": "https://github.com/Dodaios/ste80-humanizer",
+   "created": "2026-11-09T17:18:59+00:00",
+   "metric_name": "stars",
+   "metric": 610,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 120.0
+  },
+  {
+   "id": "GitHub 트렌딩:https://github.com/tradermonty/claude-trading-skills",
+   "source": "GitHub 트렌딩",
+   "title": "tradermonty/claude-trading-skills",
+   "url": "https://github.com/tradermonty/claude-trading-skills",
+   "created": "2026-11-15T01:42:41.585815+00:00",
+   "metric_name": "stars 오늘",
+   "metric": 553,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "period": "daily"
+  },
+  {
+   "id": "GitHub 신규:https://github.com/op7418/guizang-game-skill",
+   "source": "GitHub 신규",
+   "title": "op7418/guizang-game-skill",
+   "url": "https://github.com/op7418/guizang-game-skill",
+   "created": "2026-11-11T16:28:54+00:00",
+   "metric_name": "stars",
+   "metric": 341,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 26.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/ScottDuncanAI/PID-to-Knowledge-Graph",
+   "source": "GitHub 신규",
+   "title": "ScottDuncanAI/PID-to-Knowledge-Graph",
+   "url": "https://github.com/ScottDuncanAI/PID-to-Knowledge-Graph",
+   "created": "2026-11-08T18:58:21+00:00",
+   "metric_name": "stars",
+   "metric": 270,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 9.0
+  },
+  {
+   "id": "GitHub 트렌딩:https://github.com/JuliusBrussee/caveman",
+   "source": "GitHub 트렌딩",
+   "title": "JuliusBrussee/caveman",
+   "url": "https://github.com/JuliusBrussee/caveman",
+   "created": "2026-11-15T01:42:41.585815+00:00",
+   "metric_name": "stars 오늘",
+   "metric": 227,
+   "relevance": 2,
+   "themes": [
+    "token_cost",
+    "workflow"
+   ],
+   "platform": false,
+   "period": "daily"
+  },
+  {
+   "id": "GitHub 신규:https://github.com/FlameProudspark/windows-tweak-checker-rpocket-team",
+   "source": "GitHub 신규",
+   "title": "FlameProudspark/windows-tweak-checker-rpocket-team",
+   "url": "https://github.com/FlameProudspark/windows-tweak-checker-rpocket-team",
+   "created": "2026-11-12T17:00:49+00:00",
+   "metric_name": "stars",
+   "metric": 81,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 31.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/PaxOrcnode/Cineloop-resp",
+   "source": "GitHub 신규",
+   "title": "PaxOrcnode/Cineloop-resp",
+   "url": "https://github.com/PaxOrcnode/Cineloop-resp",
+   "created": "2026-11-14T11:31:10+00:00",
+   "metric_name": "stars",
+   "metric": 50,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true
+  },
+  {
+   "id": "GitHub 신규:https://github.com/lowdevco/claude-seo",
+   "source": "GitHub 신규",
+   "title": "lowdevco/claude-seo",
+   "url": "https://github.com/lowdevco/claude-seo",
+   "created": "2026-11-09T11:22:03+00:00",
+   "metric_name": "stars",
+   "metric": 47,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": -1.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/cavaleiro-ai/projetor-hy320-mini-otimizador",
+   "source": "GitHub 신규",
+   "title": "cavaleiro-ai/projetor-hy320-mini-otimizador",
+   "url": "https://github.com/cavaleiro-ai/projetor-hy320-mini-otimizador",
+   "created": "2026-11-12T13:36:27+00:00",
+   "metric_name": "stars",
+   "metric": 43,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 1.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/lowdevco/Clip-Forge",
+   "source": "GitHub 신규",
+   "title": "lowdevco/Clip-Forge",
+   "url": "https://github.com/lowdevco/Clip-Forge",
+   "created": "2026-11-13T06:37:00+00:00",
+   "metric_name": "stars",
+   "metric": 42,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 23.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/migasahara-ship-it/claude-duet-proactive-agent-pay",
+   "source": "GitHub 신규",
+   "title": "migasahara-ship-it/claude-duet-proactive-agent-pay",
+   "url": "https://github.com/migasahara-ship-it/claude-duet-proactive-agent-pay",
+   "created": "2026-11-09T07:31:38+00:00",
+   "metric_name": "stars",
+   "metric": 41,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": -1.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/tammo1007/alyn",
+   "source": "GitHub 신규",
+   "title": "tammo1007/alyn",
+   "url": "https://github.com/tammo1007/alyn",
+   "created": "2026-11-11T16:22:09+00:00",
+   "metric_name": "stars",
+   "metric": 35,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 21.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/aryehlev/PeerHarness",
+   "source": "GitHub 신규",
+   "title": "aryehlev/PeerHarness",
+   "url": "https://github.com/aryehlev/PeerHarness",
+   "created": "2026-11-09T18:20:21+00:00",
+   "metric_name": "stars",
+   "metric": 32,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/chekrizh/Interactive-Map-Builder",
+   "source": "GitHub 신규",
+   "title": "chekrizh/Interactive-Map-Builder",
+   "url": "https://github.com/chekrizh/Interactive-Map-Builder",
+   "created": "2026-11-09T17:59:35+00:00",
+   "metric_name": "stars",
+   "metric": 14,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 1.0
+  },
+  {
+   "id": "HN:https://gammapdf.com/",
+   "source": "HN",
+   "title": "Show HN: Gamma PDF – AI-native PDF reader, self-hosted",
+   "url": "https://gammapdf.com/",
+   "created": "2026-11-14T08:08:11+00:00",
+   "metric_name": "points",
+   "metric": 9,
+   "relevance": 2,
+   "themes": [
+    "pdf_data"
+   ],
+   "platform": false,
+   "discussion": "https://news.ycombinator.com/item?id=50495073",
+   "comments": 3
+  },
+  {
+   "id": "Reddit r/ClaudeAI:https://www.reddit.com/r/ClaudeAI/comments/1xw2fu8/i_turned_karpathys_80_of_the_way_to_asdste100_tip/",
+   "source": "Reddit r/ClaudeAI",
+   "title": "I turned Karpathy's \"80% of the way to ASD-STE100\" tip into a Claude skill that makes AI text readable",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw2fu8/i_turned_karpathys_80_of_the_way_to_asdste100_tip/",
+   "created": "2026-11-14T13:29:46+00:00",
+   "metric_name": "rank",
+   "metric": 6,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "rank": 6,
+   "score_unknown": true
+  },
+  {
+   "id": "HN:https://sayjot.xyz/blog/claude-code-mcp-notes",
+   "source": "HN",
+   "title": "Let Claude Code read your notes with MCP",
+   "url": "https://sayjot.xyz/blog/claude-code-mcp-notes",
+   "created": "2026-11-14T01:20:51+00:00",
+   "metric_name": "points",
+   "metric": 4,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50492526",
+   "comments": 1
+  },
+  {
+   "id": "HN:https://github.com/globalmpc/backendskills",
+   "source": "HN",
+   "title": "Show HN: Back endskills – agent skills for safer auth, data and migration code",
+   "url": "https://github.com/globalmpc/backendskills",
+   "created": "2026-11-14T03:32:05+00:00",
+   "metric_name": "points",
+   "metric": 3,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50493538",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://newsletter.posthog.com/p/what-nobody-tells-you-about-writing",
+   "source": "HN",
+   "title": "What nobody tells you about writing agent skills",
+   "url": "https://newsletter.posthog.com/p/what-nobody-tells-you-about-writing",
+   "created": "2026-11-15T01:01:19+00:00",
+   "metric_name": "points",
+   "metric": 2,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50502869",
+   "comments": 0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/Walid-Ahmed/claude-skills",
+   "source": "GitHub 신규",
+   "title": "Walid-Ahmed/claude-skills",
+   "url": "https://github.com/Walid-Ahmed/claude-skills",
+   "created": "2026-11-08T15:13:16+00:00",
+   "metric_name": "stars",
+   "metric": 1,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/gladosAagman/linkedin-agent-skill",
+   "source": "GitHub 신규",
+   "title": "gladosAagman/linkedin-agent-skill",
+   "url": "https://github.com/gladosAagman/linkedin-agent-skill",
+   "created": "2026-11-09T06:42:05+00:00",
+   "metric_name": "stars",
+   "metric": 1,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/TusharSoni014/lazee-dev-gemini-extension",
+   "source": "GitHub 신규",
+   "title": "TusharSoni014/lazee-dev-gemini-extension",
+   "url": "https://github.com/TusharSoni014/lazee-dev-gemini-extension",
+   "created": "2026-11-10T16:24:59+00:00",
+   "metric_name": "stars",
+   "metric": 1,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/Mountainheads-Private-limited/osmo-ai-plugins",
+   "source": "GitHub 신규",
+   "title": "Mountainheads-Private-limited/osmo-ai-plugins",
+   "url": "https://github.com/Mountainheads-Private-limited/osmo-ai-plugins",
+   "created": "2026-11-13T06:50:53+00:00",
+   "metric_name": "stars",
+   "metric": 1,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/moxclaw/fork-skill",
+   "source": "GitHub 신규",
+   "title": "moxclaw/fork-skill",
+   "url": "https://github.com/moxclaw/fork-skill",
+   "created": "2026-11-12T01:43:55+00:00",
+   "metric_name": "stars",
+   "metric": 1,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/Brajesh31/claude-code-review-excellence-skill",
+   "source": "GitHub 신규",
+   "title": "Brajesh31/claude-code-review-excellence-skill",
+   "url": "https://github.com/Brajesh31/claude-code-review-excellence-skill",
+   "created": "2026-11-11T17:29:57+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/Atharva-Git01/website-excellence",
+   "source": "GitHub 신규",
+   "title": "Atharva-Git01/website-excellence",
+   "url": "https://github.com/Atharva-Git01/website-excellence",
+   "created": "2026-11-12T20:51:37+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/tarifftrust/gemini-cli-extension",
+   "source": "GitHub 신규",
+   "title": "tarifftrust/gemini-cli-extension",
+   "url": "https://github.com/tarifftrust/gemini-cli-extension",
+   "created": "2026-11-09T16:21:35+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/fastformat/gemini-extension",
+   "source": "GitHub 신규",
+   "title": "fastformat/gemini-extension",
+   "url": "https://github.com/fastformat/gemini-extension",
+   "created": "2026-11-12T00:44:54+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/nrephi/monprof-gemini-extension",
+   "source": "GitHub 신규",
+   "title": "nrephi/monprof-gemini-extension",
+   "url": "https://github.com/nrephi/monprof-gemini-extension",
+   "created": "2026-11-14T19:58:14+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true
+  },
+  {
+   "id": "GitHub 신규:https://github.com/quantummetric/qm-plugin-gemini",
+   "source": "GitHub 신규",
+   "title": "quantummetric/qm-plugin-gemini",
+   "url": "https://github.com/quantummetric/qm-plugin-gemini",
+   "created": "2026-11-11T21:24:34+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/Trade-Trak/trak-gemini-extension",
+   "source": "GitHub 신규",
+   "title": "Trade-Trak/trak-gemini-extension",
+   "url": "https://github.com/Trade-Trak/trak-gemini-extension",
+   "created": "2026-11-11T01:44:32+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/airdropfi/memepump-gemini-extension",
+   "source": "GitHub 신규",
+   "title": "airdropfi/memepump-gemini-extension",
+   "url": "https://github.com/airdropfi/memepump-gemini-extension",
+   "created": "2026-11-13T07:09:03+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/airdropfi/cvposh-gemini-extension",
+   "source": "GitHub 신규",
+   "title": "airdropfi/cvposh-gemini-extension",
+   "url": "https://github.com/airdropfi/cvposh-gemini-extension",
+   "created": "2026-11-12T14:33:52+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/User0856/snaprender-gemini-extension",
+   "source": "GitHub 신규",
+   "title": "User0856/snaprender-gemini-extension",
+   "url": "https://github.com/User0856/snaprender-gemini-extension",
+   "created": "2026-11-11T17:26:04+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/airdropfi/datafast-gemini-extension",
+   "source": "GitHub 신규",
+   "title": "airdropfi/datafast-gemini-extension",
+   "url": "https://github.com/airdropfi/datafast-gemini-extension",
+   "created": "2026-11-13T07:00:35+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true
+  },
+  {
+   "id": "GitHub 신규:https://github.com/airdropfi/remixviral-gemini-extension",
+   "source": "GitHub 신규",
+   "title": "airdropfi/remixviral-gemini-extension",
+   "url": "https://github.com/airdropfi/remixviral-gemini-extension",
+   "created": "2026-11-12T14:34:02+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true
+  },
+  {
+   "id": "GitHub 신규:https://github.com/airdropfi/bugsly-gemini-extension",
+   "source": "GitHub 신규",
+   "title": "airdropfi/bugsly-gemini-extension",
+   "url": "https://github.com/airdropfi/bugsly-gemini-extension",
+   "created": "2026-11-12T14:33:47+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true
+  },
+  {
+   "id": "GitHub 트렌딩:https://github.com/google/elephant-goldfish-model",
+   "source": "GitHub 트렌딩",
+   "title": "google/elephant-goldfish-model",
+   "url": "https://github.com/google/elephant-goldfish-model",
+   "created": "2026-11-15T01:42:41.585815+00:00",
+   "metric_name": "stars 이번 주",
+   "metric": 5539,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false,
+   "period": "weekly"
+  },
+  {
+   "id": "GitHub 트렌딩:https://github.com/ZhuLinsen/daily_stock_analysis",
+   "source": "GitHub 트렌딩",
+   "title": "ZhuLinsen/daily_stock_analysis",
+   "url": "https://github.com/ZhuLinsen/daily_stock_analysis",
+   "created": "2026-11-15T01:42:41.585815+00:00",
+   "metric_name": "stars 이번 주",
+   "metric": 4526,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false,
+   "period": "weekly"
+  },
+  {
+   "id": "GitHub 트렌딩:https://github.com/addyosmani/agent-skills",
+   "source": "GitHub 트렌딩",
+   "title": "addyosmani/agent-skills",
+   "url": "https://github.com/addyosmani/agent-skills",
+   "created": "2026-11-15T01:42:41.585815+00:00",
+   "metric_name": "stars 이번 주",
+   "metric": 3670,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false,
+   "period": "weekly"
+  },
+  {
+   "id": "GitHub 트렌딩:https://github.com/anthropics/claude-quickstarts",
+   "source": "GitHub 트렌딩",
+   "title": "anthropics/claude-quickstarts",
+   "url": "https://github.com/anthropics/claude-quickstarts",
+   "created": "2026-11-15T01:42:41.585815+00:00",
+   "metric_name": "stars 이번 주",
+   "metric": 1794,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "period": "weekly"
+  },
+  {
+   "id": "GitHub 트렌딩:https://github.com/alibaba/open-code-review",
+   "source": "GitHub 트렌딩",
+   "title": "alibaba/open-code-review",
+   "url": "https://github.com/alibaba/open-code-review",
+   "created": "2026-11-15T01:42:41.585815+00:00",
+   "metric_name": "stars 오늘",
+   "metric": 893,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "period": "daily"
+  },
+  {
+   "id": "GitHub 신규:https://github.com/trackboatwrightplan/GitHub-Copilot-app",
+   "source": "GitHub 신규",
+   "title": "trackboatwrightplan/GitHub-Copilot-app",
+   "url": "https://github.com/trackboatwrightplan/GitHub-Copilot-app",
+   "created": "2026-11-14T19:16:41+00:00",
+   "metric_name": "stars",
+   "metric": 672,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false
+  },
+  {
+   "id": "GitHub 신규:https://github.com/TrapAccountant/GitHub-Copilot-app",
+   "source": "GitHub 신규",
+   "title": "TrapAccountant/GitHub-Copilot-app",
+   "url": "https://github.com/TrapAccountant/GitHub-Copilot-app",
+   "created": "2026-11-14T19:16:47+00:00",
+   "metric_name": "stars",
+   "metric": 670,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false
+  },
+  {
+   "id": "GitHub 신규:https://github.com/trackersnailgrip/GitHub-Copilot-app",
+   "source": "GitHub 신규",
+   "title": "trackersnailgrip/GitHub-Copilot-app",
+   "url": "https://github.com/trackersnailgrip/GitHub-Copilot-app",
+   "created": "2026-11-14T19:16:41+00:00",
+   "metric_name": "stars",
+   "metric": 666,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false
+  },
+  {
+   "id": "GitHub 신규:https://github.com/TradesmanRecord/GitHub-Copilot-app",
+   "source": "GitHub 신규",
+   "title": "TradesmanRecord/GitHub-Copilot-app",
+   "url": "https://github.com/TradesmanRecord/GitHub-Copilot-app",
+   "created": "2026-11-14T19:16:41+00:00",
+   "metric_name": "stars",
+   "metric": 665,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false
+  },
+  {
+   "id": "GitHub 신규:https://github.com/toppatronweave/GitHub-Copilot-app",
+   "source": "GitHub 신규",
+   "title": "toppatronweave/GitHub-Copilot-app",
+   "url": "https://github.com/toppatronweave/GitHub-Copilot-app",
+   "created": "2026-11-14T19:25:20+00:00",
+   "metric_name": "stars",
+   "metric": 665,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false
+  },
+  {
+   "id": "GitHub 트렌딩:https://github.com/ChromeDevTools/chrome-devtools-mcp",
+   "source": "GitHub 트렌딩",
+   "title": "ChromeDevTools/chrome-devtools-mcp",
+   "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+   "created": "2026-11-15T01:42:41.585815+00:00",
+   "metric_name": "stars 오늘",
+   "metric": 664,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false,
+   "period": "daily"
+  },
+  {
+   "id": "GitHub 신규:https://github.com/TurkeyDesignate/GitHub-Copilot-app",
+   "source": "GitHub 신규",
+   "title": "TurkeyDesignate/GitHub-Copilot-app",
+   "url": "https://github.com/TurkeyDesignate/GitHub-Copilot-app",
+   "created": "2026-11-14T19:25:18+00:00",
+   "metric_name": "stars",
+   "metric": 664,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false
+  },
+  {
+   "id": "GitHub 신규:https://github.com/TrapBladesmith/GitHub-Copilot-app",
+   "source": "GitHub 신규",
+   "title": "TrapBladesmith/GitHub-Copilot-app",
+   "url": "https://github.com/TrapBladesmith/GitHub-Copilot-app",
+   "created": "2026-11-14T19:16:50+00:00",
+   "metric_name": "stars",
+   "metric": 664,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false
+  },
+  {
+   "id": "GitHub 신규:https://github.com/TurquoiseConsultant/GitHub-Copilot-app",
+   "source": "GitHub 신규",
+   "title": "TurquoiseConsultant/GitHub-Copilot-app",
+   "url": "https://github.com/TurquoiseConsultant/GitHub-Copilot-app",
+   "created": "2026-11-14T19:25:20+00:00",
+   "metric_name": "stars",
+   "metric": 664,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false
+  },
+  {
+   "id": "GitHub 신규:https://github.com/Tealplesense/GitHub-Copilot-app",
+   "source": "GitHub 신규",
+   "title": "Tealplesense/GitHub-Copilot-app",
+   "url": "https://github.com/Tealplesense/GitHub-Copilot-app",
+   "created": "2026-11-14T19:25:19+00:00",
+   "metric_name": "stars",
+   "metric": 663,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false
+  },
+  {
+   "id": "GitHub 신규:https://github.com/WebBookkeeper/GitHub-Copilot-app",
+   "source": "GitHub 신규",
+   "title": "WebBookkeeper/GitHub-Copilot-app",
+   "url": "https://github.com/WebBookkeeper/GitHub-Copilot-app",
+   "created": "2026-11-14T19:25:26+00:00",
+   "metric_name": "stars",
+   "metric": 663,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false
+  },
+  {
+   "id": "GitHub 신규:https://github.com/topconstableinlet67/GitHub-Copilot-app",
+   "source": "GitHub 신규",
+   "title": "topconstableinlet67/GitHub-Copilot-app",
+   "url": "https://github.com/topconstableinlet67/GitHub-Copilot-app",
+   "created": "2026-11-14T19:25:19+00:00",
+   "metric_name": "stars",
+   "metric": 661,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false
+  },
+  {
+   "id": "GitHub 신규:https://github.com/unitsenseimonitor/GitHub-Copilot-app",
+   "source": "GitHub 신규",
+   "title": "unitsenseimonitor/GitHub-Copilot-app",
+   "url": "https://github.com/unitsenseimonitor/GitHub-Copilot-app",
+   "created": "2026-11-14T19:25:19+00:00",
+   "metric_name": "stars",
+   "metric": 661,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false
+  },
+  {
+   "id": "GitHub 신규:https://github.com/TrueDefenderRouter/GitHub-Copilot-app",
+   "source": "GitHub 신규",
+   "title": "TrueDefenderRouter/GitHub-Copilot-app",
+   "url": "https://github.com/TrueDefenderRouter/GitHub-Copilot-app",
+   "created": "2026-11-14T19:25:20+00:00",
+   "metric_name": "stars",
+   "metric": 660,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false
+  },
+  {
+   "id": "GitHub 신규:https://github.com/Trapkrostride/GitHub-Copilot-app",
+   "source": "GitHub 신규",
+   "title": "Trapkrostride/GitHub-Copilot-app",
+   "url": "https://github.com/Trapkrostride/GitHub-Copilot-app",
+   "created": "2026-11-14T19:25:19+00:00",
+   "metric_name": "stars",
+   "metric": 660,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false
+  },
+  {
+   "id": "GitHub 신규:https://github.com/TarantulaCorrect/GitHub-Copilot-app",
+   "source": "GitHub 신규",
+   "title": "TarantulaCorrect/GitHub-Copilot-app",
+   "url": "https://github.com/TarantulaCorrect/GitHub-Copilot-app",
+   "created": "2026-11-14T19:25:19+00:00",
+   "metric_name": "stars",
+   "metric": 659,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false
+  },
+  {
+   "id": "HN:https://claude.com/resources/articles/projects-redesigned",
+   "source": "HN",
+   "title": "Anthropic upgrades Claude Code Projects to run parallel AI workers",
+   "url": "https://claude.com/resources/articles/projects-redesigned",
+   "created": "2026-11-14T00:28:11+00:00",
+   "metric_name": "points",
+   "metric": 98,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50492141",
+   "comments": 91
+  },
+  {
+   "id": "HN:https://news.ycombinator.com/item?id=50494696",
+   "source": "HN",
+   "title": "Ask HN: What are the most useful, concrete AI skills to independently learn?",
+   "url": "https://news.ycombinator.com/item?id=50494696",
+   "created": "2026-11-14T06:56:42+00:00",
+   "metric_name": "points",
+   "metric": 78,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false,
+   "discussion": "https://news.ycombinator.com/item?id=50494696",
+   "comments": 49
+  },
+  {
+   "id": "GitHub 트렌딩:https://github.com/Tencent/LoopForge",
+   "source": "GitHub 트렌딩",
+   "title": "Tencent/LoopForge",
+   "url": "https://github.com/Tencent/LoopForge",
+   "created": "2026-11-15T01:42:41.585815+00:00",
+   "metric_name": "stars 오늘",
+   "metric": 33,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "period": "daily"
+  },
+  {
+   "id": "Reddit r/ClaudeAI:https://www.reddit.com/r/ClaudeAI/comments/1xw9yh6/turbo_visionstyle_ui_for_claude_code_sessions/",
+   "source": "Reddit r/ClaudeAI",
+   "title": "Turbo Vision-style UI for Claude code sessions",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw9yh6/turbo_visionstyle_ui_for_claude_code_sessions/",
+   "created": "2026-11-14T18:45:05+00:00",
+   "metric_name": "rank",
+   "metric": 25,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "rank": 25,
+   "score_unknown": true
+  },
+  {
+   "id": "Reddit r/GeminiAI:https://www.reddit.com/r/GeminiAI/comments/1xwgqyu/exam_cheating_question_gemini_vs_deepseek_vs/",
+   "source": "Reddit r/GeminiAI",
+   "title": "Exam cheating question: Gemini vs Deepseek vs Chatgpt vs Claude Opus vs Kimi vs Uncensored Model",
+   "url": "https://www.reddit.com/r/GeminiAI/comments/1xwgqyu/exam_cheating_question_gemini_vs_deepseek_vs/",
+   "created": "2026-11-14T23:42:11+00:00",
+   "metric_name": "rank",
+   "metric": 25,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "rank": 25,
+   "score_unknown": true
+  },
+  {
+   "id": "Reddit r/ClaudeAI:https://www.reddit.com/r/ClaudeAI/comments/1xvyxav/how_do_you_manage_dozens_of_claude_code_sessions/",
+   "source": "Reddit r/ClaudeAI",
+   "title": "How do you manage dozens of Claude Code sessions? Existing tool or did you build your own?",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvyxav/how_do_you_manage_dozens_of_claude_code_sessions/",
+   "created": "2026-11-14T10:10:03+00:00",
+   "metric_name": "rank",
+   "metric": 22,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "rank": 22,
+   "score_unknown": true
+  },
+  {
+   "id": "Reddit r/GeminiAI:https://www.reddit.com/r/GeminiAI/comments/1xw4s4w/gemini_app_is_now_orchestrating_multiple_subagents/",
+   "source": "Reddit r/GeminiAI",
+   "title": "Gemini app is now orchestrating multiple subagents",
+   "url": "https://www.reddit.com/r/GeminiAI/comments/1xw4s4w/gemini_app_is_now_orchestrating_multiple_subagents/",
+   "created": "2026-11-14T15:14:30+00:00",
+   "metric_name": "rank",
+   "metric": 22,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "rank": 22,
+   "score_unknown": true
+  },
+  {
+   "id": "Reddit r/ClaudeAI:https://www.reddit.com/r/ClaudeAI/comments/1xwguid/anthropic_has_opened_up_claude_mythos_access_to/",
+   "source": "Reddit r/ClaudeAI",
+   "title": "Anthropic has opened up Claude Mythos access to the public.",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwguid/anthropic_has_opened_up_claude_mythos_access_to/",
+   "created": "2026-11-14T23:46:52+00:00",
+   "metric_name": "rank",
+   "metric": 21,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "rank": 21,
+   "score_unknown": true
+  },
+  {
+   "id": "Reddit r/GeminiAI:https://www.reddit.com/r/GeminiAI/comments/1xw5uzj/does_gemini_in_agy_block_reverse_engineering_rea/",
+   "source": "Reddit r/GeminiAI",
+   "title": "Does Gemini in AGY block reverse engineering (REA) like Claude does?",
+   "url": "https://www.reddit.com/r/GeminiAI/comments/1xw5uzj/does_gemini_in_agy_block_reverse_engineering_rea/",
+   "created": "2026-11-14T16:00:06+00:00",
+   "metric_name": "rank",
+   "metric": 21,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "rank": 21,
+   "score_unknown": true
+  },
+  {
+   "id": "Reddit r/ClaudeAI:https://www.reddit.com/r/ClaudeAI/comments/1xw5ptp/coxon_on_why_he_quit_anthropic_is_seeing/",
+   "source": "Reddit r/ClaudeAI",
+   "title": "Coxon on why he quit: \"Anthropic is seeing superexponential algorithmic progress. Mythos was not a one-time deviation, but a point on a superexponential. They could already retrain Mythos with a fract",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw5ptp/coxon_on_why_he_quit_anthropic_is_seeing/",
+   "created": "2026-11-14T15:54:00+00:00",
+   "metric_name": "rank",
+   "metric": 20,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "rank": 20,
+   "score_unknown": true
+  },
+  {
+   "id": "Reddit r/GeminiAI:https://www.reddit.com/r/GeminiAI/comments/1xwbslo/gemini_4_carbon_better_than_claude_and_gpt/",
+   "source": "Reddit r/GeminiAI",
+   "title": "Gemini 4 Carbon: better than Claude and GPT???",
+   "url": "https://www.reddit.com/r/GeminiAI/comments/1xwbslo/gemini_4_carbon_better_than_claude_and_gpt/",
+   "created": "2026-11-14T20:00:50+00:00",
+   "metric_name": "rank",
+   "metric": 19,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "rank": 19,
+   "score_unknown": true
+  },
+  {
+   "id": "Reddit r/ClaudeAI:https://www.reddit.com/r/ClaudeAI/comments/1xwgbcw/claude_as_a_dm/",
+   "source": "Reddit r/ClaudeAI",
+   "title": "Claude as a DM",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwgbcw/claude_as_a_dm/",
+   "created": "2026-11-14T23:21:59+00:00",
+   "metric_name": "rank",
+   "metric": 17,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "rank": 17,
+   "score_unknown": true
+  },
+  {
+   "id": "Reddit r/GeminiAI:https://www.reddit.com/r/GeminiAI/comments/1xwbc5c/gemini_4_oxygen_is_coming_soon/",
+   "source": "Reddit r/GeminiAI",
+   "title": "Gemini 4 Oxygen is coming soon.",
+   "url": "https://www.reddit.com/r/GeminiAI/comments/1xwbc5c/gemini_4_oxygen_is_coming_soon/",
+   "created": "2026-11-14T19:41:35+00:00",
+   "metric_name": "rank",
+   "metric": 16,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "rank": 16,
+   "score_unknown": true
+  },
+  {
+   "id": "Reddit r/GeminiAI:https://www.reddit.com/r/GeminiAI/comments/1xw3eqs/why_gemini_4_carbon_isnt_on_pro_plan/",
+   "source": "Reddit r/GeminiAI",
+   "title": "Why Gemini 4 carbon isn't on pro plan?",
+   "url": "https://www.reddit.com/r/GeminiAI/comments/1xw3eqs/why_gemini_4_carbon_isnt_on_pro_plan/",
+   "created": "2026-11-14T14:14:46+00:00",
+   "metric_name": "rank",
+   "metric": 15,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "rank": 15,
+   "score_unknown": true
+  },
+  {
+   "id": "Reddit r/ClaudeAI:https://www.reddit.com/r/ClaudeAI/comments/1xwe6q9/claude_went_from_37_to_61_of_aibuilder_job/",
+   "source": "Reddit r/ClaudeAI",
+   "title": "Claude went from 37% to 61% of AI-builder job postings this year, and four in five companies hiring for AI coding ask for Claude Code",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwe6q9/claude_went_from_37_to_61_of_aibuilder_job/",
+   "created": "2026-11-14T21:45:03+00:00",
+   "metric_name": "rank",
+   "metric": 14,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "rank": 14,
+   "score_unknown": true
+  },
+  {
+   "id": "Reddit r/ClaudeAI:https://www.reddit.com/r/ClaudeAI/comments/1xvu456/claude_is_making_my_work_life_easier_and/",
+   "source": "Reddit r/ClaudeAI",
+   "title": "Claude is making my work life easier and difficult at the same time",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvu456/claude_is_making_my_work_life_easier_and/",
+   "created": "2026-11-14T05:18:03+00:00",
+   "metric_name": "rank",
+   "metric": 13,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "rank": 13,
+   "score_unknown": true
+  },
+  {
+   "id": "Reddit r/GeminiAI:https://www.reddit.com/r/GeminiAI/comments/1xvs0wa/gemini_38_flash_vs_hydrogen_on_the_same_task/",
+   "source": "Reddit r/GeminiAI",
+   "title": "Gemini 3.8 flash vs Hydrogen on the same task. Reference image on the left, output on the right",
+   "url": "https://www.reddit.com/r/GeminiAI/comments/1xvs0wa/gemini_38_flash_vs_hydrogen_on_the_same_task/",
+   "created": "2026-11-14T03:25:02+00:00",
+   "metric_name": "rank",
+   "metric": 13,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "rank": 13,
+   "score_unknown": true
+  },
+  {
+   "id": "HN:https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787",
+   "source": "HN",
+   "title": "Sam Bankman-Fried would have made nearly $40B in Anthropic IPO",
+   "url": "https://www.ft.com/content/0ef40ac9-6d01-428f-98c8-a52bf5b9a787",
+   "created": "2026-11-14T02:30:28+00:00",
+   "metric_name": "points",
+   "metric": 10,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50493079",
+   "comments": 7
+  },
+  {
+   "id": "Reddit r/ClaudeAI:https://www.reddit.com/r/ClaudeAI/comments/1xvtpqe/is_there_any_reason_at_all_to_run_claude_outside/",
+   "source": "Reddit r/ClaudeAI",
+   "title": "Is there any reason at all to run Claude outside of terminal?",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvtpqe/is_there_any_reason_at_all_to_run_claude_outside/",
+   "created": "2026-11-14T04:56:36+00:00",
+   "metric_name": "rank",
+   "metric": 10,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "rank": 10,
+   "score_unknown": true
+  },
+  {
+   "id": "Reddit r/GeminiAI:https://www.reddit.com/r/GeminiAI/comments/1xweic2/we_had_claude_opus_55_and_gemini_4_hydrogen_paint/",
+   "source": "Reddit r/GeminiAI",
+   "title": "We had Claude Opus 5.5 and Gemini 4 Hydrogen paint the same oil study in an unreleased engine",
+   "url": "https://www.reddit.com/r/GeminiAI/comments/1xweic2/we_had_claude_opus_55_and_gemini_4_hydrogen_paint/",
+   "created": "2026-11-14T21:59:59+00:00",
+   "metric_name": "rank",
+   "metric": 10,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "rank": 10,
+   "score_unknown": true
+  },
+  {
+   "id": "Reddit r/ClaudeAI:https://www.reddit.com/r/ClaudeAI/comments/1xvyy70/i_built_an_explorable_drop_of_pond_water_with/",
+   "source": "Reddit r/ClaudeAI",
+   "title": "I built an explorable drop of pond water with Claude Fable 5.2 in two days (browser + VR, all procedural)",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvyy70/i_built_an_explorable_drop_of_pond_water_with/",
+   "created": "2026-11-14T10:11:37+00:00",
+   "metric_name": "rank",
+   "metric": 9,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "rank": 9,
+   "score_unknown": true
+  },
+  {
+   "id": "Reddit r/GeminiAI:https://www.reddit.com/r/GeminiAI/comments/1xw0otf/gemini_4_hydrogen_argon_and_carbon_do_not_exist/",
+   "source": "Reddit r/GeminiAI",
+   "title": "Gemini 4 Hydrogen, Argon, and Carbon do not exist...",
+   "url": "https://www.reddit.com/r/GeminiAI/comments/1xw0otf/gemini_4_hydrogen_argon_and_carbon_do_not_exist/",
+   "created": "2026-11-14T11:58:14+00:00",
+   "metric_name": "rank",
+   "metric": 9,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "rank": 9,
+   "score_unknown": true
+  },
+  {
+   "id": "Reddit r/ClaudeAI:https://www.reddit.com/r/ClaudeAI/comments/1xwgbxr/i_made_a_minecraft_mod_with_claude_press_b_and/",
+   "source": "Reddit r/ClaudeAI",
+   "title": "I made a Minecraft mod with Claude: press B and the whole world turns into toy bricks",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwgbxr/i_made_a_minecraft_mod_with_claude_press_b_and/",
+   "created": "2026-11-14T23:22:48+00:00",
+   "metric_name": "rank",
+   "metric": 8,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "rank": 8,
+   "score_unknown": true
+  },
+  {
+   "id": "Reddit r/GeminiAI:https://www.reddit.com/r/GeminiAI/comments/1xw39xi/christmas_card_by_gemini_4_hydrogen/",
+   "source": "Reddit r/GeminiAI",
+   "title": "Christmas Card by Gemini 4 Hydrogen",
+   "url": "https://www.reddit.com/r/GeminiAI/comments/1xw39xi/christmas_card_by_gemini_4_hydrogen/",
+   "created": "2026-11-14T14:08:47+00:00",
+   "metric_name": "rank",
+   "metric": 8,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "rank": 8,
+   "score_unknown": true
+  },
+  {
+   "id": "Reddit r/ClaudeAI:https://www.reddit.com/r/ClaudeAI/comments/1xwftge/outside_of_coding_and_such_is_claude_always_a/",
+   "source": "Reddit r/ClaudeAI",
+   "title": "Outside of coding and such, is Claude always a narc / loser?",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xwftge/outside_of_coding_and_such_is_claude_always_a/",
+   "created": "2026-11-14T22:59:39+00:00",
+   "metric_name": "rank",
+   "metric": 7,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "rank": 7,
+   "score_unknown": true
+  },
+  {
+   "id": "Reddit r/GeminiAI:https://www.reddit.com/r/GeminiAI/comments/1xwc646/wow_gemini_hydrogen_this_is_agi/",
+   "source": "Reddit r/GeminiAI",
+   "title": "Wow, Gemini Hydrogen 💔 This is AGI",
+   "url": "https://www.reddit.com/r/GeminiAI/comments/1xwc646/wow_gemini_hydrogen_this_is_agi/",
+   "created": "2026-11-14T20:16:34+00:00",
+   "metric_name": "rank",
+   "metric": 7,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "rank": 7,
+   "score_unknown": true
+  },
+  {
+   "id": "Reddit r/GeminiAI:https://www.reddit.com/r/GeminiAI/comments/1xwbrj9/gemini_4_hydrogen_better_than_claude_sonnet_and/",
+   "source": "Reddit r/GeminiAI",
+   "title": "Gemini 4 hydrogen: better than Claude Sonnet and GPT?",
+   "url": "https://www.reddit.com/r/GeminiAI/comments/1xwbrj9/gemini_4_hydrogen_better_than_claude_sonnet_and/",
+   "created": "2026-11-14T19:59:57+00:00",
+   "metric_name": "rank",
+   "metric": 6,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "rank": 6,
+   "score_unknown": true
+  },
+  {
+   "id": "Reddit r/ClaudeAI:https://www.reddit.com/r/ClaudeAI/comments/1xw1u7g/claude_fable_52_is_included_with_pro_until/",
+   "source": "Reddit r/ClaudeAI",
+   "title": "Claude Fable 5.2 is included with Pro until November 16",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xw1u7g/claude_fable_52_is_included_with_pro_until/",
+   "created": "2026-11-14T13:00:04+00:00",
+   "metric_name": "rank",
+   "metric": 5,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "rank": 5,
+   "score_unknown": true
+  },
+  {
+   "id": "HN:https://github.com/memrohq/memro",
+   "source": "HN",
+   "title": "Show HN: Memro – Persistent Memory for Claude Code, Cursor and Codex",
+   "url": "https://github.com/memrohq/memro",
+   "created": "2026-11-14T00:20:15+00:00",
+   "metric_name": "points",
+   "metric": 4,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50492093",
+   "comments": 1
+  },
+  {
+   "id": "Reddit r/ClaudeAI:https://www.reddit.com/r/ClaudeAI/comments/1xvzair/another_claude_painting/",
+   "source": "Reddit r/ClaudeAI",
+   "title": "Another Claude Painting",
+   "url": "https://www.reddit.com/r/ClaudeAI/comments/1xvzair/another_claude_painting/",
+   "created": "2026-11-14T10:33:24+00:00",
+   "metric_name": "rank",
+   "metric": 4,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "rank": 4,
+   "score_unknown": true
+  },
+  {
+   "id": "HN:https://github.com/simbaTmotsi/simba-skills",
+   "source": "HN",
+   "title": "Skills that stop AI coding agents from touching production",
+   "url": "https://github.com/simbaTmotsi/simba-skills",
+   "created": "2026-11-13T21:37:07+00:00",
+   "metric_name": "points",
+   "metric": 3,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false,
+   "discussion": "https://news.ycombinator.com/item?id=50490160",
+   "comments": 1
+  },
+  {
+   "id": "HN:https://github.com/noambrand/ai-time-estimator",
+   "source": "HN",
+   "title": "Show HN: AI Time Estimator – how long Claude Code will take, from your own logs",
+   "url": "https://github.com/noambrand/ai-time-estimator",
+   "created": "2026-11-14T18:32:30+00:00",
+   "metric_name": "points",
+   "metric": 3,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50499487",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://github.com/runvnc/tvclaude",
+   "source": "HN",
+   "title": "Turbo Vision-style UI for Claude Code",
+   "url": "https://github.com/runvnc/tvclaude",
+   "created": "2026-11-14T17:18:14+00:00",
+   "metric_name": "points",
+   "metric": 3,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50498730",
+   "comments": 1
+  },
+  {
+   "id": "HN:https://github.com/slashman413/cowork",
+   "source": "HN",
+   "title": "Cowork – Self-hosted task queue and dashboard for Claude, Codex, and AI agents",
+   "url": "https://github.com/slashman413/cowork",
+   "created": "2026-11-14T16:27:00+00:00",
+   "metric_name": "points",
+   "metric": 3,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50498282",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://github.com/Satvik-jain/customer-intelligence-toolkit",
+   "source": "HN",
+   "title": "Show HN: Customer Intelligence and Monetization Toolkit for Claude Code",
+   "url": "https://github.com/Satvik-jain/customer-intelligence-toolkit",
+   "created": "2026-11-13T22:03:06+00:00",
+   "metric_name": "points",
+   "metric": 3,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50490575",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://madrobot.blog/2026/11/11/anthropic-mythos-claude-amd-chips-three-days/",
+   "source": "HN",
+   "title": "Anthropic: Mythos got Claude running on AMD chips in 3 days instead of months",
+   "url": "https://madrobot.blog/2026/11/11/anthropic-mythos-claude-amd-chips-three-days/",
+   "created": "2026-11-14T16:08:23+00:00",
+   "metric_name": "points",
+   "metric": 3,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50498130",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://github.com/brstic/orchestrator",
+   "source": "HN",
+   "title": "A 3D office where real Claude Code sessions work as employees",
+   "url": "https://github.com/brstic/orchestrator",
+   "created": "2026-11-14T21:46:31+00:00",
+   "metric_name": "points",
+   "metric": 2,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50501248",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://github.com/LeriderTechnologies/bright-lines",
+   "source": "HN",
+   "title": "Show HN: Bright Lines – a fail-closed guard hook for Claude Code",
+   "url": "https://github.com/LeriderTechnologies/bright-lines",
+   "created": "2026-11-14T12:03:16+00:00",
+   "metric_name": "points",
+   "metric": 2,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50496350",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://gethrbr.com/blog/claude-md-agents-md-github-study",
+   "source": "HN",
+   "title": "In 1 in 6 repos with both files, Claude Code never loads the AGENTS.md",
+   "url": "https://gethrbr.com/blog/claude-md-agents-md-github-study",
+   "created": "2026-11-14T11:40:57+00:00",
+   "metric_name": "points",
+   "metric": 2,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50496205",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://twitter.com/mathewpregasen/status/2121356951682752809",
+   "source": "HN",
+   "title": "Show HN: 1:1 Webflow to Claude Code converter",
+   "url": "https://twitter.com/mathewpregasen/status/2121356951682752809",
+   "created": "2026-11-13T21:44:19+00:00",
+   "metric_name": "points",
+   "metric": 2,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50490283",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://www.manufacturingdive.com/news/anthropic-launches-claude-for-manufacturing/874303/",
+   "source": "HN",
+   "title": "Anthropic Launches 'Claude for Manufacturing'",
+   "url": "https://www.manufacturingdive.com/news/anthropic-launches-claude-for-manufacturing/874303/",
+   "created": "2026-11-13T23:28:46+00:00",
+   "metric_name": "points",
+   "metric": 2,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50491639",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://www.abc.net.au/news/2026-11-13/regulator-apra-warns-of-interruptions-as-frontier-ai-evolves/107378944",
+   "source": "HN",
+   "title": "Warning of interruptions as AI models by Anthropic, OpenAI and others evolve",
+   "url": "https://www.abc.net.au/news/2026-11-13/regulator-apra-warns-of-interruptions-as-frontier-ai-evolves/107378944",
+   "created": "2026-11-13T21:44:15+00:00",
+   "metric_name": "points",
+   "metric": 2,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50490281",
+   "comments": 0
+  },
+  {
+   "id": "Reddit r/GeminiAI:https://www.reddit.com/r/GeminiAI/comments/1xw36d6/we_now_know_google_was_serious_about_gemini_4/",
+   "source": "Reddit r/GeminiAI",
+   "title": "We now know google was serious about gemini 4 💀",
+   "url": "https://www.reddit.com/r/GeminiAI/comments/1xw36d6/we_now_know_google_was_serious_about_gemini_4/",
+   "created": "2026-11-14T14:04:18+00:00",
+   "metric_name": "rank",
+   "metric": 2,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "rank": 2,
+   "score_unknown": true
+  },
+  {
+   "id": "HN:https://letthembuild.com",
+   "source": "HN",
+   "title": "Show HN:LetThemBuild:Claude, Codex, Gemini, Grok & OpenRouter models in Parallel",
+   "url": "https://letthembuild.com",
+   "created": "2026-11-14T23:24:50+00:00",
+   "metric_name": "points",
+   "metric": 1,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50502144",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://github.com/shubhamverma8991/claude-model-share",
+   "source": "HN",
+   "title": "Show HN: Model-share – see which Claude models used your weekly limit",
+   "url": "https://github.com/shubhamverma8991/claude-model-share",
+   "created": "2026-11-14T18:07:39+00:00",
+   "metric_name": "points",
+   "metric": 1,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50499250",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://tessera.shiptiffin.app/",
+   "source": "HN",
+   "title": "Show HN: Themes for Claude Code",
+   "url": "https://tessera.shiptiffin.app/",
+   "created": "2026-11-14T17:33:25+00:00",
+   "metric_name": "points",
+   "metric": 1,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50498921",
+   "comments": 1
+  },
+  {
+   "id": "HN:https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/start/get-started-with-gemini-4",
+   "source": "HN",
+   "title": "Get Started with Gemini 4: Explicit Context Caching Not Supported",
+   "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/start/get-started-with-gemini-4",
+   "created": "2026-11-14T15:50:20+00:00",
+   "metric_name": "points",
+   "metric": 1,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50497974",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://twitter.com/OrnnExchange/status/2119839768355778637",
+   "source": "HN",
+   "title": "Will Anthropic Grow into Its Compute Bill?",
+   "url": "https://twitter.com/OrnnExchange/status/2119839768355778637",
+   "created": "2026-11-14T05:43:05+00:00",
+   "metric_name": "points",
+   "metric": 1,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50494355",
+   "comments": 0
+  },
+  {
+   "id": "Reddit r/GeminiAI:https://www.reddit.com/r/GeminiAI/comments/1xw01j7/gemini_4_krypton_is_being_tested_in_arena_arena/",
+   "source": "Reddit r/GeminiAI",
+   "title": "Gemini 4 Krypton is being tested in Arena arena",
+   "url": "https://www.reddit.com/r/GeminiAI/comments/1xw01j7/gemini_4_krypton_is_being_tested_in_arena_arena/",
+   "created": "2026-11-14T11:19:15+00:00",
+   "metric_name": "rank",
+   "metric": 1,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "rank": 1,
+   "score_unknown": true
+  }
+ ]
+}
