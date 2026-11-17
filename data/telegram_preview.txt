@@ -1,33 +1,11 @@
-📅 AI 트렌드 주간 상위 (7일 기록 기준)
-분석 보고는 08:00 Drive 'AI Weekly'와 이메일로 갑니다.
+🔎 AI 트렌드 레이더 2026-11-17 — 관심 2건
 
-• [GitHub 신규] mochistudio-vn/kitviet
-  stars 20 · 하루 +4.0 stars · ① PDF·표 추출 → Raw data, ② 보고 덱·문서 작성, 공통: 스킬·자동화
-  https://github.com/mochistudio-vn/kitviet
+• [Google Workspace Updates] Easily customize and extend Google Workspace with Gemini in Apps Script
+  공식 · ② 보고 덱·문서 작성
+  http://workspaceupdates.googleblog.com/feeds/4273089582993979350/comments/default
 
-• [GitHub 신규] Gitputout/doc2screen
-  stars 2 · 하루 +0.0 stars · ① PDF·표 추출 → Raw data, ② 보고 덱·문서 작성, 공통: 스킬·자동화
-  https://github.com/Gitputout/doc2screen
+• [GitHub 릴리스] opendatalab/MinerU mineru-4.2.3-released
+  stars 83770 · ① PDF·표 추출 → Raw data
+  https://github.com/opendatalab/MinerU/releases/tag/mineru-4.2.3-released
 
-• [GitHub 신규] Abdoam/one-page-cv
-  stars 2 · ① PDF·표 추출 → Raw data, ② 보고 덱·문서 작성, 공통: 스킬·자동화
-  https://github.com/Abdoam/one-page-cv
-
-• [GitHub 신규] thisiskurubaran/WriteLikeHuman
-  stars 1 · 하루 +0.0 stars · ① PDF·표 추출 → Raw data, ② 보고 덱·문서 작성, 공통: 스킬·자동화
-  https://github.com/thisiskurubaran/WriteLikeHuman
-
-• [GitHub 신규] takazawa/lecture-slides-skill
-  stars 1 · 하루 +0.0 stars · ① PDF·표 추출 → Raw data, ② 보고 덱·문서 작성, 공통: 스킬·자동화
-  https://github.com/takazawa/lecture-slides-skill
-
-• [GitHub 신규] Lohith212-dev/meeting-board
-  stars 0 · 하루 +0.0 stars · ① PDF·표 추출 → Raw data, ④ 회의록·전사, 공통: 스킬·자동화
-  https://github.com/Lohith212-dev/meeting-board
-
-• [GitHub 신규] artbreez/meadow-skills
-  stars 0 · 하루 +0.0 stars · ① PDF·표 추출 → Raw data, ② 보고 덱·문서 작성, 공통: 스킬·자동화
-  https://github.com/artbreez/meadow-skills
-
-워치리스트 Stars 증가(7일): anthropics/skills +12735, patch-gg/pixelfx +4971, microsoft/markitdown +4139, anthropics/claude-code +3105, microsoft/playwright +2052
-조회 실패 누적: Reddit:ClaudeCode×6, Reddit:Anthropic×7, Reddit:GeminiAI×6, Reddit:Bard×7, Reddit:notebooklm×7
+조회 실패 5곳: Reddit:ClaudeCode, Reddit:Anthropic, Reddit:GeminiAI, Reddit:Bard, Reddit:notebooklm
