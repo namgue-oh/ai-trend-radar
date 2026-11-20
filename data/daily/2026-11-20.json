@@ -1,0 +1,2694 @@
+{
+ "run_at": "2026-11-20T11:56:49.487006+09:00",
+ "window_start": "2026-11-19T05:56:49.487006+09:00",
+ "status": [
+  {
+   "source": "HN:claude skill",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "HN:agent skills",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "HN:claude code",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "HN:gemini cli",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "HN:gemini notebook",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "HN:notebooklm",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "HN:anthropic",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "HN:pdf extraction llm",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "Reddit:ClaudeAI",
+   "ok": false,
+   "note": "https://www.reddit.com: <HTTPError 403: 'Blocked'> https://old.reddit.com: <HTTPError 403: 'Blocked'> | rss <HTTPError 404: 'Not Found'>"
+  },
+  {
+   "source": "Reddit:ClaudeCode",
+   "ok": false,
+   "note": "https://www.reddit.com: <HTTPError 403: 'Blocked'> https://old.reddit.com: <HTTPError 403: 'Blocked'> | rss <HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "source": "Reddit:Anthropic",
+   "ok": false,
+   "note": "https://www.reddit.com: <HTTPError 403: 'Blocked'> https://old.reddit.com: <HTTPError 403: 'Blocked'> | rss <HTTPError 404: 'Not Found'>"
+  },
+  {
+   "source": "Reddit:GeminiAI",
+   "ok": false,
+   "note": "https://www.reddit.com: <HTTPError 403: 'Blocked'> https://old.reddit.com: <HTTPError 403: 'Blocked'> | rss <HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "source": "Reddit:Bard",
+   "ok": false,
+   "note": "https://www.reddit.com: <HTTPError 403: 'Blocked'> https://old.reddit.com: <HTTPError 403: 'Blocked'> | rss <HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "source": "Reddit:notebooklm",
+   "ok": false,
+   "note": "https://www.reddit.com: <HTTPError 403: 'Blocked'> https://old.reddit.com: <HTTPError 403: 'Blocked'> | rss <HTTPError 429: 'Too Many Requests'>"
+  },
+  {
+   "source": "GitHub트렌딩:daily",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "GitHub트렌딩:weekly",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "GitHub검색:topic:agent-skills",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "GitHub검색:topic:claude-skills",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "GitHub검색:skill claude pdf",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "GitHub검색:skill claude excel",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "GitHub검색:skill claude pptx",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "GitHub검색:gemini-cli extension",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "GitHub워치:anthropics/skills",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "GitHub워치:anthropics/claude-code",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "GitHub워치:google-gemini/gemini-cli",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "GitHub워치:docling-project/docling",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "GitHub워치:microsoft/markitdown",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "GitHub워치:pymupdf/pymupdf4llm",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "GitHub워치:opendatalab/MinerU",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "GitHub워치:datalab-to/marker",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "GitHub워치:microsoft/playwright",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "GitHub워치:apache/echarts",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "RSS:GeekNews",
+   "ok": true,
+   "note": ""
+  },
+  {
+   "source": "RSS:Google Workspace Updates",
+   "ok": true,
+   "note": ""
+  }
+ ],
+ "alerted": [
+  "GitHub 릴리스:https://github.com/docling-project/docling/releases/tag/v2.151.0",
+  "GitHub 릴리스:https://github.com/docling-project/docling/releases/tag/v2.151.1"
+ ],
+ "items": [
+  {
+   "id": "GitHub 신규:https://github.com/zstarczali/SkillStar",
+   "source": "GitHub 신규",
+   "title": "zstarczali/SkillStar",
+   "url": "https://github.com/zstarczali/SkillStar",
+   "created": "2026-11-15T20:22:52+00:00",
+   "metric_name": "stars",
+   "metric": 2,
+   "relevance": 5,
+   "themes": [
+    "pdf_data",
+    "deck_report",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/OrtegaMatias/presentaciones-html",
+   "source": "GitHub 신규",
+   "title": "OrtegaMatias/presentaciones-html",
+   "url": "https://github.com/OrtegaMatias/presentaciones-html",
+   "created": "2026-11-19T17:05:07+00:00",
+   "metric_name": "stars",
+   "metric": 2,
+   "relevance": 5,
+   "themes": [
+    "pdf_data",
+    "deck_report",
+    "workflow"
+   ],
+   "platform": true
+  },
+  {
+   "id": "GitHub 신규:https://github.com/stilwellc/palette",
+   "source": "GitHub 신규",
+   "title": "stilwellc/palette",
+   "url": "https://github.com/stilwellc/palette",
+   "created": "2026-11-13T21:13:12+00:00",
+   "metric_name": "stars",
+   "metric": 1,
+   "relevance": 5,
+   "themes": [
+    "pdf_data",
+    "deck_report",
+    "workflow"
+   ],
+   "platform": true
+  },
+  {
+   "id": "GitHub 신규:https://github.com/carlosarisco55-max/plan-email-marca-skill",
+   "source": "GitHub 신규",
+   "title": "carlosarisco55-max/plan-email-marca-skill",
+   "url": "https://github.com/carlosarisco55-max/plan-email-marca-skill",
+   "created": "2026-11-17T23:42:51+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 5,
+   "themes": [
+    "pdf_data",
+    "deck_report",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/malikisaputra-source/paket-operator-sekolah",
+   "source": "GitHub 신규",
+   "title": "malikisaputra-source/paket-operator-sekolah",
+   "url": "https://github.com/malikisaputra-source/paket-operator-sekolah",
+   "created": "2026-11-13T05:12:09+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 5,
+   "themes": [
+    "pdf_data",
+    "deck_report",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/ziyaowei1217-ctrl/ai-trace-detector",
+   "source": "GitHub 신규",
+   "title": "ziyaowei1217-ctrl/ai-trace-detector",
+   "url": "https://github.com/ziyaowei1217-ctrl/ai-trace-detector",
+   "created": "2026-11-16T06:11:59+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 5,
+   "themes": [
+    "pdf_data",
+    "deck_report",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/tuannhh/presenation-maker-skill",
+   "source": "GitHub 신규",
+   "title": "tuannhh/presenation-maker-skill",
+   "url": "https://github.com/tuannhh/presenation-maker-skill",
+   "created": "2026-11-17T05:47:19+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 5,
+   "themes": [
+    "pdf_data",
+    "deck_report",
+    "workflow"
+   ],
+   "platform": true
+  },
+  {
+   "id": "GitHub 신규:https://github.com/zhaijj/jingjing-academic-poster",
+   "source": "GitHub 신규",
+   "title": "zhaijj/jingjing-academic-poster",
+   "url": "https://github.com/zhaijj/jingjing-academic-poster",
+   "created": "2026-11-20T00:30:38+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 5,
+   "themes": [
+    "pdf_data",
+    "deck_report",
+    "workflow"
+   ],
+   "platform": true
+  },
+  {
+   "id": "GitHub 신규:https://github.com/yoshitakagiii/natural-slides",
+   "source": "GitHub 신규",
+   "title": "yoshitakagiii/natural-slides",
+   "url": "https://github.com/yoshitakagiii/natural-slides",
+   "created": "2026-11-14T09:54:00+00:00",
+   "metric_name": "stars",
+   "metric": 38,
+   "relevance": 4,
+   "themes": [
+    "deck_report",
+    "workflow"
+   ],
+   "platform": true
+  },
+  {
+   "id": "GitHub 신규:https://github.com/shariefabdelmonem/interactive-book-builder",
+   "source": "GitHub 신규",
+   "title": "shariefabdelmonem/interactive-book-builder",
+   "url": "https://github.com/shariefabdelmonem/interactive-book-builder",
+   "created": "2026-11-15T19:28:51+00:00",
+   "metric_name": "stars",
+   "metric": 10,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/yahyaraissouni/text-to-handwritten-notes-skill",
+   "source": "GitHub 신규",
+   "title": "yahyaraissouni/text-to-handwritten-notes-skill",
+   "url": "https://github.com/yahyaraissouni/text-to-handwritten-notes-skill",
+   "created": "2026-11-13T22:59:16+00:00",
+   "metric_name": "stars",
+   "metric": 8,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/MelanthaCode/english-reading-analysis",
+   "source": "GitHub 신규",
+   "title": "MelanthaCode/english-reading-analysis",
+   "url": "https://github.com/MelanthaCode/english-reading-analysis",
+   "created": "2026-11-14T09:53:02+00:00",
+   "metric_name": "stars",
+   "metric": 3,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/filp97/claude-skill-ocarina-keys",
+   "source": "GitHub 신규",
+   "title": "filp97/claude-skill-ocarina-keys",
+   "url": "https://github.com/filp97/claude-skill-ocarina-keys",
+   "created": "2026-11-13T17:52:27+00:00",
+   "metric_name": "stars",
+   "metric": 1,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/0xDrNabeel/gd-brochure-skill",
+   "source": "GitHub 신규",
+   "title": "0xDrNabeel/gd-brochure-skill",
+   "url": "https://github.com/0xDrNabeel/gd-brochure-skill",
+   "created": "2026-11-18T17:29:21+00:00",
+   "metric_name": "stars",
+   "metric": 1,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/jar-narvz/resume-tailor-skill",
+   "source": "GitHub 신규",
+   "title": "jar-narvz/resume-tailor-skill",
+   "url": "https://github.com/jar-narvz/resume-tailor-skill",
+   "created": "2026-11-13T07:54:53+00:00",
+   "metric_name": "stars",
+   "metric": 1,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/Mohammadsdq/persian-skills",
+   "source": "GitHub 신규",
+   "title": "Mohammadsdq/persian-skills",
+   "url": "https://github.com/Mohammadsdq/persian-skills",
+   "created": "2026-11-18T08:43:18+00:00",
+   "metric_name": "stars",
+   "metric": 1,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/ruturajjena/claude-animate-pack",
+   "source": "GitHub 신규",
+   "title": "ruturajjena/claude-animate-pack",
+   "url": "https://github.com/ruturajjena/claude-animate-pack",
+   "created": "2026-11-13T18:27:24+00:00",
+   "metric_name": "stars",
+   "metric": 1,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/keienhrri-bit/exam-prep-skills",
+   "source": "GitHub 신규",
+   "title": "keienhrri-bit/exam-prep-skills",
+   "url": "https://github.com/keienhrri-bit/exam-prep-skills",
+   "created": "2026-11-16T12:42:44+00:00",
+   "metric_name": "stars",
+   "metric": 1,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true
+  },
+  {
+   "id": "GitHub 신규:https://github.com/RodrigoPascual/annotated-study-sheets",
+   "source": "GitHub 신규",
+   "title": "RodrigoPascual/annotated-study-sheets",
+   "url": "https://github.com/RodrigoPascual/annotated-study-sheets",
+   "created": "2026-11-17T12:45:53+00:00",
+   "metric_name": "stars",
+   "metric": 1,
+   "relevance": 4,
+   "themes": [
+    "deck_report",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/Emirhan-1111/technical-drawing",
+   "source": "GitHub 신규",
+   "title": "Emirhan-1111/technical-drawing",
+   "url": "https://github.com/Emirhan-1111/technical-drawing",
+   "created": "2026-11-13T23:57:27+00:00",
+   "metric_name": "stars",
+   "metric": 1,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/selfcanonical/screaming-frog-cleanup",
+   "source": "GitHub 신규",
+   "title": "selfcanonical/screaming-frog-cleanup",
+   "url": "https://github.com/selfcanonical/screaming-frog-cleanup",
+   "created": "2026-11-15T15:36:48+00:00",
+   "metric_name": "stars",
+   "metric": 1,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/shadyusef/readytotest",
+   "source": "GitHub 신규",
+   "title": "shadyusef/readytotest",
+   "url": "https://github.com/shadyusef/readytotest",
+   "created": "2026-11-17T19:26:01+00:00",
+   "metric_name": "stars",
+   "metric": 1,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/esgindy/spreadsheet-realign-clean-verify",
+   "source": "GitHub 신규",
+   "title": "esgindy/spreadsheet-realign-clean-verify",
+   "url": "https://github.com/esgindy/spreadsheet-realign-clean-verify",
+   "created": "2026-11-14T15:05:15+00:00",
+   "metric_name": "stars",
+   "metric": 1,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/puww1010/slide-remix",
+   "source": "GitHub 신규",
+   "title": "puww1010/slide-remix",
+   "url": "https://github.com/puww1010/slide-remix",
+   "created": "2026-11-18T08:52:49+00:00",
+   "metric_name": "stars",
+   "metric": 1,
+   "relevance": 4,
+   "themes": [
+    "deck_report",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/lincolnassis/prompts-claude-dados",
+   "source": "GitHub 신규",
+   "title": "lincolnassis/prompts-claude-dados",
+   "url": "https://github.com/lincolnassis/prompts-claude-dados",
+   "created": "2026-11-15T01:18:38+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/lincolnrassis/prompts-claude-dados",
+   "source": "GitHub 신규",
+   "title": "lincolnrassis/prompts-claude-dados",
+   "url": "https://github.com/lincolnrassis/prompts-claude-dados",
+   "created": "2026-11-15T01:15:21+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/BaseHike/amazon-image-analysis-skill",
+   "source": "GitHub 신규",
+   "title": "BaseHike/amazon-image-analysis-skill",
+   "url": "https://github.com/BaseHike/amazon-image-analysis-skill",
+   "created": "2026-11-18T08:51:16+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/nikoibadov/company-valuation-skill",
+   "source": "GitHub 신규",
+   "title": "nikoibadov/company-valuation-skill",
+   "url": "https://github.com/nikoibadov/company-valuation-skill",
+   "created": "2026-11-15T13:29:27+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/sontyphu/klux-lam-khai-toan",
+   "source": "GitHub 신규",
+   "title": "sontyphu/klux-lam-khai-toan",
+   "url": "https://github.com/sontyphu/klux-lam-khai-toan",
+   "created": "2026-11-18T04:49:15+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/zomloa/permis-quebec",
+   "source": "GitHub 신규",
+   "title": "zomloa/permis-quebec",
+   "url": "https://github.com/zomloa/permis-quebec",
+   "created": "2026-11-15T17:25:31+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/rockiceli/agent-skills",
+   "source": "GitHub 신규",
+   "title": "rockiceli/agent-skills",
+   "url": "https://github.com/rockiceli/agent-skills",
+   "created": "2026-11-19T14:28:39+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true
+  },
+  {
+   "id": "GitHub 신규:https://github.com/antarpc96/prospector-mx",
+   "source": "GitHub 신규",
+   "title": "antarpc96/prospector-mx",
+   "url": "https://github.com/antarpc96/prospector-mx",
+   "created": "2026-11-16T02:09:14+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/davidmontoyas/Analisis-EEFF",
+   "source": "GitHub 신규",
+   "title": "davidmontoyas/Analisis-EEFF",
+   "url": "https://github.com/davidmontoyas/Analisis-EEFF",
+   "created": "2026-11-13T20:44:10+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 4,
+   "themes": [
+    "pdf_data",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/MFiGreenSYS/pptx-igreen",
+   "source": "GitHub 신규",
+   "title": "MFiGreenSYS/pptx-igreen",
+   "url": "https://github.com/MFiGreenSYS/pptx-igreen",
+   "created": "2026-11-17T18:34:38+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 4,
+   "themes": [
+    "deck_report",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/nivokvo/claude-skills",
+   "source": "GitHub 신규",
+   "title": "nivokvo/claude-skills",
+   "url": "https://github.com/nivokvo/claude-skills",
+   "created": "2026-11-17T07:47:54+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 4,
+   "themes": [
+    "deck_report",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/Ryen-Xie/pptx-from-layouts",
+   "source": "GitHub 신규",
+   "title": "Ryen-Xie/pptx-from-layouts",
+   "url": "https://github.com/Ryen-Xie/pptx-from-layouts",
+   "created": "2026-11-17T10:25:11+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 4,
+   "themes": [
+    "deck_report",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/ImperaBusinessServices/html-to-pptx",
+   "source": "GitHub 신규",
+   "title": "ImperaBusinessServices/html-to-pptx",
+   "url": "https://github.com/ImperaBusinessServices/html-to-pptx",
+   "created": "2026-11-13T03:54:34+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 4,
+   "themes": [
+    "deck_report",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/Kishibe999/find-images",
+   "source": "GitHub 신규",
+   "title": "Kishibe999/find-images",
+   "url": "https://github.com/Kishibe999/find-images",
+   "created": "2026-11-13T14:43:51+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 4,
+   "themes": [
+    "deck_report",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/labkku/ga-draft-skill",
+   "source": "GitHub 신규",
+   "title": "labkku/ga-draft-skill",
+   "url": "https://github.com/labkku/ga-draft-skill",
+   "created": "2026-11-16T08:43:07+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 4,
+   "themes": [
+    "deck_report",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/andrewhoshi/slide-skill-creator",
+   "source": "GitHub 신규",
+   "title": "andrewhoshi/slide-skill-creator",
+   "url": "https://github.com/andrewhoshi/slide-skill-creator",
+   "created": "2026-11-16T06:21:05+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 4,
+   "themes": [
+    "deck_report",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/coffeedroplabs/deck-builder",
+   "source": "GitHub 신규",
+   "title": "coffeedroplabs/deck-builder",
+   "url": "https://github.com/coffeedroplabs/deck-builder",
+   "created": "2026-11-19T10:34:48+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 4,
+   "themes": [
+    "deck_report",
+    "workflow"
+   ],
+   "platform": true
+  },
+  {
+   "id": "GitHub 신규:https://github.com/shio-vinyl/plan-deck",
+   "source": "GitHub 신규",
+   "title": "shio-vinyl/plan-deck",
+   "url": "https://github.com/shio-vinyl/plan-deck",
+   "created": "2026-11-15T17:31:20+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 4,
+   "themes": [
+    "deck_report",
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 릴리스:https://github.com/docling-project/docling/releases/tag/v2.151.0",
+   "source": "GitHub 릴리스",
+   "title": "docling-project/docling v2.151.0",
+   "url": "https://github.com/docling-project/docling/releases/tag/v2.151.0",
+   "created": "2026-11-19T09:58:07+00:00",
+   "metric_name": "stars",
+   "metric": 70798,
+   "relevance": 3,
+   "themes": [
+    "pdf_data",
+    "deck_report"
+   ],
+   "platform": false,
+   "watch": true,
+   "noisy": false
+  },
+  {
+   "id": "GitHub 릴리스:https://github.com/anthropics/claude-code/releases/tag/v2.1.329",
+   "source": "GitHub 릴리스",
+   "title": "anthropics/claude-code v2.1.329",
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.329",
+   "created": "2026-11-19T22:14:41+00:00",
+   "metric_name": "stars",
+   "metric": 156346,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "watch": true,
+   "noisy": true
+  },
+  {
+   "id": "GitHub 릴리스:https://github.com/anthropics/claude-code/releases/tag/v2.1.328",
+   "source": "GitHub 릴리스",
+   "title": "anthropics/claude-code v2.1.328",
+   "url": "https://github.com/anthropics/claude-code/releases/tag/v2.1.328",
+   "created": "2026-11-19T01:14:04+00:00",
+   "metric_name": "stars",
+   "metric": 156346,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "watch": true,
+   "noisy": true
+  },
+  {
+   "id": "GitHub 릴리스:https://github.com/google-gemini/gemini-cli/releases/tag/v0.70.0",
+   "source": "GitHub 릴리스",
+   "title": "google-gemini/gemini-cli v0.70.0",
+   "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.70.0",
+   "created": "2026-11-19T21:08:05+00:00",
+   "metric_name": "stars",
+   "metric": 108944,
+   "relevance": 2,
+   "themes": [],
+   "platform": true,
+   "watch": true,
+   "noisy": true
+  },
+  {
+   "id": "GitHub 릴리스:https://github.com/google-gemini/gemini-cli/releases/tag/v0.69.0",
+   "source": "GitHub 릴리스",
+   "title": "google-gemini/gemini-cli v0.69.0",
+   "url": "https://github.com/google-gemini/gemini-cli/releases/tag/v0.69.0",
+   "created": "2026-11-19T01:45:47+00:00",
+   "metric_name": "stars",
+   "metric": 108944,
+   "relevance": 2,
+   "themes": [
+    "token_cost"
+   ],
+   "platform": true,
+   "watch": true,
+   "noisy": true
+  },
+  {
+   "id": "GitHub 릴리스:https://github.com/docling-project/docling/releases/tag/v2.151.1",
+   "source": "GitHub 릴리스",
+   "title": "docling-project/docling v2.151.1",
+   "url": "https://github.com/docling-project/docling/releases/tag/v2.151.1",
+   "created": "2026-11-19T15:27:09+00:00",
+   "metric_name": "stars",
+   "metric": 70798,
+   "relevance": 2,
+   "themes": [
+    "pdf_data"
+   ],
+   "platform": false,
+   "watch": true,
+   "noisy": false
+  },
+  {
+   "id": "GitHub 신규:https://github.com/erkamyaman/rust-anything",
+   "source": "GitHub 신규",
+   "title": "erkamyaman/rust-anything",
+   "url": "https://github.com/erkamyaman/rust-anything",
+   "created": "2026-11-16T12:10:36+00:00",
+   "metric_name": "stars",
+   "metric": 5316,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 1814.0
+  },
+  {
+   "id": "GitHub 트렌딩:https://github.com/tradermonty/claude-trading-skills",
+   "source": "GitHub 트렌딩",
+   "title": "tradermonty/claude-trading-skills",
+   "url": "https://github.com/tradermonty/claude-trading-skills",
+   "created": "2026-11-20T02:56:49.487006+00:00",
+   "metric_name": "stars 이번 주",
+   "metric": 3385,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "period": "weekly"
+  },
+  {
+   "id": "GitHub 트렌딩:https://github.com/kajisho5/ffmpeg-skill",
+   "source": "GitHub 트렌딩",
+   "title": "kajisho5/ffmpeg-skill",
+   "url": "https://github.com/kajisho5/ffmpeg-skill",
+   "created": "2026-11-20T02:56:49.487006+00:00",
+   "metric_name": "stars 이번 주",
+   "metric": 2998,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "period": "weekly"
+  },
+  {
+   "id": "GitHub 트렌딩:https://github.com/google-labs-code/stitch-skills",
+   "source": "GitHub 트렌딩",
+   "title": "google-labs-code/stitch-skills",
+   "url": "https://github.com/google-labs-code/stitch-skills",
+   "created": "2026-11-20T02:56:49.487006+00:00",
+   "metric_name": "stars 이번 주",
+   "metric": 1829,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "period": "weekly"
+  },
+  {
+   "id": "GitHub 트렌딩:https://github.com/elementalsouls/Claude-BugHunter",
+   "source": "GitHub 트렌딩",
+   "title": "elementalsouls/Claude-BugHunter",
+   "url": "https://github.com/elementalsouls/Claude-BugHunter",
+   "created": "2026-11-20T02:56:49.487006+00:00",
+   "metric_name": "stars 오늘",
+   "metric": 1349,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "period": "daily"
+  },
+  {
+   "id": "GitHub 신규:https://github.com/Bodila51/gtavi-claudecode",
+   "source": "GitHub 신규",
+   "title": "Bodila51/gtavi-claudecode",
+   "url": "https://github.com/Bodila51/gtavi-claudecode",
+   "created": "2026-11-18T17:54:29+00:00",
+   "metric_name": "stars",
+   "metric": 933,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true
+  },
+  {
+   "id": "GitHub 신규:https://github.com/boringmarketer/boring-marketing-skills",
+   "source": "GitHub 신규",
+   "title": "boringmarketer/boring-marketing-skills",
+   "url": "https://github.com/boringmarketer/boring-marketing-skills",
+   "created": "2026-11-16T15:09:46+00:00",
+   "metric_name": "stars",
+   "metric": 719,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 48.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/diego3g/craft",
+   "source": "GitHub 신규",
+   "title": "diego3g/craft",
+   "url": "https://github.com/diego3g/craft",
+   "created": "2026-11-15T20:08:15+00:00",
+   "metric_name": "stars",
+   "metric": 275,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 13.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/staryone/motlab",
+   "source": "GitHub 신규",
+   "title": "staryone/motlab",
+   "url": "https://github.com/staryone/motlab",
+   "created": "2026-11-16T13:45:47+00:00",
+   "metric_name": "stars",
+   "metric": 224,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 31.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/lowdevco/Clip-Forge",
+   "source": "GitHub 신규",
+   "title": "lowdevco/Clip-Forge",
+   "url": "https://github.com/lowdevco/Clip-Forge",
+   "created": "2026-11-13T06:37:00+00:00",
+   "metric_name": "stars",
+   "metric": 69,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 4.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/qualixar/brief2mp4",
+   "source": "GitHub 신규",
+   "title": "qualixar/brief2mp4",
+   "url": "https://github.com/qualixar/brief2mp4",
+   "created": "2026-11-14T11:57:20+00:00",
+   "metric_name": "stars",
+   "metric": 48,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 18.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/petekp/coordinator",
+   "source": "GitHub 신규",
+   "title": "petekp/coordinator",
+   "url": "https://github.com/petekp/coordinator",
+   "created": "2026-11-15T00:00:02+00:00",
+   "metric_name": "stars",
+   "metric": 46,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/lonely-dance-lab/self-media-guide",
+   "source": "GitHub 신규",
+   "title": "lonely-dance-lab/self-media-guide",
+   "url": "https://github.com/lonely-dance-lab/self-media-guide",
+   "created": "2026-11-15T06:24:10+00:00",
+   "metric_name": "stars",
+   "metric": 42,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 3.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/Viprasol-Tech/claude-video-editing-skills",
+   "source": "GitHub 신규",
+   "title": "Viprasol-Tech/claude-video-editing-skills",
+   "url": "https://github.com/Viprasol-Tech/claude-video-editing-skills",
+   "created": "2026-11-17T00:15:24+00:00",
+   "metric_name": "stars",
+   "metric": 40,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true
+  },
+  {
+   "id": "GitHub 신규:https://github.com/luccacerfz/character-factory-skills",
+   "source": "GitHub 신규",
+   "title": "luccacerfz/character-factory-skills",
+   "url": "https://github.com/luccacerfz/character-factory-skills",
+   "created": "2026-11-14T23:12:54+00:00",
+   "metric_name": "stars",
+   "metric": 37,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 5.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/tipsai/product-seo",
+   "source": "GitHub 신규",
+   "title": "tipsai/product-seo",
+   "url": "https://github.com/tipsai/product-seo",
+   "created": "2026-11-16T11:48:27+00:00",
+   "metric_name": "stars",
+   "metric": 35,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/byrishi/punchcutter",
+   "source": "GitHub 신규",
+   "title": "byrishi/punchcutter",
+   "url": "https://github.com/byrishi/punchcutter",
+   "created": "2026-11-13T15:34:42+00:00",
+   "metric_name": "stars",
+   "metric": 31,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 1.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/jaronhonda387-design/virtual-card-usdt-anthropic-ipo-claude52-vcc-applepay",
+   "source": "GitHub 신규",
+   "title": "jaronhonda387-design/virtual-card-usdt-anthropic-ipo-claude52-vcc-applepay",
+   "url": "https://github.com/jaronhonda387-design/virtual-card-usdt-anthropic-ipo-claude52-vcc-applepay",
+   "created": "2026-11-16T07:47:45+00:00",
+   "metric_name": "stars",
+   "metric": 29,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 8.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/AnandJogawade/Zazy-Pentest-Plugin-for-Claude",
+   "source": "GitHub 신규",
+   "title": "AnandJogawade/Zazy-Pentest-Plugin-for-Claude",
+   "url": "https://github.com/AnandJogawade/Zazy-Pentest-Plugin-for-Claude",
+   "created": "2026-11-16T11:50:06+00:00",
+   "metric_name": "stars",
+   "metric": 29,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 3.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/iamshakibali/editorial-taste",
+   "source": "GitHub 신규",
+   "title": "iamshakibali/editorial-taste",
+   "url": "https://github.com/iamshakibali/editorial-taste",
+   "created": "2026-11-18T09:29:48+00:00",
+   "metric_name": "stars",
+   "metric": 27,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true
+  },
+  {
+   "id": "GitHub 신규:https://github.com/JL-GUO/skill-siphon",
+   "source": "GitHub 신규",
+   "title": "JL-GUO/skill-siphon",
+   "url": "https://github.com/JL-GUO/skill-siphon",
+   "created": "2026-11-18T01:48:42+00:00",
+   "metric_name": "stars",
+   "metric": 25,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true
+  },
+  {
+   "id": "GitHub 신규:https://github.com/mubarakmarafa/designloop",
+   "source": "GitHub 신규",
+   "title": "mubarakmarafa/designloop",
+   "url": "https://github.com/mubarakmarafa/designloop",
+   "created": "2026-11-13T14:42:02+00:00",
+   "metric_name": "stars",
+   "metric": 22,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/suzhe-ai/suzhe-ui",
+   "source": "GitHub 신규",
+   "title": "suzhe-ai/suzhe-ui",
+   "url": "https://github.com/suzhe-ai/suzhe-ui",
+   "created": "2026-11-15T06:53:18+00:00",
+   "metric_name": "stars",
+   "metric": 21,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.5
+  },
+  {
+   "id": "HN:https://gist.github.com/carrollco/bec001c7d337b49a7449bc8f9558854c",
+   "source": "HN",
+   "title": "Claude Code makes a finished subagent send its report twice (70-second repro)",
+   "url": "https://gist.github.com/carrollco/bec001c7d337b49a7449bc8f9558854c",
+   "created": "2026-11-19T01:13:40+00:00",
+   "metric_name": "points",
+   "metric": 2,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50554763",
+   "comments": 0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/tariksucu/converter-studio",
+   "source": "GitHub 신규",
+   "title": "tariksucu/converter-studio",
+   "url": "https://github.com/tariksucu/converter-studio",
+   "created": "2026-11-18T21:44:16+00:00",
+   "metric_name": "stars",
+   "metric": 2,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true
+  },
+  {
+   "id": "HN:https://github.com/bugsworthai/adversary",
+   "source": "HN",
+   "title": "Show HN: AdversaryPR – A Claude skill to keep up with AI-written PR's",
+   "url": "https://github.com/bugsworthai/adversary",
+   "created": "2026-11-19T20:07:06+00:00",
+   "metric_name": "points",
+   "metric": 1,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50565593",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://github.com/kabirshah4/muscle-memory",
+   "source": "HN",
+   "title": "Muscle-memory – repeated Claude Code tasks run with zero tokens",
+   "url": "https://github.com/kabirshah4/muscle-memory",
+   "created": "2026-11-19T22:03:48+00:00",
+   "metric_name": "points",
+   "metric": 1,
+   "relevance": 2,
+   "themes": [
+    "token_cost"
+   ],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50567090",
+   "comments": 0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/airdropfi/datafast-gemini-extension",
+   "source": "GitHub 신규",
+   "title": "airdropfi/datafast-gemini-extension",
+   "url": "https://github.com/airdropfi/datafast-gemini-extension",
+   "created": "2026-11-13T07:00:35+00:00",
+   "metric_name": "stars",
+   "metric": 1,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/airdropfi/showmrr-gemini-extension",
+   "source": "GitHub 신규",
+   "title": "airdropfi/showmrr-gemini-extension",
+   "url": "https://github.com/airdropfi/showmrr-gemini-extension",
+   "created": "2026-11-13T06:56:17+00:00",
+   "metric_name": "stars",
+   "metric": 1,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/Pomerado/gemini-cli-extension",
+   "source": "GitHub 신규",
+   "title": "Pomerado/gemini-cli-extension",
+   "url": "https://github.com/Pomerado/gemini-cli-extension",
+   "created": "2026-11-20T00:16:45+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true
+  },
+  {
+   "id": "GitHub 신규:https://github.com/nrephi/monprof-gemini-extension",
+   "source": "GitHub 신규",
+   "title": "nrephi/monprof-gemini-extension",
+   "url": "https://github.com/nrephi/monprof-gemini-extension",
+   "created": "2026-11-14T19:58:14+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/formtango/gemini-extension",
+   "source": "GitHub 신규",
+   "title": "formtango/gemini-extension",
+   "url": "https://github.com/formtango/gemini-extension",
+   "created": "2026-11-19T19:15:37+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true
+  },
+  {
+   "id": "GitHub 신규:https://github.com/starthrop-dynamics/package-tracker-gemini-extension",
+   "source": "GitHub 신규",
+   "title": "starthrop-dynamics/package-tracker-gemini-extension",
+   "url": "https://github.com/starthrop-dynamics/package-tracker-gemini-extension",
+   "created": "2026-11-17T14:54:06+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/Fitrofy/fitrofy-gemini-extension",
+   "source": "GitHub 신규",
+   "title": "Fitrofy/fitrofy-gemini-extension",
+   "url": "https://github.com/Fitrofy/fitrofy-gemini-extension",
+   "created": "2026-11-19T13:29:16+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true
+  },
+  {
+   "id": "GitHub 신규:https://github.com/airdropfi/memepump-gemini-extension",
+   "source": "GitHub 신규",
+   "title": "airdropfi/memepump-gemini-extension",
+   "url": "https://github.com/airdropfi/memepump-gemini-extension",
+   "created": "2026-11-13T07:09:03+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true,
+   "velocity": 0.0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/Bitcomethub/zipir-gemini-extension",
+   "source": "GitHub 신규",
+   "title": "Bitcomethub/zipir-gemini-extension",
+   "url": "https://github.com/Bitcomethub/zipir-gemini-extension",
+   "created": "2026-11-18T17:50:53+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true
+  },
+  {
+   "id": "GitHub 신규:https://github.com/icodeship/officegen-gemini-extension",
+   "source": "GitHub 신규",
+   "title": "icodeship/officegen-gemini-extension",
+   "url": "https://github.com/icodeship/officegen-gemini-extension",
+   "created": "2026-11-15T12:55:12+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true
+  },
+  {
+   "id": "GitHub 신규:https://github.com/alik472/plansend-gemini-extension",
+   "source": "GitHub 신규",
+   "title": "alik472/plansend-gemini-extension",
+   "url": "https://github.com/alik472/plansend-gemini-extension",
+   "created": "2026-11-17T15:52:26+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 2,
+   "themes": [
+    "workflow"
+   ],
+   "platform": true
+  },
+  {
+   "id": "GeekNews:https://news.hada.io/topic?id=37490&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "브라우저에서 A4 한 장으로 접는 8페이지 소책자 만들기",
+   "url": "https://news.hada.io/topic?id=37490&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "created": "2026-11-20T06:42:39+09:00",
+   "metric_name": "rss",
+   "metric": 0,
+   "relevance": 2,
+   "themes": [
+    "pdf_data"
+   ],
+   "platform": false
+  },
+  {
+   "id": "Google Workspace Updates:http://workspaceupdates.googleblog.com/feeds/7056902596913698603/comments/default",
+   "source": "Google Workspace Updates",
+   "title": "Seamlessly share presented file links with viewers in Google Meet",
+   "url": "http://workspaceupdates.googleblog.com/feeds/7056902596913698603/comments/default",
+   "created": "2026-11-19T07:02:01.166000-08:00",
+   "metric_name": "rss",
+   "metric": 0,
+   "relevance": 2,
+   "themes": [
+    "deck_report"
+   ],
+   "platform": false
+  },
+  {
+   "id": "Google Workspace Updates:http://workspaceupdates.googleblog.com/feeds/6385593141781364473/comments/default",
+   "source": "Google Workspace Updates",
+   "title": "Add inline captions, cross-references, and tables of captions in Google Docs",
+   "url": "http://workspaceupdates.googleblog.com/feeds/6385593141781364473/comments/default",
+   "created": "2026-11-18T14:52:11.161000-08:00",
+   "metric_name": "rss",
+   "metric": 0,
+   "relevance": 2,
+   "themes": [
+    "deck_report"
+   ],
+   "platform": false
+  },
+  {
+   "id": "GitHub 트렌딩:https://github.com/alibaba/open-code-review",
+   "source": "GitHub 트렌딩",
+   "title": "alibaba/open-code-review",
+   "url": "https://github.com/alibaba/open-code-review",
+   "created": "2026-11-20T02:56:49.487006+00:00",
+   "metric_name": "stars 이번 주",
+   "metric": 4492,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "period": "weekly"
+  },
+  {
+   "id": "GitHub 트렌딩:https://github.com/ChromeDevTools/chrome-devtools-mcp",
+   "source": "GitHub 트렌딩",
+   "title": "ChromeDevTools/chrome-devtools-mcp",
+   "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
+   "created": "2026-11-20T02:56:49.487006+00:00",
+   "metric_name": "stars 이번 주",
+   "metric": 3229,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false,
+   "period": "weekly"
+  },
+  {
+   "id": "GitHub 트렌딩:https://github.com/mvanhorn/last30days-skill",
+   "source": "GitHub 트렌딩",
+   "title": "mvanhorn/last30days-skill",
+   "url": "https://github.com/mvanhorn/last30days-skill",
+   "created": "2026-11-20T02:56:49.487006+00:00",
+   "metric_name": "stars 이번 주",
+   "metric": 3179,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false,
+   "period": "weekly"
+  },
+  {
+   "id": "GitHub 트렌딩:https://github.com/obra/superpowers",
+   "source": "GitHub 트렌딩",
+   "title": "obra/superpowers",
+   "url": "https://github.com/obra/superpowers",
+   "created": "2026-11-20T02:56:49.487006+00:00",
+   "metric_name": "stars 오늘",
+   "metric": 2028,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false,
+   "period": "daily"
+  },
+  {
+   "id": "HN:https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+   "source": "HN",
+   "title": "Anthropic’s Nasdaq debut",
+   "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19/",
+   "created": "2026-11-19T17:02:40+00:00",
+   "metric_name": "points",
+   "metric": 950,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50562754",
+   "comments": 1869
+  },
+  {
+   "id": "HN:https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+   "source": "HN",
+   "title": "Anthropic prices initial public offering",
+   "url": "https://www.anthropic.com/news/anthropic-prices-initial-public-offering",
+   "created": "2026-11-18T23:30:09+00:00",
+   "metric_name": "points",
+   "metric": 412,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50553843",
+   "comments": 777
+  },
+  {
+   "id": "HN:https://www.anthropic.com/research/claude-black-hole-physics",
+   "source": "HN",
+   "title": "Claude solves two open problems in the physics of black holes",
+   "url": "https://www.anthropic.com/research/claude-black-hole-physics",
+   "created": "2026-11-19T17:30:44+00:00",
+   "metric_name": "points",
+   "metric": 408,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50563148",
+   "comments": 186
+  },
+  {
+   "id": "GitHub 트렌딩:https://github.com/cursor/plugins",
+   "source": "GitHub 트렌딩",
+   "title": "cursor/plugins",
+   "url": "https://github.com/cursor/plugins",
+   "created": "2026-11-20T02:56:49.487006+00:00",
+   "metric_name": "stars 오늘",
+   "metric": 384,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false,
+   "period": "daily"
+  },
+  {
+   "id": "GitHub 신규:https://github.com/trackersnailgrip/GitHub-Copilot-app",
+   "source": "GitHub 신규",
+   "title": "trackersnailgrip/GitHub-Copilot-app",
+   "url": "https://github.com/trackersnailgrip/GitHub-Copilot-app",
+   "created": "2026-11-14T19:16:41+00:00",
+   "metric_name": "stars",
+   "metric": 383,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false
+  },
+  {
+   "id": "GitHub 신규:https://github.com/toppatronweave/GitHub-Copilot-app",
+   "source": "GitHub 신규",
+   "title": "toppatronweave/GitHub-Copilot-app",
+   "url": "https://github.com/toppatronweave/GitHub-Copilot-app",
+   "created": "2026-11-14T19:25:20+00:00",
+   "metric_name": "stars",
+   "metric": 379,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false
+  },
+  {
+   "id": "GitHub 트렌딩:https://github.com/mjmirza/app-store-compliance",
+   "source": "GitHub 트렌딩",
+   "title": "mjmirza/app-store-compliance",
+   "url": "https://github.com/mjmirza/app-store-compliance",
+   "created": "2026-11-20T02:56:49.487006+00:00",
+   "metric_name": "stars 오늘",
+   "metric": 377,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false,
+   "period": "daily"
+  },
+  {
+   "id": "GitHub 신규:https://github.com/TrapBladesmith/GitHub-Copilot-app",
+   "source": "GitHub 신규",
+   "title": "TrapBladesmith/GitHub-Copilot-app",
+   "url": "https://github.com/TrapBladesmith/GitHub-Copilot-app",
+   "created": "2026-11-14T19:16:50+00:00",
+   "metric_name": "stars",
+   "metric": 377,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false
+  },
+  {
+   "id": "GitHub 신규:https://github.com/TurquoiseConsultant/GitHub-Copilot-app",
+   "source": "GitHub 신규",
+   "title": "TurquoiseConsultant/GitHub-Copilot-app",
+   "url": "https://github.com/TurquoiseConsultant/GitHub-Copilot-app",
+   "created": "2026-11-14T19:25:20+00:00",
+   "metric_name": "stars",
+   "metric": 376,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false
+  },
+  {
+   "id": "GitHub 신규:https://github.com/TarantulaCorrect/GitHub-Copilot-app",
+   "source": "GitHub 신규",
+   "title": "TarantulaCorrect/GitHub-Copilot-app",
+   "url": "https://github.com/TarantulaCorrect/GitHub-Copilot-app",
+   "created": "2026-11-14T19:25:19+00:00",
+   "metric_name": "stars",
+   "metric": 376,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false
+  },
+  {
+   "id": "GitHub 신규:https://github.com/Trapkrostride/GitHub-Copilot-app",
+   "source": "GitHub 신규",
+   "title": "Trapkrostride/GitHub-Copilot-app",
+   "url": "https://github.com/Trapkrostride/GitHub-Copilot-app",
+   "created": "2026-11-14T19:25:19+00:00",
+   "metric_name": "stars",
+   "metric": 373,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false
+  },
+  {
+   "id": "GitHub 신규:https://github.com/topconstableinlet67/GitHub-Copilot-app",
+   "source": "GitHub 신규",
+   "title": "topconstableinlet67/GitHub-Copilot-app",
+   "url": "https://github.com/topconstableinlet67/GitHub-Copilot-app",
+   "created": "2026-11-14T19:25:19+00:00",
+   "metric_name": "stars",
+   "metric": 373,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false
+  },
+  {
+   "id": "GitHub 트렌딩:https://github.com/cathrynlavery/diagram-design",
+   "source": "GitHub 트렌딩",
+   "title": "cathrynlavery/diagram-design",
+   "url": "https://github.com/cathrynlavery/diagram-design",
+   "created": "2026-11-20T02:56:49.487006+00:00",
+   "metric_name": "stars 오늘",
+   "metric": 271,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "period": "daily"
+  },
+  {
+   "id": "HN:https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+   "source": "HN",
+   "title": "Gemini 4 Neon looks like an Opus 5.5 competitor",
+   "url": "https://micjm.com/blog/gemini-4-neon-looks-like-a-top-model/",
+   "created": "2026-11-19T00:29:45+00:00",
+   "metric_name": "points",
+   "metric": 251,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50554374",
+   "comments": 78
+  },
+  {
+   "id": "GitHub 신규:https://github.com/Duoasa/Duoasa-skill",
+   "source": "GitHub 신규",
+   "title": "Duoasa/Duoasa-skill",
+   "url": "https://github.com/Duoasa/Duoasa-skill",
+   "created": "2026-11-14T13:28:05+00:00",
+   "metric_name": "stars",
+   "metric": 179,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false
+  },
+  {
+   "id": "GitHub 신규:https://github.com/massswanball/GitHub-Copilot-app",
+   "source": "GitHub 신규",
+   "title": "massswanball/GitHub-Copilot-app",
+   "url": "https://github.com/massswanball/GitHub-Copilot-app",
+   "created": "2026-11-14T16:46:19+00:00",
+   "metric_name": "stars",
+   "metric": 86,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false
+  },
+  {
+   "id": "GitHub 신규:https://github.com/ProtonDonorLure/GitHub-Copilot-app",
+   "source": "GitHub 신규",
+   "title": "ProtonDonorLure/GitHub-Copilot-app",
+   "url": "https://github.com/ProtonDonorLure/GitHub-Copilot-app",
+   "created": "2026-11-14T16:46:18+00:00",
+   "metric_name": "stars",
+   "metric": 86,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false
+  },
+  {
+   "id": "HN:https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/",
+   "source": "HN",
+   "title": "No Bailout for the AI Bubble, Anthropic IPO Protesters Say",
+   "url": "https://www.techpolicy.press/no-bailout-for-the-ai-bubble-anthropic-ipo-protesters-say/",
+   "created": "2026-11-19T18:42:13+00:00",
+   "metric_name": "points",
+   "metric": 40,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50564282",
+   "comments": 21
+  },
+  {
+   "id": "HN:https://news.ycombinator.com/item?id=50562528",
+   "source": "HN",
+   "title": "Anthropic (ANT) stock lists at nearly $2T valuation",
+   "url": "https://news.ycombinator.com/item?id=50562528",
+   "created": "2026-11-19T16:47:32+00:00",
+   "metric_name": "points",
+   "metric": 39,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50562528",
+   "comments": 11
+  },
+  {
+   "id": "HN:https://apnews.com/article/anthropic-ipo-pricing-70b660ddf900d90bbf484ecdf1fb441c",
+   "source": "HN",
+   "title": "Anthropic reportedly prices its IPO at $83 per share, valuing at $1.5T",
+   "url": "https://apnews.com/article/anthropic-ipo-pricing-70b660ddf900d90bbf484ecdf1fb441c",
+   "created": "2026-11-18T23:00:26+00:00",
+   "metric_name": "points",
+   "metric": 17,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50553581",
+   "comments": 27
+  },
+  {
+   "id": "HN:https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/guides/gemini-4-neon",
+   "source": "HN",
+   "title": "Gemini 4 Neon",
+   "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/guides/gemini-4-neon",
+   "created": "2026-11-18T21:21:51+00:00",
+   "metric_name": "points",
+   "metric": 13,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50552279",
+   "comments": 2
+  },
+  {
+   "id": "HN:https://www.wsj.com/finance/stocks/anthropic-prices-ipo-at-83-a-share-0290494c",
+   "source": "HN",
+   "title": "Anthropic Prices IPO at $83 a Share",
+   "url": "https://www.wsj.com/finance/stocks/anthropic-prices-ipo-at-83-a-share-0290494c",
+   "created": "2026-11-18T21:42:05+00:00",
+   "metric_name": "points",
+   "metric": 11,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50552520",
+   "comments": 6
+  },
+  {
+   "id": "HN:https://www.nasdaq.com/market-activity/stocks/ant",
+   "source": "HN",
+   "title": "Anthropic stock is now trading live on the NASDAQ (symbol: ANT)",
+   "url": "https://www.nasdaq.com/market-activity/stocks/ant",
+   "created": "2026-11-19T16:53:14+00:00",
+   "metric_name": "points",
+   "metric": 10,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50562623",
+   "comments": 5
+  },
+  {
+   "id": "HN:https://www.youtube.com/watch?v=pyRG_5dCrfg",
+   "source": "HN",
+   "title": "\"Independent\" AI Safety Groups Are Pumping Anthropic's IPO [video]",
+   "url": "https://www.youtube.com/watch?v=pyRG_5dCrfg",
+   "created": "2026-11-19T15:32:36+00:00",
+   "metric_name": "points",
+   "metric": 10,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50561434",
+   "comments": 1
+  },
+  {
+   "id": "HN:https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+   "source": "HN",
+   "title": "Anthropic IPO Raises over $81B",
+   "url": "https://www.cnbc.com/2026/11/18/anthropic-ipo-ai-offering-price.html",
+   "created": "2026-11-19T07:36:09+00:00",
+   "metric_name": "points",
+   "metric": 9,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50557102",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html",
+   "source": "HN",
+   "title": "One of Anthropic's Biggest IPO Winners Feels a Bit Uneasy About the Whole Thing",
+   "url": "https://www.nytimes.com/2026/11/19/business/anthropic-ipo-dustin-moskovitz.html",
+   "created": "2026-11-19T20:46:34+00:00",
+   "metric_name": "points",
+   "metric": 8,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50566126",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://twitter.com/RafaAudibert/status/2123172440587043196",
+   "source": "HN",
+   "title": "Claude Code can now generate charts in the terminal",
+   "url": "https://twitter.com/RafaAudibert/status/2123172440587043196",
+   "created": "2026-11-18T23:23:50+00:00",
+   "metric_name": "points",
+   "metric": 7,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50553784",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://www.wsj.com/tech/ai/thousands-of-anthropic-employees-and-investors-are-set-to-reap-fortunes-d9c3c6ed",
+   "source": "HN",
+   "title": "Majority of Anthropic's over 5k employees expected to become millionaires",
+   "url": "https://www.wsj.com/tech/ai/thousands-of-anthropic-employees-and-investors-are-set-to-reap-fortunes-d9c3c6ed",
+   "created": "2026-11-19T19:11:02+00:00",
+   "metric_name": "points",
+   "metric": 7,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50564733",
+   "comments": 4
+  },
+  {
+   "id": "HN:https://www.vox.com/today-explained-newsletter/510608/anthropic-ipo",
+   "source": "HN",
+   "title": "Anthropic's early birds are getting rich",
+   "url": "https://www.vox.com/today-explained-newsletter/510608/anthropic-ipo",
+   "created": "2026-11-19T00:36:18+00:00",
+   "metric_name": "points",
+   "metric": 7,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50554437",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://news.ycombinator.com/item?id=50560575",
+   "source": "HN",
+   "title": "Rant: Gemini 4 does not make any sense",
+   "url": "https://news.ycombinator.com/item?id=50560575",
+   "created": "2026-11-19T14:28:11+00:00",
+   "metric_name": "points",
+   "metric": 6,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50560575",
+   "comments": 8
+  },
+  {
+   "id": "HN:https://calmatters.org/economy/technology/2026/11/newsom-touts-ai-kill-switch/",
+   "source": "HN",
+   "title": "Newsom touts an AI kill switch to halt dangerous OpenAI, Anthropic releases",
+   "url": "https://calmatters.org/economy/technology/2026/11/newsom-touts-ai-kill-switch/",
+   "created": "2026-11-19T01:14:02+00:00",
+   "metric_name": "points",
+   "metric": 6,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50554767",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://www.theguardian.com/technology/2026/nov/18/anthropic-share-price-stock-market-ipo",
+   "source": "HN",
+   "title": "Anthropic sets share price at $83 for stock market debut, above expected range",
+   "url": "https://www.theguardian.com/technology/2026/nov/18/anthropic-share-price-stock-market-ipo",
+   "created": "2026-11-18T23:32:26+00:00",
+   "metric_name": "points",
+   "metric": 6,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50553856",
+   "comments": 1
+  },
+  {
+   "id": "HN:https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html",
+   "source": "HN",
+   "title": "I Spent a Year Talking to Anthropic Employees. Here's What They Believe",
+   "url": "https://www.nytimes.com/2026/11/18/opinion/anthropic-ai-openai.html",
+   "created": "2026-11-19T08:15:18+00:00",
+   "metric_name": "points",
+   "metric": 5,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50557370",
+   "comments": 1
+  },
+  {
+   "id": "HN:https://news.ycombinator.com/item?id=50566487",
+   "source": "HN",
+   "title": "Anthropic should give stock to Stack Overflow (and OpenAI too)",
+   "url": "https://news.ycombinator.com/item?id=50566487",
+   "created": "2026-11-19T21:15:17+00:00",
+   "metric_name": "points",
+   "metric": 4,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50566487",
+   "comments": 2
+  },
+  {
+   "id": "HN:https://www.youtube.com/watch?v=a5pHmGq1mEs",
+   "source": "HN",
+   "title": "IPO: Anthropic Bankruptsy Likelier Than Success [video][15m]",
+   "url": "https://www.youtube.com/watch?v=a5pHmGq1mEs",
+   "created": "2026-11-19T22:18:39+00:00",
+   "metric_name": "points",
+   "metric": 4,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50567265",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://so8res.substack.com/p/anthropic-is-not-living-up-to-its",
+   "source": "HN",
+   "title": "Anthropic is not living up to its ideals",
+   "url": "https://so8res.substack.com/p/anthropic-is-not-living-up-to-its",
+   "created": "2026-11-19T02:46:35+00:00",
+   "metric_name": "points",
+   "metric": 4,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50555434",
+   "comments": 2
+  },
+  {
+   "id": "HN:https://www.reuters.com/live/anthropic-ipo-live-claude-maker-goes-public-nasdaq-after-record-share-offering-2026-11-19/",
+   "source": "HN",
+   "title": "Anthropic breaks $2T valuation in market debut",
+   "url": "https://www.reuters.com/live/anthropic-ipo-live-claude-maker-goes-public-nasdaq-after-record-share-offering-2026-11-19/",
+   "created": "2026-11-19T18:38:39+00:00",
+   "metric_name": "points",
+   "metric": 4,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50564223",
+   "comments": 1
+  },
+  {
+   "id": "HN:https://www.nytimes.com/2026/11/19/opinion/anthropic-ipo-ai-regulation.html",
+   "source": "HN",
+   "title": "Don't Play Anthropic's Game",
+   "url": "https://www.nytimes.com/2026/11/19/opinion/anthropic-ipo-ai-regulation.html",
+   "created": "2026-11-19T14:53:19+00:00",
+   "metric_name": "points",
+   "metric": 4,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50560910",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-said-to-give-nothing-to-most-institutional-buyers",
+   "source": "HN",
+   "title": "Anthropic IPO Said to Give Nothing to Most Institutional Buyers",
+   "url": "https://www.bloomberg.com/news/articles/2026-11-19/anthropic-ipo-said-to-give-nothing-to-most-institutional-buyers",
+   "created": "2026-11-19T14:52:49+00:00",
+   "metric_name": "points",
+   "metric": 4,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50560901",
+   "comments": 1
+  },
+  {
+   "id": "HN:https://agentbolt.dev/#game",
+   "source": "HN",
+   "title": "Show HN: Agent Bolt – a browser game that teaches Claude Code by doing",
+   "url": "https://agentbolt.dev/#game",
+   "created": "2026-11-19T10:23:48+00:00",
+   "metric_name": "points",
+   "metric": 3,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50558292",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://twitter.com/AnthropicAI/status/2123461658890686863",
+   "source": "HN",
+   "title": "Remarks from Anthropic CEO Dario Amodei on our initial public offering",
+   "url": "https://twitter.com/AnthropicAI/status/2123461658890686863",
+   "created": "2026-11-19T17:19:54+00:00",
+   "metric_name": "points",
+   "metric": 3,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50562978",
+   "comments": 1
+  },
+  {
+   "id": "HN:https://www.theatlantic.com/technology/2026/11/anthropic-winner-ai-race/689479/",
+   "source": "HN",
+   "title": "Anthropic Is the Reluctant Winner of the AI Race",
+   "url": "https://www.theatlantic.com/technology/2026/11/anthropic-winner-ai-race/689479/",
+   "created": "2026-11-19T12:25:19+00:00",
+   "metric_name": "points",
+   "metric": 3,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50559201",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price",
+   "source": "HN",
+   "title": "Anthropic IPO raises record $81.3B on strong AI demand",
+   "url": "https://www.npr.org/2026/11/18/nx-s1-6046212/anthropic-record-ipo-price",
+   "created": "2026-11-19T04:52:30+00:00",
+   "metric_name": "points",
+   "metric": 3,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50556197",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://www.reuters.com/business/world-at-work/anthropic-ipo-mint-thousands-of-millionaires-2026-11-18/",
+   "source": "HN",
+   "title": "Anthropic IPO to Mint Millionaires",
+   "url": "https://www.reuters.com/business/world-at-work/anthropic-ipo-mint-thousands-of-millionaires-2026-11-18/",
+   "created": "2026-11-19T01:41:30+00:00",
+   "metric_name": "points",
+   "metric": 3,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50555024",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://thunderphone.com/blog/introducing-zeus",
+   "source": "HN",
+   "title": "Show HN: Zeus – Claude Code for AI voice agents",
+   "url": "https://thunderphone.com/blog/introducing-zeus",
+   "created": "2026-11-20T00:51:52+00:00",
+   "metric_name": "points",
+   "metric": 2,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50568763",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://github.com/pattern-ai-labs/agentcall/",
+   "source": "HN",
+   "title": "AgentCall – Bring your agents to multilingual online meetings using skill",
+   "url": "https://github.com/pattern-ai-labs/agentcall/",
+   "created": "2026-11-19T10:07:40+00:00",
+   "metric_name": "points",
+   "metric": 2,
+   "relevance": 1,
+   "themes": [
+    "workflow"
+   ],
+   "platform": false,
+   "discussion": "https://news.ycombinator.com/item?id=50558168",
+   "comments": 3
+  },
+  {
+   "id": "HN:https://junctionboxai.com/",
+   "source": "HN",
+   "title": "JunctionBox AI: Run Claude Code, Codex, Grok, and Ollama Agents Locally",
+   "url": "https://junctionboxai.com/",
+   "created": "2026-11-19T14:08:49+00:00",
+   "metric_name": "points",
+   "metric": 2,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50560320",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/abuse-monitoring",
+   "source": "HN",
+   "title": "Gemini 4 Neon has no opt-out of prompt logging",
+   "url": "https://docs.cloud.google.com/gemini-enterprise-agent-platform/models/abuse-monitoring",
+   "created": "2026-11-19T13:46:28+00:00",
+   "metric_name": "points",
+   "metric": 2,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50560043",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
+   "source": "HN",
+   "title": "'Anthropic was supposed to save the AI trade. What went wrong?' – CNBC",
+   "url": "https://www.cnbc.com/2026/11/19/anthropic-ipo-ai-stocks-selloff.html",
+   "created": "2026-11-20T01:11:25+00:00",
+   "metric_name": "points",
+   "metric": 2,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50568902",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://www.youtube.com/watch?v=sof3vW4mHTs",
+   "source": "HN",
+   "title": "Why We Built Anthropic [video]",
+   "url": "https://www.youtube.com/watch?v=sof3vW4mHTs",
+   "created": "2026-11-19T22:55:16+00:00",
+   "metric_name": "points",
+   "metric": 2,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50567721",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://www.kadoa.com/companies/insights/tech-ipo-revenue-multiples",
+   "source": "HN",
+   "title": "Anthropic's IPO compared with the dot-com IPOs",
+   "url": "https://www.kadoa.com/companies/insights/tech-ipo-revenue-multiples",
+   "created": "2026-11-19T21:02:18+00:00",
+   "metric_name": "points",
+   "metric": 2,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50566318",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+   "source": "HN",
+   "title": "Anthropic's Record-Breaking IPO Highlights the AI Giant's Worst Enemy–Itself",
+   "url": "https://www.wired.com/story/anthropics-record-breaking-ipo-highlights-the-ai-giants-worst-enemy-itself/",
+   "created": "2026-11-19T19:12:33+00:00",
+   "metric_name": "points",
+   "metric": 2,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50564757",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://ludovicphalippou.substack.com/p/anthropic-at-14-trillion-my-valuation",
+   "source": "HN",
+   "title": "Anthropic at $1.4T? My Valuation Is Under $1B",
+   "url": "https://ludovicphalippou.substack.com/p/anthropic-at-14-trillion-my-valuation",
+   "created": "2026-11-19T16:50:44+00:00",
+   "metric_name": "points",
+   "metric": 2,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50562579",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://www.wsj.com/livecoverage/anthropic-ipo-stock-market-today-11-19-2026",
+   "source": "HN",
+   "title": "Anthropic IPO at $83",
+   "url": "https://www.wsj.com/livecoverage/anthropic-ipo-stock-market-today-11-19-2026",
+   "created": "2026-11-19T14:45:43+00:00",
+   "metric_name": "points",
+   "metric": 2,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50560809",
+   "comments": 3
+  },
+  {
+   "id": "HN:https://www.youtube.com/watch?v=cpIlQK6p9cY",
+   "source": "HN",
+   "title": "Anthropic IPO: Live",
+   "url": "https://www.youtube.com/watch?v=cpIlQK6p9cY",
+   "created": "2026-11-19T14:28:36+00:00",
+   "metric_name": "points",
+   "metric": 2,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50560579",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://medium.com/@spencerkohan/two-open-questions-for-valuing-anthropic-e529229c828e",
+   "source": "HN",
+   "title": "Two Open Questions for Valuing Anthropic",
+   "url": "https://medium.com/@spencerkohan/two-open-questions-for-valuing-anthropic-e529229c828e",
+   "created": "2026-11-19T13:30:39+00:00",
+   "metric_name": "points",
+   "metric": 2,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50559841",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e",
+   "source": "HN",
+   "title": "Anthropic raises $81B in record IPO",
+   "url": "https://www.ft.com/content/62c0510b-ca65-441e-9baf-675b93903b9e",
+   "created": "2026-11-19T06:38:05+00:00",
+   "metric_name": "points",
+   "metric": 2,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50556739",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://www.reuters.com/legal/transactional/anthropic-prices-blockbuster-ipo-83-share-source-says-2026-11-18/",
+   "source": "HN",
+   "title": "Anthropic raises record $81B in IPO at $1.5T valuation",
+   "url": "https://www.reuters.com/legal/transactional/anthropic-prices-blockbuster-ipo-83-share-source-says-2026-11-18/",
+   "created": "2026-11-19T04:55:11+00:00",
+   "metric_name": "points",
+   "metric": 2,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50556211",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://news.ycombinator.com/item?id=50564298",
+   "source": "HN",
+   "title": "Claude-code's outputs feel longer than usual",
+   "url": "https://news.ycombinator.com/item?id=50564298",
+   "created": "2026-11-19T18:42:53+00:00",
+   "metric_name": "points",
+   "metric": 1,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50564298",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://github.com/cktang88/claude-ticker-theme",
+   "source": "HN",
+   "title": "Live stock ticker theme for Claude Code desktop",
+   "url": "https://github.com/cktang88/claude-ticker-theme",
+   "created": "2026-11-19T18:23:29+00:00",
+   "metric_name": "points",
+   "metric": 1,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50563950",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://github.com/aiusageball/ai-usage-ball",
+   "source": "HN",
+   "title": "Show HN: AI Usage Ball – Claude, Codex, Antigravity Quota Left as Mac Orbs",
+   "url": "https://github.com/aiusageball/ai-usage-ball",
+   "created": "2026-11-19T16:09:47+00:00",
+   "metric_name": "points",
+   "metric": 1,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50561944",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://keepplain.com/transcript",
+   "source": "HN",
+   "title": "Show HN: Read a Claude Code or Codex session file as a page, in the browser",
+   "url": "https://keepplain.com/transcript",
+   "created": "2026-11-19T16:06:11+00:00",
+   "metric_name": "points",
+   "metric": 1,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50561908",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://deepnote.com/blog/apps",
+   "source": "HN",
+   "title": "Sync all apps you build in Codex, Claude, or locally",
+   "url": "https://deepnote.com/blog/apps",
+   "created": "2026-11-19T15:58:50+00:00",
+   "metric_name": "points",
+   "metric": 1,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50561796",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://deepakmurugaian.substack.com/p/i-built-a-home-for-my-ride-photos",
+   "source": "HN",
+   "title": "Building a private family photo site with Claude Code",
+   "url": "https://deepakmurugaian.substack.com/p/i-built-a-home-for-my-ride-photos",
+   "created": "2026-11-19T13:49:46+00:00",
+   "metric_name": "points",
+   "metric": 1,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50560081",
+   "comments": 1
+  },
+  {
+   "id": "HN:https://termcove.com/",
+   "source": "HN",
+   "title": "TermCove Mac SSH client that lets Claude Code use your servers without your keys",
+   "url": "https://termcove.com/",
+   "created": "2026-11-19T12:04:57+00:00",
+   "metric_name": "points",
+   "metric": 1,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50559028",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://github.com/msertdev/deadweight",
+   "source": "HN",
+   "title": "Deadweight: What your Claude Code setup costs on every request",
+   "url": "https://github.com/msertdev/deadweight",
+   "created": "2026-11-19T09:14:23+00:00",
+   "metric_name": "points",
+   "metric": 1,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50557774",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://github.com/chayworks/milo-pointer",
+   "source": "HN",
+   "title": "Show HN: A 149M model handles 70% of phone-agent steps locally, Claude the rest",
+   "url": "https://github.com/chayworks/milo-pointer",
+   "created": "2026-11-18T21:44:59+00:00",
+   "metric_name": "points",
+   "metric": 1,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50552563",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://www.nytimes.com/2026/10/26/technology/anthropic-founders.html",
+   "source": "HN",
+   "title": "Anthropic Founders Who Just Became Multibillionaires",
+   "url": "https://www.nytimes.com/2026/10/26/technology/anthropic-founders.html",
+   "created": "2026-11-20T01:50:53+00:00",
+   "metric_name": "points",
+   "metric": 1,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50569163",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://news.ycombinator.com/item?id=50565222",
+   "source": "HN",
+   "title": "Ask HN: Safety Bully Anthropic right steward of our enterprise AI",
+   "url": "https://news.ycombinator.com/item?id=50565222",
+   "created": "2026-11-19T19:43:45+00:00",
+   "metric_name": "points",
+   "metric": 1,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50565222",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://aswathdamodaran.blogspot.com/2026/11/the-rocky-road-from-aggregate-to-per.html",
+   "source": "HN",
+   "title": "The Rocky Road from Aggregate to per Share Value: Anthropic's IPO Update",
+   "url": "https://aswathdamodaran.blogspot.com/2026/11/the-rocky-road-from-aggregate-to-per.html",
+   "created": "2026-11-19T19:04:33+00:00",
+   "metric_name": "points",
+   "metric": 1,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50564644",
+   "comments": 1
+  },
+  {
+   "id": "HN:http://dtgmvtlv5qhjf6tss7tss7237fj6uisqamqzkioynxrxgejfn6zzffad.onion/",
+   "source": "HN",
+   "title": "Exhibit 99.1: Anthropic's Delaware § 3556 Trust and $140B Standing Gate",
+   "url": "http://dtgmvtlv5qhjf6tss7tss7237fj6uisqamqzkioynxrxgejfn6zzffad.onion/",
+   "created": "2026-11-19T16:06:10+00:00",
+   "metric_name": "points",
+   "metric": 1,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50561906",
+   "comments": 0
+  },
+  {
+   "id": "HN:https://apnews.com/article/anthropic-ipo-nasdaq-ai-b6a74b8949021207dc162fcc876c4649",
+   "source": "HN",
+   "title": "Anthropic to debut IPO with a valuation of $1.5T",
+   "url": "https://apnews.com/article/anthropic-ipo-nasdaq-ai-b6a74b8949021207dc162fcc876c4649",
+   "created": "2026-11-19T08:48:10+00:00",
+   "metric_name": "points",
+   "metric": 1,
+   "relevance": 1,
+   "themes": [],
+   "platform": true,
+   "discussion": "https://news.ycombinator.com/item?id=50557606",
+   "comments": 0
+  },
+  {
+   "id": "GitHub 신규:https://github.com/rephraseai/gemini-cli-extension",
+   "source": "GitHub 신규",
+   "title": "rephraseai/gemini-cli-extension",
+   "url": "https://github.com/rephraseai/gemini-cli-extension",
+   "created": "2026-11-18T22:59:43+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 1,
+   "themes": [],
+   "platform": true
+  },
+  {
+   "id": "GitHub 신규:https://github.com/pdfluent/gemini-cli-pdfluent",
+   "source": "GitHub 신규",
+   "title": "pdfluent/gemini-cli-pdfluent",
+   "url": "https://github.com/pdfluent/gemini-cli-pdfluent",
+   "created": "2026-11-17T04:33:23+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 1,
+   "themes": [],
+   "platform": true
+  },
+  {
+   "id": "GitHub 신규:https://github.com/algorover/algorover-research-gemini",
+   "source": "GitHub 신규",
+   "title": "algorover/algorover-research-gemini",
+   "url": "https://github.com/algorover/algorover-research-gemini",
+   "created": "2026-11-19T06:05:34+00:00",
+   "metric_name": "stars",
+   "metric": 0,
+   "relevance": 1,
+   "themes": [],
+   "platform": true
+  },
+  {
+   "id": "GeekNews:https://news.hada.io/topic?id=37487&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Claude, 블랙홀 물리학의 미해결 문제 두 가지 해결",
+   "url": "https://news.hada.io/topic?id=37487&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "created": "2026-11-20T05:33:40+09:00",
+   "metric_name": "rss",
+   "metric": 0,
+   "relevance": 1,
+   "themes": [],
+   "platform": true
+  },
+  {
+   "id": "GeekNews:https://news.hada.io/topic?id=37484&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "너희 AI 안전장치 따위 엿 먹어라",
+   "url": "https://news.hada.io/topic?id=37484&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "created": "2026-11-20T04:47:32+09:00",
+   "metric_name": "rss",
+   "metric": 0,
+   "relevance": 1,
+   "themes": [],
+   "platform": true
+  },
+  {
+   "id": "GeekNews:https://news.hada.io/topic?id=37482&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "source": "GeekNews",
+   "title": "Anthropic, Nasdaq 상장 첫날 시가총액 약 2,600조원 도달",
+   "url": "https://news.hada.io/topic?id=37482&utm_source=geeknews&utm_medium=rss&utm_campaign=news",
+   "created": "2026-11-20T04:41:32+09:00",
+   "metric_name": "rss",
+   "metric": 0,
+   "relevance": 1,
+   "themes": [],
+   "platform": true
+  }
+ ]
+}

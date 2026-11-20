@@ -1,11 +1,11 @@
-🔎 AI 트렌드 레이더 2026-11-17 — 관심 2건
+🔎 AI 트렌드 레이더 2026-11-20 — 관심 2건
 
-• [Google Workspace Updates] Easily customize and extend Google Workspace with Gemini in Apps Script
-  공식 · ② 보고 덱·문서 작성
-  http://workspaceupdates.googleblog.com/feeds/4273089582993979350/comments/default
+• [GitHub 릴리스] docling-project/docling v2.151.0
+  stars 70798 · ① PDF·표 추출 → Raw data, ② 보고 덱·문서 작성
+  https://github.com/docling-project/docling/releases/tag/v2.151.0
 
-• [GitHub 릴리스] opendatalab/MinerU mineru-4.2.3-released
-  stars 83770 · ① PDF·표 추출 → Raw data
-  https://github.com/opendatalab/MinerU/releases/tag/mineru-4.2.3-released
+• [GitHub 릴리스] docling-project/docling v2.151.1
+  stars 70798 · ① PDF·표 추출 → Raw data
+  https://github.com/docling-project/docling/releases/tag/v2.151.1
 
-조회 실패 5곳: Reddit:ClaudeCode, Reddit:Anthropic, Reddit:GeminiAI, Reddit:Bard, Reddit:notebooklm
+조회 실패 6곳: Reddit:ClaudeAI, Reddit:ClaudeCode, Reddit:Anthropic, Reddit:GeminiAI, Reddit:Bard, Reddit:notebooklm
