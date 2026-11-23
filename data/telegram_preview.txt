@@ -1,11 +1,33 @@
-🔎 AI 트렌드 레이더 2026-11-23 — 관심 2건
+📅 AI 트렌드 주간 상위 (7일 기록 기준)
+분석 보고는 08:00 Drive 'AI Weekly'와 이메일로 갑니다.
 
-• [GitHub 신규] islaromero/libreoffice-win
-  stars 367 · ① PDF·표 추출 → Raw data, ② 보고 덱·문서 작성, 공통: 스킬·자동화
-  https://github.com/islaromero/libreoffice-win
+• [GitHub 신규] zstarczali/SkillStar
+  stars 3 · 하루 +1.0 stars · ① PDF·표 추출 → Raw data, ② 보고 덱·문서 작성, 공통: 스킬·자동화
+  https://github.com/zstarczali/SkillStar
 
-• [GitHub 신규] YASIRCAMPBELL2/acrobat-pro-win
-  stars 367 · ① PDF·표 추출 → Raw data, 공통: 스킬·자동화
-  https://github.com/YASIRCAMPBELL2/acrobat-pro-win
+• [GitHub 신규] Abdoam/one-page-cv
+  stars 2 · 하루 +0.0 stars · ① PDF·표 추출 → Raw data, ② 보고 덱·문서 작성, 공통: 스킬·자동화
+  https://github.com/Abdoam/one-page-cv
 
-조회 실패 6곳: Reddit:ClaudeAI, Reddit:ClaudeCode, Reddit:Anthropic, Reddit:GeminiAI, Reddit:Bard, Reddit:notebooklm
+• [GitHub 신규] OrtegaMatias/presentaciones-html
+  stars 2 · 하루 +0.0 stars · ① PDF·표 추출 → Raw data, ② 보고 덱·문서 작성, 공통: 스킬·자동화
+  https://github.com/OrtegaMatias/presentaciones-html
+
+• [GitHub 신규] shachafnave/gantt
+  stars 2 · 하루 +1.0 stars · ① PDF·표 추출 → Raw data, ② 보고 덱·문서 작성, 공통: 스킬·자동화
+  https://github.com/shachafnave/gantt
+
+• [GitHub 신규] takazawa/lecture-slides-skill
+  stars 1 · 하루 +0.0 stars · ① PDF·표 추출 → Raw data, ② 보고 덱·문서 작성, 공통: 스킬·자동화
+  https://github.com/takazawa/lecture-slides-skill
+
+• [GitHub 신규] Aleksa5000/build-cv
+  stars 1 · 하루 +0.0 stars · ① PDF·표 추출 → Raw data, ② 보고 덱·문서 작성, 공통: 스킬·자동화
+  https://github.com/Aleksa5000/build-cv
+
+• [GitHub 신규] stilwellc/palette
+  stars 1 · ① PDF·표 추출 → Raw data, ② 보고 덱·문서 작성, 공통: 스킬·자동화
+  https://github.com/stilwellc/palette
+
+워치리스트 Stars 증가(7일): anthropics/skills +16390, microsoft/markitdown +6469, anthropics/claude-code +4020, microsoft/playwright +2614, opendatalab/MinerU +1948
+조회 실패 누적: Reddit:ClaudeCode×7, Reddit:Anthropic×7, Reddit:GeminiAI×7, Reddit:Bard×7, Reddit:notebooklm×7, Reddit:ClaudeAI×6
