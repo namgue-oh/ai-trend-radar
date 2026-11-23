@@ -1,7 +1,11 @@
-🔎 AI 트렌드 레이더 2026-11-22 — 관심 1건
+🔎 AI 트렌드 레이더 2026-11-23 — 관심 2건
 
-• [GitHub 신규] JimLiu/open-artifact
-  stars 178 · ② 보고 덱·문서 작성, 공통: 스킬·자동화
-  https://github.com/JimLiu/open-artifact
+• [GitHub 신규] islaromero/libreoffice-win
+  stars 367 · ① PDF·표 추출 → Raw data, ② 보고 덱·문서 작성, 공통: 스킬·자동화
+  https://github.com/islaromero/libreoffice-win
+
+• [GitHub 신규] YASIRCAMPBELL2/acrobat-pro-win
+  stars 367 · ① PDF·표 추출 → Raw data, 공통: 스킬·자동화
+  https://github.com/YASIRCAMPBELL2/acrobat-pro-win
 
 조회 실패 6곳: Reddit:ClaudeAI, Reddit:ClaudeCode, Reddit:Anthropic, Reddit:GeminiAI, Reddit:Bard, Reddit:notebooklm
